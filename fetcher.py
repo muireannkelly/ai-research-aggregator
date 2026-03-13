@@ -52,6 +52,10 @@ ARXIV_QUERIES = [
     "cognitive science",
     "cognition",
     "teaching and learning", 
+    "learning outcomes",
+    "learner outcomes",
+    "learning efficacy",
+    "learning effectiveness",
     "pedagogy",
     "intelligent tutoring systems",
     "automated assessment",
@@ -114,7 +118,7 @@ def fetch_arxiv():
 def fetch_hacker_news():
     """Fetch Hacker News stories mentioning education or AI learning"""
     items = []
-    queries = ["AI education", "edtech", "learning AI", "Anthropic education"]
+    queries = ["AI in education", "edtech", "learning with AI", "Anthropic", "learning science", "pedagogy", "learning outcomes", "teaching and learning", "cognitive science"]
     try:
         for query in queries:
             cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=7)).timestamp())
