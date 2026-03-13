@@ -1,0 +1,40 @@
+name: Research Digest
+
+on:
+  schedule:
+    - cron: '0 7 * * 1'  # Every Monday at 7am UTC
+    - cron: '0 7 * * 4'  # Every Thursday at 7am UTC
+  workflow_dispatch:      # Allows you to run it manually anytime
+
+jobs:
+  fetch-and-group:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests openai certifi
+
+      - name: Run fetcher
+        run: python fetcher.py
+
+      - name: Run grouper
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python grouper.py
+
+      - name: Commit updated output.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add output.json
+          git diff --staged --quiet || git commit -m "Update digest $(date +'%Y-%m-%d')"
+          git push
