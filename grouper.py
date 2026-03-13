@@ -45,6 +45,15 @@ Important rules:
 - "AI in Education & Learning" should ONLY contain items directly about AI or technology as it relates to teaching, learning, students or educational institutions. Do NOT include general AI or tech news unless it has a clear education angle.
 - You MUST assign every single item. Do not skip any index numbers.
 - If an item does not clearly fit any theme, assign it to the closest match.
+- "AI in Education & Learning": ONLY articles about AI/technology directly related to teaching, learning, students or education. NOT general AI news.
+- "Assessment & Credentialing": exams, grading, qualifications, credentials, badges, certification
+- "Future of Work & Skills": careers, employment, workplace skills, economic trends, labour market
+- "Higher Education Policy": universities, colleges, policy, funding, regulation, government
+- "Learning Science & Design": pedagogy, curriculum, learning theory, instructional design, cognitive science
+- "Skills & Workforce Development": upskilling, reskilling, training, professional development, bootcamps, learning & development, L&D
+- "Research & Academic Papers": academic studies, papers, research findings, arXiv preprints
+- "Industry & Competitor News": EdTech companies, product launches, OpenAI, Google, Khan Academy, Anthropic, McGraw Hill, Pearson competitors
+- Every number from 0 to {len(batch)-1} MUST appear exactly once in your response.
 
 Return a JSON object where each key is a theme name and the value is a list of index numbers assigned to that theme.
 Only return the JSON, nothing else."""
@@ -90,23 +99,38 @@ Only return the JSON, nothing else."""
     return grouped
 
 def main():
-    # Load fetched items
     with open("output.json", "r") as f:
         items = json.load(f)
 
     print(f"Loaded {len(items)} items from output.json")
 
-    # Group them
     grouped = group_items(items)
 
-    # Print summary
-    for theme, theme_items in grouped.items():
+    # Remove duplicates across themes — keep first occurrence only
+    seen_urls = set()
+    deduplicated = {theme: [] for theme in THEMES}
+    total_kept = 0
+    total_removed = 0
+
+    for theme in THEMES:
+        for item in grouped[theme]:
+            url = item.get("url", "")
+            if url not in seen_urls:
+                seen_urls.add(url)
+                deduplicated[theme].append(item)
+                total_kept += 1
+            else:
+                total_removed += 1
+
+    if total_removed > 0:
+        print(f"Removed {total_removed} duplicate articles across themes")
+
+    for theme, theme_items in deduplicated.items():
         print(f"{theme}: {len(theme_items)} items")
 
-    # Save grouped output
     output = {
         "last_updated": __import__("datetime").datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"),
-        "themes": grouped
+        "themes": deduplicated
     }
 
     with open("output.json", "w") as f:
