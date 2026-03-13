@@ -9,7 +9,10 @@ THEMES = [
     "Assessment & Credentialing",
     "Future of Work & Skills",
     "Higher Education Policy",
-    "Learning Science & Design"
+    "Learning Science & Design",
+    "Skills & Workforce Development",
+    "Research & Academic Papers",
+    "Industry & Competitor News"
 ]
 
 def group_items(items):
