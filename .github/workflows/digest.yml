@@ -2,9 +2,9 @@ name: Research Digest
 
 on:
   schedule:
-    - cron: '0 7 * * 1'  # Every Monday at 7am UTC
-    - cron: '0 7 * * 4'  # Every Thursday at 7am UTC
-  workflow_dispatch:      # Allows you to run it manually anytime
+    - cron: '0 7 * * 1'
+    - cron: '0 7 * * 4'
+  workflow_dispatch:
 
 jobs:
   fetch-and-group:
@@ -21,7 +21,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser requests openai certifi
+          pip install feedparser requests openai certifi sendgrid
 
       - name: Run fetcher
         run: python fetcher.py
@@ -31,7 +31,7 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: python grouper.py
 
-   - name: Commit updated output.json
+      - name: Commit updated output.json
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
@@ -44,6 +44,4 @@ jobs:
           SENDGRID_API_KEY: ${{ secrets.SENDGRID_API_KEY }}
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
-        run: |
-          pip install sendgrid
-          python emailer.py
+        run: python emailer.py
