@@ -4,6 +4,7 @@ import json
 import ssl
 import certifi
 from datetime import datetime, timezone, timedelta
+from bs4 import BeautifulSoup
 
 ssl_context = ssl.create_default_context(cafile=certifi.where())
 
@@ -13,6 +14,7 @@ FEEDS = {
     "EdSurge": "https://www.edsurge.com/feed",
     "Research in Learning Technology": "https://journal.alt.ac.uk/index.php/rlt/gateway/plugin/WebFeedGatewayPlugin/rss2",
     "Khan Academy Blog": "https://blog.khanacademy.org/feed/",
+    "Education Next": "https://educationnext.org/feed",
 
     # Thought leaders
     "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
@@ -27,6 +29,9 @@ FEEDS = {
     "Alberto Romero (Algorithmic Bridge)": "https://thealgorithmicbridge.substack.com/feed",
     "John Warner (Biblioracle)": "https://biblioracle.substack.com/feed",
     "Michael Spencer (AI Supremacy)": "https://www.ai-supremacy.com/feed",
+    "Nik Bear Brown (Education & AI)": "https://www.skepticism.ai/s/education-and-ai/feed",
+    "Economic Innovation Group": "https://agglomerations.eig.org/feed",
+    "Dan Fitzpatrick (Forbes)": "https://www.forbes.com/sites/danfitzpatrick/feed/",
 
     # Competitor & org news
     "OpenAI News": "https://openai.com/news/rss.xml",
@@ -39,7 +44,13 @@ FEEDS = {
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
 
-ARXIV_QUERIES = ["assessment", "learning science", "cognition", "AI for learning", "AI in education", "Teaching", "pedagogy", "cognitive science", "automated grading"]
+ARXIV_QUERIES = [
+    "AI in education",
+    "intelligent tutoring systems",
+    "automated assessment education",
+    "large language models learning"
+]
+
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
 def parse_date(entry):
@@ -94,11 +105,81 @@ def fetch_arxiv():
             print(f"arXiv ({query}): error — {e}")
     return items
 
+def fetch_hacker_news():
+    """Fetch Hacker News stories mentioning education or AI learning"""
+    items = []
+    queries = ["AI education", "edtech", "learning AI", "Anthropic education"]
+    try:
+        for query in queries:
+            cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=7)).timestamp())
+            url = f"https://hn.algolia.com/api/v1/search?query={requests.utils.quote(query)}&tags=story&numericFilters=created_at_i>{cutoff_ts}&hitsPerPage=5"
+            response = requests.get(url, timeout=10)
+            data = response.json()
+            count = 0
+            for hit in data.get("hits", []):
+                title = hit.get("title", "No title")
+                story_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
+                points = hit.get("points", 0)
+                comments = hit.get("num_comments", 0)
+                # Only include stories with meaningful engagement
+                if points and points > 10:
+                    items.append({
+                        "title": title,
+                        "url": story_url,
+                        "source": "Hacker News",
+                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "description": f"{points} points, {comments} comments on Hacker News"
+                    })
+                    count += 1
+            print(f"Hacker News ({query}): {count} items found")
+    except Exception as e:
+        print(f"Hacker News: error — {e}")
+    return items
+
+def fetch_anthropic_news():
+    """Scrape Anthropic news page for recent posts"""
+    items = []
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; research-aggregator/1.0)"}
+        response = requests.get("https://www.anthropic.com/news", headers=headers, timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
+        count = 0
+        # Find article links on the page
+        for link in soup.find_all("a", href=True):
+            href = link["href"]
+            if "/news/" in href and href != "/news":
+                full_url = f"https://www.anthropic.com{href}" if href.startswith("/") else href
+                title = link.get_text(strip=True)
+                if title and len(title) > 10:
+                    items.append({
+                        "title": title,
+                        "url": full_url,
+                        "source": "Anthropic News",
+                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "description": "Latest news and announcements from Anthropic"
+                    })
+                    count += 1
+                    if count >= 5:
+                        break
+        print(f"Anthropic News: {count} items found")
+    except Exception as e:
+        print(f"Anthropic News: error — {e}")
+    return items
+
 def main():
-    all_items = fetch_rss() + fetch_arxiv()
-    print(f"\nTotal items collected: {len(all_items)}")
+    all_items = fetch_rss() + fetch_arxiv() + fetch_hacker_news() + fetch_anthropic_news()
+
+    # Deduplicate by URL
+    seen_urls = set()
+    unique_items = []
+    for item in all_items:
+        if item["url"] not in seen_urls and item["url"]:
+            seen_urls.add(item["url"])
+            unique_items.append(item)
+
+    print(f"\nTotal unique items collected: {len(unique_items)}")
     with open("output.json", "w") as f:
-        json.dump(all_items, f, indent=2)
+        json.dump(unique_items, f, indent=2)
     print("Saved to output.json")
 
 if __name__ == "__main__":
