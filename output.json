@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13 14:03 UTC",
+  "last_updated": "2026-03-13 15:28 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
@@ -24,39 +24,25 @@
         "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
       },
       {
-        "title": "Preparing Students for AI-Driven Agile Development: A Project-Based AI Engineering Curriculum",
-        "url": "https://arxiv.org/abs/2603.09599v1",
-        "source": "arXiv",
-        "date": "2026-03-10",
-        "description": "Generative AI and agentic tools are reshaping agile software development, yet many engineering curricula still teach agile methods and AI competencies separately and largely lecture-based. This paper presents a project-based AI Engineering curriculum designed to prepare students for AI-driven agile "
-      },
-      {
-        "title": "EducaSim: Interactive Simulacra for CS1 Instructional Practice",
-        "url": "https://arxiv.org/abs/2603.11444v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Role play is a high-impact mode of training that has demonstrated its effectiveness in improving learning outcomes. However, it is difficult to scale to teacher instruction due to its inherent dependency on providing personnel who are both trained and available to facilitate this learning environmen"
-      },
-      {
-        "title": "Using tablets and smartphones as experimental tools in the physics classroom: effects on learning and motivation",
-        "url": "https://arxiv.org/abs/2603.10959v1",
-        "source": "arXiv",
-        "date": "2026-03-11",
-        "description": "According to the literature, mobile devices as experimental tools (MDET) can offer educational benefits by creating authentic, real-life contexts for physics learning, enhancing student motivation through the use of familiar technology, and supporting cognitive processes by providing multiple repres"
-      },
-      {
-        "title": "Machinagogy: Experiments in Staging Teaching Dramas with LLMs",
-        "url": "https://arxiv.org/abs/2603.10450v1",
-        "source": "arXiv",
-        "date": "2026-03-11",
-        "description": "This paper describes an AI tutoring system built upon two psycho-social theoretic constructs: Hegelian recognition and Freudian psychodynamics. Two related interventions are proposed: recognition-enhanced prompts that instruct an AI tutor to treat the learner as an autonomous subject, and a multi-ag"
-      },
-      {
         "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
         "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
         "source": "The Guardian Education",
         "date": "2026-03-10",
         "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+      },
+      {
+        "title": "AI toys for young children must be more tightly regulated, say researchers",
+        "url": "https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers",
+        "source": "The Guardian Education",
+        "date": "2026-03-13",
+        "description": "<p>University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children</p><p>It was all going well. Charlotte, five, was chatting with an AI soft toy called Gabbo at a London play centre about her family, her drawing of a heart to represent them and what "
+      },
+      {
+        "title": "Trump Signs AI Executive Order as States Implement AI Laws",
+        "url": "https://er.educause.edu/articles/2026/3/trump-signs-ai-executive-order-as-states-implement-ai-laws",
+        "source": "EDUCAUSE Review",
+        "date": "2026-03-09",
+        "description": "In December 2025, President Trump issued an executive order establishing a national artificial intelligence (AI) policy framework, challenging stricter state AI laws, and tying certain federal funding to state compliance."
       },
       {
         "title": "Enabling Gemini for Education across all Malaysian public universities",
@@ -66,11 +52,60 @@
         "description": "A group of people posing for a photo on a stage at an event titled \"Bengkel Kepimpinan AI\" (AI Leadership Workshop). The image shows men and women standing in a line."
       },
       {
-        "title": "AI toys for young children must be more tightly regulated, say researchers",
-        "url": "https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers",
-        "source": "The Guardian Education",
+        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
+        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
+        "source": "EdSurge",
         "date": "2026-03-13",
-        "description": "<p>University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children</p><p>It was all going well. Charlotte, five, was chatting with an AI soft toy called Gabbo at a London play centre about her family, her drawing of a heart to represent them and what "
+        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
+      },
+      {
+        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
+        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
+        "source": "EdSurge",
+        "date": "2026-03-11",
+        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
+      },
+      {
+        "title": "The First Screen My Daughter Ever Saw",
+        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
+        "source": "EdSurge",
+        "date": "2026-03-10",
+        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
+      },
+      {
+        "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
+        "url": "https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/",
+        "source": "Education Next",
+        "date": "2026-03-11",
+        "description": "<p>A solution for the Anxious Generation is hiding in plain sight: Education Freedom Accounts</p>\n<p>The post <a href=\"https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/\">Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives</a> appeare"
+      },
+      {
+        "title": "Logged In, Tuned Out",
+        "url": "https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/",
+        "source": "Education Next",
+        "date": "2026-03-10",
+        "description": "<p>Fifteen years and billions of dollars later, what has learning tech accomplished?</p>\n<p>The post <a href=\"https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/\">Logged In, Tuned Out</a> appeared first on <a href=\"https://ww"
+      },
+      {
+        "title": "Will the Science of Reading Deliver This Time?",
+        "url": "https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>It\u2019s one bandwagon that might be worth jumping on, but it\u2019ll need to steer around some potholes</p>\n<p>The post <a href=\"https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/\">Will the Science of Reading Deliver This Time?</a> appeared first on <a href=\"https://www.educatio"
+      },
+      {
+        "title": "The Education Exchange: Today\u2019s Better Grades Could Mean Tomorrow\u2019s Smaller Paychecks",
+        "url": "https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>Paul E. Peterson interviews Jeff Denning, an associate professor at the University of Texas at Austin</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/\">The Education Exchange: Today\u2019s Better Grades Could Mea"
+      },
+      {
+        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
+        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
+        "source": "Education Next",
+        "date": "2026-03-12",
+        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
       }
     ],
     "Assessment & Credentialing": [],
@@ -83,13 +118,6 @@
         "description": "Will what worked for AI coding scale to Finance, Law and other knowledge work professions?"
       },
       {
-        "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-        "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop\u2019s intuitive agent builder is an example of the kind of tool that will unlock that potential."
-      },
-      {
         "title": "Atlassian follows Block\u2019s footsteps and cuts staff in the name of AI",
         "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
         "source": "TechCrunch",
@@ -97,11 +125,32 @@
         "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI."
       },
       {
-        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
-        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
-        "source": "EdSurge",
+        "title": "Ambient Computing via Voice AI is about to Enter its Golden Age in 2027",
+        "url": "https://www.ai-supremacy.com/p/ambient-computing-via-voice-ai-agents-future-2026",
+        "source": "Michael Spencer (AI Supremacy)",
         "date": "2026-03-13",
-        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
+        "description": "Genspark Workspace 2.0: What&#8217;s The Big Idea? Daniel Nest explores. OpenAI losing marketshare."
+      },
+      {
+        "title": "Building a strong data infrastructure for AI agent success",
+        "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-10",
+        "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u"
+      },
+      {
+        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-12",
+        "description": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as t"
+      },
+      {
+        "title": "Security Considerations for Artificial Intelligence Agents",
+        "url": "https://arxiv.org/abs/2603.12230v1",
+        "source": "arXiv",
+        "date": "2026-03-12",
+        "description": "This article, a lightly adapted version of Perplexity's response to NIST/CAISI Request for Information 2025-0035, details our observations and recommendations concerning the security of frontier AI agents. These insights are informed by Perplexity's experience operating general-purpose agentic syste"
       }
     ],
     "Higher Education Policy": [
@@ -136,11 +185,11 @@
         "description": "<p>If you\u2019re searching for NGSS-aligned science lessons that go beyond worksheets and actually get students thinking, building, and investigating \u2014 this is your moment. ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-fo"
       },
       {
-        "title": "Student experiences in a computational physics lab through the lens of Physics Computational Literacy",
-        "url": "https://arxiv.org/abs/2603.12158v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Computational physics is a key part of what it means to do physics in the twenty-first century. However, upper division computational physics remains a largely understudied area. We set out to understand the experiences of students in an upper division computational physics lab course. To that end w"
+        "title": "Will the Science of Reading Deliver This Time?",
+        "url": "https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>It\u2019s one bandwagon that might be worth jumping on, but it\u2019ll need to steer around some potholes</p>\n<p>The post <a href=\"https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/\">Will the Science of Reading Deliver This Time?</a> appeared first on <a href=\"https://www.educatio"
       },
       {
         "title": "Investigating student perceptions of creativity and generative ai in computational physics",
@@ -150,11 +199,18 @@
         "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
       },
       {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-        "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
+        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
+        "source": "Education Next",
+        "date": "2026-03-12",
+        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+      },
+      {
+        "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
+        "url": "https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/",
+        "source": "Education Next",
+        "date": "2026-03-11",
+        "description": "<p>A solution for the Anxious Generation is hiding in plain sight: Education Freedom Accounts</p>\n<p>The post <a href=\"https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/\">Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives</a> appeare"
       }
     ]
   }
