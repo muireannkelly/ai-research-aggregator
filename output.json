@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-13 09:58 UTC",
+  "last_updated": "2026-03-13 10:15 UTC",
   "themes": {
-    "AI & Machine Learning": [
+    "AI in Education & Learning": [
       {
         "title": "Trump Signs AI Executive Order as States Implement AI Laws",
         "url": "https://er.educause.edu/articles/2026/3/trump-signs-ai-executive-order-as-states-implement-ai-laws",
@@ -31,71 +31,16 @@
         "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
       },
       {
-        "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
-        "url": "https://arxiv.org/abs/2603.12226v1",
+        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
+        "url": "https://arxiv.org/abs/2603.12154v1",
         "source": "arXiv",
         "date": "2026-03-12",
-        "description": "Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, by"
-      },
-      {
-        "title": "LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation",
-        "url": "https://arxiv.org/abs/2603.12152v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "The rapid advancement of large language models (LLMs) has accelerated progress toward universal AI assistants. However, existing benchmarks for personalized assistants remain misaligned with real-world user-assistant interactions, failing to capture the complexity of external contexts and users' cog"
-      },
-      {
-        "title": "Increasing intelligence in AI agents can worsen collective outcomes",
-        "url": "https://arxiv.org/abs/2603.12129v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "When resources are scarce, will a population of AI agents coordinate in harmony, or descend into tribal chaos? Diverse decision-making AI from different developers is entering everyday devices -- from phones and medical devices to battlefield drones and cars -- and these AI agents typically compete "
-      },
-      {
-        "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
-        "url": "https://arxiv.org/abs/2603.12265v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Modern visual agents require representations that are general, causal, and physically structured to operate in real-time streaming environments. However, current vision foundation models remain fragmented, specializing narrowly in image semantic perception, offline temporal modeling, or spatial geom"
-      },
-      {
-        "title": "$\u03a8_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation",
-        "url": "https://arxiv.org/abs/2603.12263v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "We introduce $\u03a8_0$ (Psi-Zero), an open foundation model to address challenging humanoid loco-manipulation tasks. While existing approaches often attempt to address this fundamental problem by co-training on large and diverse human and humanoid data, we argue that this strategy is suboptimal due to t"
-      },
-      {
-        "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2603.12257v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "While large-scale diffusion models have revolutionized video synthesis, achieving precise control over both multi-subject identity and multi-granularity motion remains a significant challenge. Recent attempts to bridge this gap often suffer from limited motion granularity, control ambiguity, and ide"
-      },
-      {
-        "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
-        "url": "https://arxiv.org/abs/2603.12262v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Online Video Large Language Models (VideoLLMs) play a critical role in supporting responsive, real-time interaction. Existing methods focus on streaming perception, lacking a synchronized logical reasoning stream. However, directly applying test-time scaling methods incurs unacceptable response late"
-      },
-      {
-        "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
-        "url": "https://arxiv.org/abs/2603.12201v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Long-context agentic workflows have emerged as a defining use case for large language models, making attention efficiency critical for both inference speed and serving cost. Sparse attention addresses this challenge effectively, and DeepSeek Sparse Attention (DSA) is a representative production-grad"
-      },
-      {
-        "title": "HATS: Hardness-Aware Trajectory Synthesis for GUI Agents",
-        "url": "https://arxiv.org/abs/2603.12138v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Graphical user interface (GUI) agents powered by large vision-language models (VLMs) have shown remarkable potential in automating digital tasks, highlighting the need for high-quality trajectory data to support effective agent training. Yet existing trajectory synthesis pipelines often yield agents"
+        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
       }
     ],
     "Assessment & Credentialing": [],
-    "Future of Work & Skills": [
+    "Future of Work & Skills": [],
+    "Higher Education Policy": [
       {
         "title": "Hotline: Cybersecurity and Privacy | March 2026",
         "url": "https://er.educause.edu/articles/2026/3/hotline-cybersecurity-and-privacy-march-2026",
@@ -104,41 +49,11 @@
         "description": "\"Hotline: Cybersecurity and Privacy\" tackles the philosophical, moral, strategic, and organizational quandaries related to higher education cybersecurity, privacy, and data. This month, Mike answers your questions about cybersecurity strategy, CMMC/CUI-compliant research computing and storage infras"
       },
       {
-        "title": "Short tempers and legal threats: UK teachers report rise in problem parents",
-        "url": "https://www.theguardian.com/education/2026/mar/13/teachers-mental-heath-parents-behaviour-education",
-        "source": "The Guardian Education",
-        "date": "2026-03-13",
-        "description": "<p>Rudeness, social media posts and AI-generated complaints among issues harming staff wellbeing, union survey finds</p><p>Teachers are used to outbreaks of rudeness and defiance from their pupils, but are now saying parents are some of the worst offenders and affecting staff mental health, accordin"
-      },
-      {
-        "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-        "url": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop\u2019s intuitive agent builder is an example of the kind of tool that will unlock that potential."
-      }
-    ],
-    "Higher Education Policy": [
-      {
-        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
-        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
-        "source": "EdSurge",
-        "date": "2026-03-11",
-        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
-      },
-      {
         "title": "MPs launch student loans inquiry amid \u2018perfect storm\u2019 for young people in UK",
         "url": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
         "source": "The Guardian Education",
         "date": "2026-03-12",
         "description": "<p>Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/mar/11/uk-companies-struggling-to-hire-young-people-amid-cost-pressures-mps-told\">UK firms struggling to hire young people amid c"
-      },
-      {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-        "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
       }
     ],
     "Learning Science & Design": [
@@ -157,6 +72,13 @@
         "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
       },
       {
+        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
+        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
+        "source": "EdSurge",
+        "date": "2026-03-11",
+        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
+      },
+      {
         "title": "The First Screen My Daughter Ever Saw",
         "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
         "source": "EdSurge",
@@ -171,11 +93,11 @@
         "description": "First, it was no phones in schools. Now, amid the debate around edtech, schools are looking to go screen free."
       },
       {
-        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
-        "url": "https://arxiv.org/abs/2603.12154v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
+        "title": "\u2018It\u2019s like a giant book club\u2019: how schools are getting children excited about reading again",
+        "url": "https://www.theguardian.com/books/2026/mar/13/school-children-excited-about-reading-book-club",
+        "source": "The Guardian Education",
+        "date": "2026-03-13",
+        "description": "<p>In the National Year of Reading, teachers say a culture of enthusiasm, from dress-up days, story time and book clubs, can reverse a national decline</p><p>Ajmal, 7, is an avid fan of the InvestiGators comic books. They feature two crime-busting alligator secret agents called Mango and Brash. \u201cIt\u2019"
       }
     ]
   }
