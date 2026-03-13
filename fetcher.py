@@ -18,12 +18,12 @@ FEEDS = {
     "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
     "Lilach Mollick": "https://lilachmollick.substack.com/feed",
     "Azeem Azhar (Exponential View)": "https://www.exponentialview.co/feed",
-    "Andrew Ng (The Batch)": "https://www.deeplearning.ai/the-batch/feed/",
+    "Andrew Ng (The Batch)": "https://read.deeplearning.ai/the-batch/feed/",
     "Erik Brynjolfsson": "https://brynjolfsson.substack.com/feed",
     "Steve Fitzpatrick": "https://fitzyhistory.substack.com/feed",
     "Amanda Askell": "https://www.askell.blog/feed",
     "Zvi Mowshowitz": "https://thezvi.substack.com/feed",
-    "Jack Clark (Import AI)": "https://importai.substack.com/feed",
+    "Jack Clark (Import AI)": "https://jack-clark.net/feed",
     "Alberto Romero (Algorithmic Bridge)": "https://thealgorithmicbridge.substack.com/feed",
     "John Warner (Biblioracle)": "https://biblioracle.substack.com/feed",
     "Michael Spencer (AI Supremacy)": "https://www.ai-supremacy.com/feed",
@@ -39,7 +39,7 @@ FEEDS = {
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
 
-ARXIV_QUERIES = ["assessment", "learning science", "cognition", "cognitive science", "automated grading"]
+ARXIV_QUERIES = ["assessment", "learning science", "cognition", "AI for learning", "AI in education", "Teaching", "pedagogy", "cognitive science", "automated grading"]
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
 def parse_date(entry):
