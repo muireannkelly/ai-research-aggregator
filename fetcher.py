@@ -20,7 +20,7 @@ FEEDS = {
     "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
     "Lilach Mollick": "https://lilachmollick.substack.com/feed",
     "Azeem Azhar (Exponential View)": "https://www.exponentialview.co/feed",
-    "Andrew Ng (The Batch)": "https://read.deeplearning.ai/the-batch/feed/",
+    "Andrew Ng (The Batch)": "https://www.deeplearning.ai/the-batch/tag/science/",
     "Erik Brynjolfsson": "https://brynjolfsson.substack.com/feed",
     "Steve Fitzpatrick": "https://fitzyhistory.substack.com/feed",
     "Amanda Askell": "https://www.askell.blog/feed",
@@ -39,7 +39,7 @@ FEEDS = {
 
     # News
     "The Guardian Education": "https://www.theguardian.com/education/rss",
-    "Times Higher Education": "https://www.timeshighereducation.com/rss.xml",
+    "Inside Higher Ed": "https://www.insidehighered.com/rss.xml",
     "TechCrunch": "https://techcrunch.com/feed/",
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
