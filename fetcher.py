@@ -39,7 +39,7 @@ FEEDS = {
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
 
-ARXIV_QUERIES = ["AI assessment", "machine learning education", "automated grading"]
+ARXIV_QUERIES = ["assessment", "learning science", "cognition", "cognitive science", "automated grading"]
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
 def parse_date(entry):
