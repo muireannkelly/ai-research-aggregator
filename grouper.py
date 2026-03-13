@@ -5,7 +5,7 @@ from openai import OpenAI
 client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 
 THEMES = [
-    "AI & Machine Learning",
+    "AI in Education & Learning",
     "Assessment & Credentialing",
     "Future of Work & Skills",
     "Higher Education Policy",
@@ -23,14 +23,14 @@ def group_items(items):
         item_list += f"{i}. {item['title']} — {item['description'][:150]}\n"
 
     prompt = f"""You are a research assistant for a thought leadership team focused on AI, learning and assessment.
-
 Here is a list of articles and papers, each with an index number:
-
 {item_list}
-
 Assign each item to exactly one of these themes:
 {chr(10).join(THEMES)}
-
+Important rules:
+- "AI in Education & Learning" should ONLY contain items directly about AI or technology as it relates to teaching, learning, students or educational institutions. Do NOT include general AI or tech news unless it has a clear education angle.
+- If an item does not clearly fit any theme, assign it to the closest match.
+- Every item must be assigned to exactly one theme.
 Return a JSON object where each key is a theme name and the value is a list of index numbers assigned to that theme.
 Only return the JSON, nothing else."""
 
