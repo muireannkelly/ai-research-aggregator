@@ -52,12 +52,21 @@ Only return the JSON, nothing else."""
 
     theme_indices = json.loads(raw)
 
-    # Build grouped output
+  # Build grouped output
     grouped = {theme: [] for theme in THEMES}
+    assigned_indices = set()
     for theme, indices in theme_indices.items():
         for idx in indices:
             if 0 <= int(idx) < len(items):
                 grouped[theme].append(items[int(idx)])
+                assigned_indices.add(int(idx))
+    
+    # Catch any items that weren't assigned and put in best-fit theme
+    unassigned = [i for i in range(len(items)) if i not in assigned_indices]
+    if unassigned:
+        print(f"Warning: {len(unassigned)} items unassigned, adding to AI in Education & Learning")
+        for idx in unassigned:
+            grouped["AI in Education & Learning"].append(items[idx])
 
     return grouped
 
