@@ -8,12 +8,35 @@ from datetime import datetime, timezone, timedelta
 ssl_context = ssl.create_default_context(cafile=certifi.where())
 
 FEEDS = {
+    # Education blogs & journals
     "EDUCAUSE Review": "https://er.educause.edu/rss",
     "EdSurge": "https://www.edsurge.com/feed",
     "Research in Learning Technology": "https://journal.alt.ac.uk/index.php/rlt/gateway/plugin/WebFeedGatewayPlugin/rss2",
+    "Khan Academy Blog": "https://blog.khanacademy.org/feed/",
+
+    # Thought leaders
+    "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
+    "Lilach Mollick": "https://lilachmollick.substack.com/feed",
+    "Azeem Azhar (Exponential View)": "https://www.exponentialview.co/feed",
+    "Andrew Ng (The Batch)": "https://www.deeplearning.ai/the-batch/feed/",
+    "Erik Brynjolfsson": "https://brynjolfsson.substack.com/feed",
+    "Steve Fitzpatrick": "https://fitzyhistory.substack.com/feed",
+    "Amanda Askell": "https://www.askell.blog/feed",
+    "Zvi Mowshowitz": "https://thezvi.substack.com/feed",
+    "Jack Clark (Import AI)": "https://importai.substack.com/feed",
+    "Alberto Romero (Algorithmic Bridge)": "https://thealgorithmicbridge.substack.com/feed",
+    "John Warner (Biblioracle)": "https://biblioracle.substack.com/feed",
+    "Michael Spencer (AI Supremacy)": "https://www.ai-supremacy.com/feed",
+
+    # Competitor & org news
+    "OpenAI News": "https://openai.com/news/rss.xml",
+    "Google Education Blog": "https://blog.google/outreach-initiatives/education/rss/",
+
+    # News
     "The Guardian Education": "https://www.theguardian.com/education/rss",
     "Times Higher Education": "https://www.timeshighereducation.com/rss.xml",
     "TechCrunch": "https://techcrunch.com/feed/",
+    "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
 
 ARXIV_QUERIES = ["AI assessment", "machine learning education", "automated grading"]
