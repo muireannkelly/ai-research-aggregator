@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13 15:28 UTC",
+  "last_updated": "2026-03-13 15:35 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
@@ -17,6 +17,13 @@
         "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
       },
       {
+        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
+        "source": "The Guardian Education",
+        "date": "2026-03-10",
+        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+      },
+      {
         "title": "Investigating student perceptions of creativity and generative ai in computational physics",
         "url": "https://arxiv.org/abs/2603.12154v1",
         "source": "arXiv",
@@ -24,11 +31,18 @@
         "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
       },
       {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-        "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+        "title": "How Libraries Shape AI Literacy on Campus",
+        "url": "https://www.insidehighered.com/news/student-success/academic-life/2026/03/13/how-libraries-shape-ai-literacy-campus",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>How Libraries Shape AI Literacy on Campus</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Group of Black students studying individually at a table at a college library.\" height=\"1501\" src=\"https://"
+      },
+      {
+        "title": "AI, Ethics and You",
+        "url": "https://www.insidehighered.com/opinion/views/2026/03/13/ai-ethics-and-you-opinion",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>AI, Ethics and You</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A cartoon-like chatbot icon sits in front of a laptop computer.\" height=\"1732\" src=\"https://www.insidehighered.com/sites/default/f"
       },
       {
         "title": "AI toys for young children must be more tightly regulated, say researchers",
@@ -50,27 +64,6 @@
         "source": "Google Education Blog",
         "date": "2026-03-08",
         "description": "A group of people posing for a photo on a stage at an event titled \"Bengkel Kepimpinan AI\" (AI Leadership Workshop). The image shows men and women standing in a line."
-      },
-      {
-        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
-        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
-        "source": "EdSurge",
-        "date": "2026-03-13",
-        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
-      },
-      {
-        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
-        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
-        "source": "EdSurge",
-        "date": "2026-03-11",
-        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
-      },
-      {
-        "title": "The First Screen My Daughter Ever Saw",
-        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
-        "source": "EdSurge",
-        "date": "2026-03-10",
-        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
       },
       {
         "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
@@ -106,9 +99,59 @@
         "source": "Education Next",
         "date": "2026-03-12",
         "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+      },
+      {
+        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
+        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
+        "source": "EdSurge",
+        "date": "2026-03-13",
+        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
+      },
+      {
+        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
+        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
+        "source": "EdSurge",
+        "date": "2026-03-11",
+        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
+      },
+      {
+        "title": "The First Screen My Daughter Ever Saw",
+        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
+        "source": "EdSurge",
+        "date": "2026-03-10",
+        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
+      },
+      {
+        "title": "Screen-Free Schools? Some Legislators Push for a New Normal",
+        "url": "https://www.edsurge.com/news/2026-03-09-screen-free-schools-some-legislators-push-for-a-new-normal",
+        "source": "EdSurge",
+        "date": "2026-03-09",
+        "description": "First, it was no phones in schools. Now, amid the debate around edtech, schools are looking to go screen free."
+      },
+      {
+        "title": "Science Should Feel Like Science: New Hands-On & NGSS-Aligned Resources for Grades 5\u20138",
+        "url": "https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-for-grades-5-8/",
+        "source": "Khan Academy Blog",
+        "date": "2026-03-09",
+        "description": "<p>If you\u2019re searching for NGSS-aligned science lessons that go beyond worksheets and actually get students thinking, building, and investigating \u2014 this is your moment. ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-fo"
       }
     ],
-    "Assessment & Credentialing": [],
+    "Assessment & Credentialing": [
+      {
+        "title": "Harvard to Tackle Grade Inflation With Cap on A\u2019s",
+        "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>Harvard to Tackle Grade Inflation With Cap on A\u2019s</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of hot air balloons made out of letter grades floating over a countryside.\" he"
+      },
+      {
+        "title": "The Education Exchange: Today\u2019s Better Grades Could Mean Tomorrow\u2019s Smaller Paychecks",
+        "url": "https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>Paul E. Peterson interviews Jeff Denning, an associate professor at the University of Texas at Austin</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/\">The Education Exchange: Today\u2019s Better Grades Could Mea"
+      }
+    ],
     "Future of Work & Skills": [
       {
         "title": "The U.S. Labor Market and its AI problem",
@@ -125,25 +168,32 @@
         "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI."
       },
       {
-        "title": "Ambient Computing via Voice AI is about to Enter its Golden Age in 2027",
-        "url": "https://www.ai-supremacy.com/p/ambient-computing-via-voice-ai-agents-future-2026",
-        "source": "Michael Spencer (AI Supremacy)",
-        "date": "2026-03-13",
-        "description": "Genspark Workspace 2.0: What&#8217;s The Big Idea? Daniel Nest explores. OpenAI losing marketshare."
+        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+        "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+        "source": "TechCrunch",
+        "date": "2026-03-12",
+        "description": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating."
       },
       {
-        "title": "Building a strong data infrastructure for AI agent success",
-        "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+        "title": "A writer is suing Grammarly for turning her and other authors into \u2018AI editors\u2019 without consent",
+        "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+        "source": "TechCrunch",
+        "date": "2026-03-12",
+        "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights."
+      },
+      {
+        "title": "Future AI chips could be built on glass",
+        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
         "source": "MIT Technology Review",
-        "date": "2026-03-10",
-        "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u"
+        "date": "2026-03-13",
+        "description": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation"
       },
       {
-        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
-        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "title": "Pragmatic by design: Engineering AI for the real world",
+        "url": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
         "source": "MIT Technology Review",
         "date": "2026-03-12",
-        "description": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as t"
+        "description": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people alive. More and more, product engineers are turning to AI to enhance, validate, and streamline the desig"
       },
       {
         "title": "Security Considerations for Artificial Intelligence Agents",
@@ -169,20 +219,34 @@
         "description": "<p>Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/mar/11/uk-companies-struggling-to-hire-young-people-amid-cost-pressures-mps-told\">UK firms struggling to hire young people amid c"
       },
       {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
-        "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+        "title": "Iowa House Advances Bill to Limit Use of H-1B Visas",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/03/13/iowa-house-advances-bill-limit-use-h-1b-visas",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>Iowa House Advances Bill to Limit Use of H-1B Visas</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"University of Iowa building\" height=\"548\" src=\"https://www.insidehighered.com/sites/default/files"
+      },
+      {
+        "title": "Asian Campuses Shut to Save Energy Amid Middle East Conflict",
+        "url": "https://www.insidehighered.com/news/global/2026/03/13/asian-campuses-shut-save-energy-amid-middle-east-conflict",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>Asian Campuses Shut to Save Energy Amid Middle East Conflict</span>\n\n<span><span>sara.custer@in\u2026</span></span>\n\n<span><time datetime=\"2026-03-13T03:00:00-04:00\" title=\"Friday, March 13, 2026 - 03:00 AM\">Fri, 03/13/2026 - 03:00 AM</time>\n</span>\n<p><span>Fallout from spike in oil prices disrupt"
       }
     ],
     "Learning Science & Design": [
       {
-        "title": "Science Should Feel Like Science: New Hands-On & NGSS-Aligned Resources for Grades 5\u20138",
-        "url": "https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-for-grades-5-8/",
-        "source": "Khan Academy Blog",
-        "date": "2026-03-09",
-        "description": "<p>If you\u2019re searching for NGSS-aligned science lessons that go beyond worksheets and actually get students thinking, building, and investigating \u2014 this is your moment. ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-fo"
+        "title": "Student experiences in a computational physics lab through the lens of Physics Computational Literacy",
+        "url": "https://arxiv.org/abs/2603.12158v1",
+        "source": "arXiv",
+        "date": "2026-03-12",
+        "description": "Computational physics is a key part of what it means to do physics in the twenty-first century. However, upper division computational physics remains a largely understudied area. We set out to understand the experiences of students in an upper division computational physics lab course. To that end w"
+      },
+      {
+        "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
+        "url": "https://arxiv.org/abs/2603.12226v1",
+        "source": "arXiv",
+        "date": "2026-03-12",
+        "description": "Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, by"
       },
       {
         "title": "Will the Science of Reading Deliver This Time?",
@@ -192,18 +256,11 @@
         "description": "<p>It\u2019s one bandwagon that might be worth jumping on, but it\u2019ll need to steer around some potholes</p>\n<p>The post <a href=\"https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/\">Will the Science of Reading Deliver This Time?</a> appeared first on <a href=\"https://www.educatio"
       },
       {
-        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
-        "url": "https://arxiv.org/abs/2603.12154v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
-      },
-      {
-        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
-        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
+        "title": "Logged In, Tuned Out",
+        "url": "https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/",
         "source": "Education Next",
-        "date": "2026-03-12",
-        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+        "date": "2026-03-10",
+        "description": "<p>Fifteen years and billions of dollars later, what has learning tech accomplished?</p>\n<p>The post <a href=\"https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/\">Logged In, Tuned Out</a> appeared first on <a href=\"https://ww"
       },
       {
         "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
