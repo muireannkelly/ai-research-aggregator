@@ -17,56 +17,72 @@ def group_items(items):
         print("No items to group")
         return {theme: [] for theme in THEMES}
 
-    # Build a simple list of titles + descriptions for the prompt
-    item_list = ""
-    for i, item in enumerate(items):
-        item_list += f"{i}. {item['title']} — {item['description'][:150]}\n"
+    grouped = {theme: [] for theme in THEMES}
 
-    prompt = f"""You are a research assistant for a thought leadership team focused on AI, learning and assessment.
+    # Process in batches of 30 to avoid OpenAI context limits
+    batch_size = 30
+    batches = [items[i:i + batch_size] for i in range(0, len(items), batch_size)]
+    print(f"Processing {len(items)} items in {len(batches)} batches...")
+
+    for batch_num, batch in enumerate(batches):
+        item_list = ""
+        for i, item in enumerate(batch):
+            item_list += f"{i}. {item['title']} — {item['description'][:150]}\n"
+
+        prompt = f"""You are a research assistant for a thought leadership team focused on AI, learning and assessment.
+
 Here is a list of articles and papers, each with an index number:
+
 {item_list}
-Assign each item to exactly one of these themes:
+
+Assign EVERY item to exactly one of these themes:
 {chr(10).join(THEMES)}
+
 Important rules:
 - "AI in Education & Learning" should ONLY contain items directly about AI or technology as it relates to teaching, learning, students or educational institutions. Do NOT include general AI or tech news unless it has a clear education angle.
+- You MUST assign every single item. Do not skip any index numbers.
 - If an item does not clearly fit any theme, assign it to the closest match.
-- Every item must be assigned to exactly one theme.
+
 Return a JSON object where each key is a theme name and the value is a list of index numbers assigned to that theme.
 Only return the JSON, nothing else."""
 
-    print("Sending to OpenAI for grouping...")
-    response = client.chat.completions.create(
-        model="gpt-4o-mini",
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0
-    )
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o-mini",
+                messages=[{"role": "user", "content": prompt}],
+                temperature=0
+            )
 
-    raw = response.choices[0].message.content.strip()
-    
-    # Clean up response in case it has markdown code fences
-    if raw.startswith("```"):
-        raw = raw.split("```")[1]
-        if raw.startswith("json"):
-            raw = raw[4:]
-    raw = raw.strip()
+            raw = response.choices[0].message.content.strip()
+            if raw.startswith("```"):
+                raw = raw.split("```")[1]
+                if raw.startswith("json"):
+                    raw = raw[4:]
+            raw = raw.strip()
 
-    theme_indices = json.loads(raw)
+            theme_indices = json.loads(raw)
 
-  # Build grouped output
-    grouped = {theme: [] for theme in THEMES}
-    assigned_indices = set()
-    for theme, indices in theme_indices.items():
-        for idx in indices:
-            if 0 <= int(idx) < len(items):
-                grouped[theme].append(items[int(idx)])
-                assigned_indices.add(int(idx))
-    
-    # Catch any items that weren't assigned and put in best-fit theme
-    unassigned = [i for i in range(len(items)) if i not in assigned_indices]
-    if unassigned:
-        print(f"Warning: {len(unassigned)} items unassigned, adding to AI in Education & Learning")
-        for idx in unassigned:
-            grouped["AI in Education & Learning"].append(items[idx])
+            assigned_in_batch = set()
+            for theme, indices in theme_indices.items():
+                if theme in grouped:
+                    for idx in indices:
+                        if 0 <= int(idx) < len(batch):
+                            grouped[theme].append(batch[int(idx)])
+                            assigned_in_batch.add(int(idx))
+
+            # Catch any unassigned items in this batch
+            unassigned = [i for i in range(len(batch)) if i not in assigned_in_batch]
+            if unassigned:
+                print(f"Batch {batch_num + 1}: {len(unassigned)} unassigned items added to closest theme")
+                for idx in unassigned:
+                    grouped["AI in Education & Learning"].append(batch[idx])
+
+            print(f"Batch {batch_num + 1}/{len(batches)}: {len(batch)} items processed")
+
+        except Exception as e:
+            print(f"Batch {batch_num + 1} error: {e}")
+            for item in batch:
+                grouped["AI in Education & Learning"].append(item)
 
     return grouped
 
