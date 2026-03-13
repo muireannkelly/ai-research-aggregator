@@ -1,20 +1,13 @@
 {
-  "last_updated": "2026-03-13 13:59 UTC",
+  "last_updated": "2026-03-13 14:03 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
-        "title": "Students\u2019 perspectives on AI conversations in brainstorming within learning management systems in higher education",
-        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3674",
-        "source": "Research in Learning Technology",
-        "date": "2026-03-13",
-        "description": "<p>This article explores students\u2019 perspectives on how AI conversations can enhance brainstorming within the Learning Management System (LMS), specifically Blackboard (BB). By analysing students\u2019 feedback, the study investigates how students are familiar with AI conversation, benefits, challenges, a"
-      },
-      {
-        "title": "META messenger AI tutoring for developing graphical reasoning in rotational kinematics and science process skills",
-        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3632",
-        "source": "Research in Learning Technology",
-        "date": "2026-03-10",
-        "description": "<p>Graphical reasoning in rotational kinematics remains a persistent challenge for secondary students, largely due to difficulties in interpreting and connecting angular displacement, velocity, and acceleration graphs. Similarly, the integration of science process skills (SPS) in physics instruction"
+        "title": "Are Wearables the Next Big Thing in Higher Ed Tech?",
+        "url": "https://er.educause.edu/podcasts/educause-shop-talk/2026/are-wearables-the-next-big-thing-in-higher-ed-tech",
+        "source": "EDUCAUSE Review",
+        "date": "2026-03-09",
+        "description": "Sophie and Jenay talk with a team from the University of Notre Dame about their research on using smart glasses to support accessibility in teaching and learning."
       },
       {
         "title": "New ways to learn math and science in ChatGPT",
@@ -24,11 +17,39 @@
         "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
       },
       {
-        "title": "Enabling Gemini for Education across all Malaysian public universities",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/",
-        "source": "Google Education Blog",
-        "date": "2026-03-08",
-        "description": "A group of people posing for a photo on a stage at an event titled \"Bengkel Kepimpinan AI\" (AI Leadership Workshop). The image shows men and women standing in a line."
+        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
+        "url": "https://arxiv.org/abs/2603.12154v1",
+        "source": "arXiv",
+        "date": "2026-03-12",
+        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
+      },
+      {
+        "title": "Preparing Students for AI-Driven Agile Development: A Project-Based AI Engineering Curriculum",
+        "url": "https://arxiv.org/abs/2603.09599v1",
+        "source": "arXiv",
+        "date": "2026-03-10",
+        "description": "Generative AI and agentic tools are reshaping agile software development, yet many engineering curricula still teach agile methods and AI competencies separately and largely lecture-based. This paper presents a project-based AI Engineering curriculum designed to prepare students for AI-driven agile "
+      },
+      {
+        "title": "EducaSim: Interactive Simulacra for CS1 Instructional Practice",
+        "url": "https://arxiv.org/abs/2603.11444v1",
+        "source": "arXiv",
+        "date": "2026-03-12",
+        "description": "Role play is a high-impact mode of training that has demonstrated its effectiveness in improving learning outcomes. However, it is difficult to scale to teacher instruction due to its inherent dependency on providing personnel who are both trained and available to facilitate this learning environmen"
+      },
+      {
+        "title": "Using tablets and smartphones as experimental tools in the physics classroom: effects on learning and motivation",
+        "url": "https://arxiv.org/abs/2603.10959v1",
+        "source": "arXiv",
+        "date": "2026-03-11",
+        "description": "According to the literature, mobile devices as experimental tools (MDET) can offer educational benefits by creating authentic, real-life contexts for physics learning, enhancing student motivation through the use of familiar technology, and supporting cognitive processes by providing multiple repres"
+      },
+      {
+        "title": "Machinagogy: Experiments in Staging Teaching Dramas with LLMs",
+        "url": "https://arxiv.org/abs/2603.10450v1",
+        "source": "arXiv",
+        "date": "2026-03-11",
+        "description": "This paper describes an AI tutoring system built upon two psycho-social theoretic constructs: Hegelian recognition and Freudian psychodynamics. Two related interventions are proposed: recognition-enhanced prompts that instruct an AI tutor to treat the learner as an autonomous subject, and a multi-ag"
       },
       {
         "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
@@ -38,39 +59,18 @@
         "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
       },
       {
+        "title": "Enabling Gemini for Education across all Malaysian public universities",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/",
+        "source": "Google Education Blog",
+        "date": "2026-03-08",
+        "description": "A group of people posing for a photo on a stage at an event titled \"Bengkel Kepimpinan AI\" (AI Leadership Workshop). The image shows men and women standing in a line."
+      },
+      {
         "title": "AI toys for young children must be more tightly regulated, say researchers",
         "url": "https://www.theguardian.com/technology/2026/mar/13/ai-toys-young-children-tigher-regulations-reseachers",
         "source": "The Guardian Education",
         "date": "2026-03-13",
         "description": "<p>University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children</p><p>It was all going well. Charlotte, five, was chatting with an AI soft toy called Gabbo at a London play centre about her family, her drawing of a heart to represent them and what "
-      },
-      {
-        "title": "A digital competence training program design based on DigComp 2.1",
-        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3848",
-        "source": "Research in Learning Technology",
-        "date": "2026-03-13",
-        "description": "<p>This study aims to design a comprehensive and theoretically grounded digital competence training program for middle school students, based on DigComp 2.1: The European Digital Competence Framework. An explanatory sequential mixed-methods design was employed. In the first phase, the Digital Compet"
-      },
-      {
-        "title": "Trump Signs AI Executive Order as States Implement AI Laws",
-        "url": "https://er.educause.edu/articles/2026/3/trump-signs-ai-executive-order-as-states-implement-ai-laws",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-09",
-        "description": "In December 2025, President Trump issued an executive order establishing a national artificial intelligence (AI) policy framework, challenging stricter state AI laws, and tying certain federal funding to state compliance."
-      },
-      {
-        "title": "Are Wearables the Next Big Thing in Higher Ed Tech?",
-        "url": "https://er.educause.edu/podcasts/educause-shop-talk/2026/are-wearables-the-next-big-thing-in-higher-ed-tech",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-09",
-        "description": "Sophie and Jenay talk with a team from the University of Notre Dame about their research on using smart glasses to support accessibility in teaching and learning."
-      },
-      {
-        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
-        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
-        "source": "EdSurge",
-        "date": "2026-03-11",
-        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
       }
     ],
     "Assessment & Credentialing": [],
@@ -90,39 +90,18 @@
         "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop\u2019s intuitive agent builder is an example of the kind of tool that will unlock that potential."
       },
       {
-        "title": "Rakuten fixes issues twice as fast with Codex",
-        "url": "https://openai.com/index/rakuten",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
-      },
-      {
-        "title": "Designing AI agents to resist prompt injection",
-        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
-      },
-      {
-        "title": "From model to agent: Equipping the Responses API with a computer environment",
-        "url": "https://openai.com/index/equip-responses-api-computer-environment",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-      },
-      {
-        "title": "Building a strong data infrastructure for AI agent success",
-        "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-10",
-        "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u"
-      },
-      {
-        "title": "Security Considerations for Artificial Intelligence Agents",
-        "url": "https://arxiv.org/abs/2603.12230v1",
-        "source": "arXiv",
+        "title": "Atlassian follows Block\u2019s footsteps and cuts staff in the name of AI",
+        "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+        "source": "TechCrunch",
         "date": "2026-03-12",
-        "description": "This article, a lightly adapted version of Perplexity's response to NIST/CAISI Request for Information 2025-0035, details our observations and recommendations concerning the security of frontier AI agents. These insights are informed by Perplexity's experience operating general-purpose agentic syste"
+        "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI."
+      },
+      {
+        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
+        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
+        "source": "EdSurge",
+        "date": "2026-03-13",
+        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
       }
     ],
     "Higher Education Policy": [
@@ -134,32 +113,18 @@
         "description": "\"Hotline: Cybersecurity and Privacy\" tackles the philosophical, moral, strategic, and organizational quandaries related to higher education cybersecurity, privacy, and data. This month, Mike answers your questions about cybersecurity strategy, CMMC/CUI-compliant research computing and storage infras"
       },
       {
-        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
-        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
-        "source": "EdSurge",
-        "date": "2026-03-13",
-        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
-      },
-      {
-        "title": "The First Screen My Daughter Ever Saw",
-        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
-        "source": "EdSurge",
-        "date": "2026-03-10",
-        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
-      },
-      {
-        "title": "Screen-Free Schools? Some Legislators Push for a New Normal",
-        "url": "https://www.edsurge.com/news/2026-03-09-screen-free-schools-some-legislators-push-for-a-new-normal",
-        "source": "EdSurge",
-        "date": "2026-03-09",
-        "description": "First, it was no phones in schools. Now, amid the debate around edtech, schools are looking to go screen free."
-      },
-      {
         "title": "MPs launch student loans inquiry amid \u2018perfect storm\u2019 for young people in UK",
         "url": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
         "source": "The Guardian Education",
         "date": "2026-03-12",
         "description": "<p>Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/mar/11/uk-companies-struggling-to-hire-young-people-amid-cost-pressures-mps-told\">UK firms struggling to hire young people amid c"
+      },
+      {
+        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
+        "source": "The Guardian Education",
+        "date": "2026-03-10",
+        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
       }
     ],
     "Learning Science & Design": [
@@ -171,25 +136,25 @@
         "description": "<p>If you\u2019re searching for NGSS-aligned science lessons that go beyond worksheets and actually get students thinking, building, and investigating \u2014 this is your moment. ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-fo"
       },
       {
-        "title": "The Shape of the Thing",
-        "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-        "source": "Ethan Mollick (One Useful Thing)",
-        "date": "2026-03-12",
-        "description": "Where we are right now, and what likely happens next"
-      },
-      {
-        "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
-        "url": "https://arxiv.org/abs/2603.12226v1",
+        "title": "Student experiences in a computational physics lab through the lens of Physics Computational Literacy",
+        "url": "https://arxiv.org/abs/2603.12158v1",
         "source": "arXiv",
         "date": "2026-03-12",
-        "description": "Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, by"
+        "description": "Computational physics is a key part of what it means to do physics in the twenty-first century. However, upper division computational physics remains a largely understudied area. We set out to understand the experiences of students in an upper division computational physics lab course. To that end w"
       },
       {
-        "title": "An Intent of Collaboration: On Agencies between Designers and Emerging (Intelligent) Technologies",
-        "url": "https://arxiv.org/abs/2603.12018v1",
+        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
+        "url": "https://arxiv.org/abs/2603.12154v1",
         "source": "arXiv",
         "date": "2026-03-12",
-        "description": "Amidst the emergence of powerful intelligent technologies such as LLMs and text-to-image AIs that promise to enhance creative processes, designers face the challenges of remaining empowered and creative while working with these foreign digital partners. While generative AIs offer versatile, informat"
+        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
+      },
+      {
+        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
+        "source": "The Guardian Education",
+        "date": "2026-03-10",
+        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
       }
     ]
   }
