@@ -45,10 +45,16 @@ FEEDS = {
 }
 
 ARXIV_QUERIES = [
-    "AI in education",
+    "AI in education", 
+    "AI in learning", 
+    "learning design", 
+    "learning science",
+    "cognitive science",
+    "cognition",
+    "teaching and learning", 
+    "pedagogy",
     "intelligent tutoring systems",
-    "automated assessment education",
-    "large language models learning"
+    "automated assessment",
 ]
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
