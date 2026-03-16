@@ -15,6 +15,7 @@ FEEDS = {
     "Research in Learning Technology": "https://journal.alt.ac.uk/index.php/rlt/gateway/plugin/WebFeedGatewayPlugin/rss2",
     "Khan Academy Blog": "https://blog.khanacademy.org/feed/",
     "Education Next": "https://educationnext.org/feed",
+    "Computers & Education: AI": "https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/rss/articles",
 
     # Thought leaders
     "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
@@ -44,24 +45,34 @@ FEEDS = {
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
 }
 
-ARXIV_QUERIES = [
-    "AI in education", 
-    "AI in learning", 
-    "learning design", 
-    "learning science",
-    "cognitive science",
-    "cognition",
-    "teaching and learning", 
-    "learning outcomes",
-    "learner outcomes",
-    "learning efficacy",
-    "learning effectiveness",
-    "pedagogy",
-    "intelligent tutoring systems",
-    "automated assessment",
-]
+ARXIV_QUERIES = {
+    "AI in education":              'ti:"education" AND (ti:"AI" OR ti:"artificial intelligence" OR ti:"large language model" OR ti:"LLM")',
+    "AI tutoring & assessment":     'ti:"tutoring" OR ti:"assessment" AND (ti:"AI" OR ti:"machine learning")',
+    "learning outcomes & efficacy": 'abs:"learning outcomes" AND (abs:"AI" OR abs:"machine learning" OR abs:"LLM")',
+    "pedagogy & instruction":       'abs:"pedagogy" OR abs:"instructional design" AND (abs:"AI" OR abs:"artificial intelligence")',
+    "intelligent tutoring systems": 'ti:"intelligent tutoring" OR ti:"ITS"',
+    "automated assessment":         'ti:"automated assessment" OR ti:"automated grading" OR ti:"automated feedback"',
+    "cognitive science & AI":       'abs:"cognitive science" AND (abs:"AI" OR abs:"machine learning")',
+    "learning science":             'abs:"learning science" AND (abs:"AI" OR abs:"artificial intelligence")',
+}
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
+
+EDUCATION_KEYWORDS = [
+    "learn", "learning", "learner", "education", "edtech", "teach", "teaching",
+    "teacher", "student", "classroom", "curriculum", "pedagogy", "tutoring",
+    "assessment", "literacy", "school", "university", "college", "course",
+    "academic", "skill", "training", "instruction", "knowledge"
+]
+
+FILTERED_SOURCES = {"Hacker News", "TechCrunch", "MIT Technology Review"}
+
+def is_education_relevant(item):
+    """Return True if the item is education/learning focused."""
+    if item["source"] not in FILTERED_SOURCES:
+        return True
+    text = (item["title"] + " " + item["description"]).lower()
+    return any(kw in text for kw in EDUCATION_KEYWORDS)
 
 def parse_date(entry):
     for attr in ["published_parsed", "updated_parsed"]:
@@ -93,9 +104,9 @@ def fetch_rss():
 
 def fetch_arxiv():
     items = []
-    for query in ARXIV_QUERIES:
+    for label, query in ARXIV_QUERIES.items():
         try:
-            url = f"https://export.arxiv.org/api/query?search_query=all:{query.replace(' ', '+')}&sortBy=submittedDate&sortOrder=descending&max_results=10"
+            url = f"https://export.arxiv.org/api/query?search_query={requests.utils.quote(query)}&sortBy=submittedDate&sortOrder=descending&max_results=10"
             response = requests.get(url, timeout=10)
             feed = feedparser.parse(response.text)
             count = 0
@@ -110,9 +121,9 @@ def fetch_arxiv():
                         "description": entry.get("summary", "")[:300]
                     })
                     count += 1
-            print(f"arXiv ({query}): {count} items found")
+            print(f"arXiv ({label}): {count} items found")
         except Exception as e:
-            print(f"arXiv ({query}): error — {e}")
+            print(f"arXiv ({label}): error — {e}")
     return items
 
 def fetch_hacker_news():
@@ -131,66 +142,8 @@ def fetch_hacker_news():
                 story_url = hit.get("url") or f"https://news.ycombinator.com/item?id={hit.get('objectID')}"
                 points = hit.get("points", 0)
                 comments = hit.get("num_comments", 0)
-                # Only include stories with meaningful engagement
                 if points and points > 10:
                     items.append({
                         "title": title,
                         "url": story_url,
-                        "source": "Hacker News",
-                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                        "description": f"{points} points, {comments} comments on Hacker News"
-                    })
-                    count += 1
-            print(f"Hacker News ({query}): {count} items found")
-    except Exception as e:
-        print(f"Hacker News: error — {e}")
-    return items
-
-def fetch_anthropic_news():
-    """Scrape Anthropic news page for recent posts"""
-    items = []
-    try:
-        headers = {"User-Agent": "Mozilla/5.0 (compatible; research-aggregator/1.0)"}
-        response = requests.get("https://www.anthropic.com/news", headers=headers, timeout=10)
-        soup = BeautifulSoup(response.text, "html.parser")
-        count = 0
-        # Find article links on the page
-        for link in soup.find_all("a", href=True):
-            href = link["href"]
-            if "/news/" in href and href != "/news":
-                full_url = f"https://www.anthropic.com{href}" if href.startswith("/") else href
-                title = link.get_text(strip=True)
-                if title and len(title) > 10:
-                    items.append({
-                        "title": title,
-                        "url": full_url,
-                        "source": "Anthropic News",
-                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                        "description": "Latest news and announcements from Anthropic"
-                    })
-                    count += 1
-                    if count >= 5:
-                        break
-        print(f"Anthropic News: {count} items found")
-    except Exception as e:
-        print(f"Anthropic News: error — {e}")
-    return items
-
-def main():
-    all_items = fetch_rss() + fetch_arxiv() + fetch_hacker_news() + fetch_anthropic_news()
-
-    # Deduplicate by URL
-    seen_urls = set()
-    unique_items = []
-    for item in all_items:
-        if item["url"] not in seen_urls and item["url"]:
-            seen_urls.add(item["url"])
-            unique_items.append(item)
-
-    print(f"\nTotal unique items collected: {len(unique_items)}")
-    with open("output.json", "w") as f:
-        json.dump(unique_items, f, indent=2)
-    print("Saved to output.json")
-
-if __name__ == "__main__":
-    main()
+                        "source": "Hacke
