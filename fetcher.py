@@ -47,25 +47,28 @@ FEEDS = {
 
 ARXIV_QUERIES = {
     "AI in education":              'ti:"education" AND (ti:"AI" OR ti:"artificial intelligence" OR ti:"large language model" OR ti:"LLM")',
-    "AI tutoring & assessment":     'ti:"tutoring" OR ti:"assessment" AND (ti:"AI" OR ti:"machine learning")',
-    "learning outcomes & efficacy": 'abs:"learning outcomes" AND (abs:"AI" OR abs:"machine learning" OR abs:"LLM")',
-    "pedagogy & instruction":       'abs:"pedagogy" OR abs:"instructional design" AND (abs:"AI" OR abs:"artificial intelligence")',
-    "intelligent tutoring systems": 'ti:"intelligent tutoring" OR ti:"ITS"',
+    "AI tutoring & assessment":     '(ti:"tutoring" OR ti:"assessment") AND (ti:"AI" OR ti:"large language model" OR ti:"LLM")',
+    "learning outcomes & efficacy": 'abs:"learning outcomes" AND (abs:"AI" OR abs:"LLM" OR abs:"large language model")',
+    "pedagogy & instruction":       '(abs:"pedagogy" OR abs:"instructional design") AND (abs:"AI" OR abs:"artificial intelligence" OR abs:"LLM")',
+    "intelligent tutoring systems": 'ti:"intelligent tutoring system" OR ti:"intelligent tutoring systems"',
     "automated assessment":         'ti:"automated assessment" OR ti:"automated grading" OR ti:"automated feedback"',
-    "cognitive science & AI":       'abs:"cognitive science" AND (abs:"AI" OR abs:"machine learning")',
-    "learning science":             'abs:"learning science" AND (abs:"AI" OR abs:"artificial intelligence")',
+    "cognitive science & AI":       'abs:"cognitive science" AND (abs:"AI" OR abs:"large language model" OR abs:"LLM")',
+    "learning science":             'abs:"learning science" AND (abs:"AI" OR abs:"artificial intelligence" OR abs:"LLM")',
 }
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
+# Note: avoid generic words like "learn" or "learning" which match "machine learning"
 EDUCATION_KEYWORDS = [
-    "learn", "learning", "learner", "education", "edtech", "teach", "teaching",
-    "teacher", "student", "classroom", "curriculum", "pedagogy", "tutoring",
+    "education", "edtech", "teaching", "teacher", "learner", "learners",
+    "student", "students", "classroom", "curriculum", "pedagogy", "tutoring",
     "assessment", "literacy", "school", "university", "college", "course",
-    "academic", "skill", "training", "instruction", "knowledge"
+    "academic", "upskill", "reskill", "training", "instruction", "e-learning",
+    "higher ed", "k-12", "learning outcome", "learning design", "learning science",
+    "educational", "instructional"
 ]
 
-FILTERED_SOURCES = {"Hacker News", "TechCrunch", "MIT Technology Review"}
+FILTERED_SOURCES = {"Hacker News", "TechCrunch", "MIT Technology Review", "OpenAI News"}
 
 def is_education_relevant(item):
     """Return True if the item is education/learning focused."""
@@ -129,7 +132,11 @@ def fetch_arxiv():
 def fetch_hacker_news():
     """Fetch Hacker News stories mentioning education or AI learning"""
     items = []
-    queries = ["AI in education", "edtech", "learning with AI", "Anthropic", "learning science", "pedagogy", "learning outcomes", "teaching and learning", "cognitive science"]
+    queries = [
+        "AI education", "edtech", "AI tutoring", "learning science",
+        "pedagogy", "educational technology", "AI classroom",
+        "teaching with AI", "AI assessment", "higher education AI"
+    ]
     try:
         for query in queries:
             cutoff_ts = int((datetime.now(timezone.utc) - timedelta(days=7)).timestamp())
@@ -196,7 +203,7 @@ def main():
             seen_urls.add(item["url"])
             unique_items.append(item)
 
-    # Filter TechCrunch, MIT Tech Review, and Hacker News to education-relevant articles only
+    # Filter OpenAI, TechCrunch, MIT Tech Review, and Hacker News to education-relevant articles only
     unique_items = [item for item in unique_items if is_education_relevant(item)]
 
     print(f"\nTotal unique items collected: {len(unique_items)}")
