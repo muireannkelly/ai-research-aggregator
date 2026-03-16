@@ -1,14 +1,7 @@
 {
-  "last_updated": "2026-03-13 16:03 UTC",
+  "last_updated": "2026-03-16 08:02 UTC",
   "themes": {
     "AI in Education & Learning": [
-      {
-        "title": "Are Wearables the Next Big Thing in Higher Ed Tech?",
-        "url": "https://er.educause.edu/podcasts/educause-shop-talk/2026/are-wearables-the-next-big-thing-in-higher-ed-tech",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-09",
-        "description": "Sophie and Jenay talk with a team from the University of Notre Dame about their research on using smart glasses to support accessibility in teaching and learning."
-      },
       {
         "title": "New ways to learn math and science in ChatGPT",
         "url": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
@@ -17,18 +10,53 @@
         "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
       },
       {
-        "title": "The Education Exchange: Today\u2019s Better Grades Could Mean Tomorrow\u2019s Smaller Paychecks",
-        "url": "https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/",
+        "title": "Logged In, Tuned Out",
+        "url": "https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/",
         "source": "Education Next",
-        "date": "2026-03-09",
-        "description": "<p>Paul E. Peterson interviews Jeff Denning, an associate professor at the University of Texas at Austin</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/\">The Education Exchange: Today\u2019s Better Grades Could Mea"
+        "date": "2026-03-10",
+        "description": "<p>Fifteen years and billions of dollars later, what has learning tech accomplished?</p>\n<p>The post <a href=\"https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/\">Logged In, Tuned Out</a> appeared first on <a href=\"https://ww"
       },
       {
-        "title": "The Shape of the Thing",
-        "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-        "source": "Ethan Mollick (One Useful Thing)",
-        "date": "2026-03-12",
-        "description": "Where we are right now, and what likely happens next"
+        "title": "Rakuten fixes issues twice as fast with Codex",
+        "url": "https://openai.com/index/rakuten",
+        "source": "OpenAI News",
+        "date": "2026-03-11",
+        "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
+      },
+      {
+        "title": "Designing AI agents to resist prompt injection",
+        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+        "source": "OpenAI News",
+        "date": "2026-03-11",
+        "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+      },
+      {
+        "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+        "url": "https://openai.com/index/wayfair",
+        "source": "OpenAI News",
+        "date": "2026-03-11",
+        "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+      },
+      {
+        "title": "Screen-Free Schools? Some Legislators Push for a New Normal",
+        "url": "https://www.edsurge.com/news/2026-03-09-screen-free-schools-some-legislators-push-for-a-new-normal",
+        "source": "EdSurge",
+        "date": "2026-03-09",
+        "description": "First, it was no phones in schools. Now, amid the debate around edtech, schools are looking to go screen free."
+      },
+      {
+        "title": "\ud83d\udd2e Exponential View #565: Autoresearch; the solar supercycle; an agentic nation; ChatGPT Olympian, seeing fraud & moving asteroids++",
+        "url": "https://www.exponentialview.co/p/ev-565",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-03-15",
+        "description": "Hi, Welcome to the Sunday edition, in which we make sense of the week behind us."
+      },
+      {
+        "title": "\ud83d\udd2e The lantern and the flame",
+        "url": "https://www.exponentialview.co/p/the-lantern-and-the-flame",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-03-13",
+        "description": "How I protect my thinking as I use AI constantly"
       },
       {
         "title": "\ud83d\udd2e The case for radical solar optimism",
@@ -45,25 +73,18 @@
         "description": "Ozempic, oil shocks and obedience"
       },
       {
-        "title": "\ud83d\udd2e Exponential View #564: Intelligence as a target; the future of knowledge; AI, productivity & economy; CO2 armor, ultra-violent ancestors & Brand Age++",
-        "url": "https://www.exponentialview.co/p/ev-564",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-03-08",
-        "description": "&#8220;I had subscribed via an employer funded training budget."
+        "title": "From model to agent: Equipping the Responses API with a computer environment",
+        "url": "https://openai.com/index/equip-responses-api-computer-environment",
+        "source": "OpenAI News",
+        "date": "2026-03-11",
+        "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
       },
       {
-        "title": "Import AI 448: AI R&D; Bytedance\u2019s CUDA-writing agent; on-device satellite AI",
-        "url": "https://jack-clark.net/2026/03/09/import-ai-448-ai-rd-bytedances-cuda-writing-agent-on-device-satellite-ai/",
-        "source": "Jack Clark (Import AI)",
-        "date": "2026-03-09",
-        "description": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/03/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-lV3lPz.jpg?resize=150%2C150&amp;ssl=1\" wid"
-      },
-      {
-        "title": "Enabling Gemini for Education across all Malaysian public universities",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/gemini-malaysia-universities/",
-        "source": "Google Education Blog",
-        "date": "2026-03-08",
-        "description": "A group of people posing for a photo on a stage at an event titled \"Bengkel Kepimpinan AI\" (AI Leadership Workshop). The image shows men and women standing in a line."
+        "title": "Improving instruction hierarchy in frontier LLMs",
+        "url": "https://openai.com/index/instruction-hierarchy-challenge",
+        "source": "OpenAI News",
+        "date": "2026-03-10",
+        "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
       },
       {
         "title": "AI toys for young children must be more tightly regulated, say researchers",
@@ -73,18 +94,46 @@
         "description": "<p>University of Cambridge study finds AI-powered toys can misread emotions and respond inappropriately to children</p><p>It was all going well. Charlotte, five, was chatting with an AI soft toy called Gabbo at a London play centre about her family, her drawing of a heart to represent them and what "
       },
       {
-        "title": "\u2018I wish I could push ChatGPT off a cliff\u2019: professors scramble to save critical thinking in an age of AI",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/10/ai-impact-professors-students-learning",
+        "title": "Three-quarters of nine-month-olds in England have \u2018daily screen time\u2019",
+        "url": "https://www.theguardian.com/society/2026/mar/16/england-babies-daily-screen-time",
         "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>As AI has upended the way students learn, academics worry about the future of the humanities \u2013 and society at large</p><p>Lea Pao, a professor of literature at Stanford University, has been experimenting with ways to get her students to learn offline. She has them memorize poems, perform at recit"
+        "date": "2026-03-16",
+        "description": "<p>Study shows average time on screens each day is 41 minutes, with some watching more than three hours a day</p><p>Three-quarters of nine-month-old babies in England are allowed daily screen time, while a small \u201cheavy use\u201d group watch more than three hours a day, <a href=\"https://epi.org.uk/publica"
       },
       {
-        "title": "How Libraries Shape AI Literacy on Campus",
-        "url": "https://www.insidehighered.com/news/student-success/academic-life/2026/03/13/how-libraries-shape-ai-literacy-campus",
+        "title": "The Guardian view on post-16 qualifications: the case for V-levels replacing BTecs is unproven | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/15/the-guardian-view-on-post-16-qualifications-the-case-for-v-levels-replacing-btecs-is-unproven",
+        "source": "The Guardian Education",
+        "date": "2026-03-15",
+        "description": "<p>Pausing the scrapping of existing qualifications was the right decision. But the wider battle over further education continues</p><p>The government\u2019s granting of a <a href=\"https://www.bbc.co.uk/news/articles/cz6e7004dj9o\">stay of execution to popular courses</a> including health and business stu"
+      },
+      {
+        "title": "Students at Qatar Satellite Campuses Briefly Evacuated From Housing",
+        "url": "https://www.insidehighered.com/news/global/us-colleges-world/2026/03/15/students-qatar-satellite-campuses-briefly-evacuated",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-15",
+        "description": "<span>Students at Qatar Satellite Campuses Briefly Evacuated From Housing</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Skyline of Doha, Qatar, with smoke rising over the buildings\" height=\"396\" src=\"h"
+      },
+      {
+        "title": "After San Jos\u00e9 State Sues, McMahon Threatens to Take Action",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/03/13/after-san-jose-state-sues-mcmahon-threatens-take-action",
         "source": "Inside Higher Ed",
         "date": "2026-03-13",
-        "description": "<span>How Libraries Shape AI Literacy on Campus</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Group of Black students studying individually at a table at a college library.\" height=\"1501\" src=\"https://"
+        "description": "<span>After San Jos\u00e9 State Sues, McMahon Threatens to Take Action</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"US Secretary of Education Linda McMahon, wearing a coat, speaks into a microphone.\" heigh"
+      },
+      {
+        "title": "3 Things to Know About This Year\u2019s Application Data",
+        "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/03/13/common-app-data-shows-increase-applications",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>3 Things to Know About This Year\u2019s Application Data</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of three color-tinted images showing a college testing environment, a hand h"
+      },
+      {
+        "title": "Ohio State Quickly Finds a President",
+        "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/03/13/ohio-state-quickly-finds-president",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-13",
+        "description": "<span>Ohio State Quickly Finds a President</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Students walk across the campus of The Ohio State University in Columbus, Ohio on November 6, 2023. \" height=\"80"
       },
       {
         "title": "Lead Time",
@@ -108,109 +157,116 @@
         "description": "<span>Asian Campuses Shut to Save Energy Amid Middle East Conflict</span>\n\n<span><span>sara.custer@in\u2026</span></span>\n\n<span><time datetime=\"2026-03-13T03:00:00-04:00\" title=\"Friday, March 13, 2026 - 03:00 AM\">Fri, 03/13/2026 - 03:00 AM</time>\n</span>\n<p><span>Fallout from spike in oil prices disrupt"
       },
       {
-        "title": "Truecaller now lets you hang up on scammers \u2014 on behalf of your family",
-        "url": "https://techcrunch.com/2026/03/12/truecallers-now-lets-you-hang-up-on-scammers-on-behalf-of-your-family/",
+        "title": "The billionaires made a promise \u2014 now some want out",
+        "url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+        "source": "TechCrunch",
+        "date": "2026-03-16",
+        "description": "In 2010, Warren Buffett and Bill Gates launched a disarmingly simple campaign they called the Giving Pledge: a public commitment, open to the world&#8217;s wealthiest people, to give away more than half their fortune during their lifetime or upon their death. The moment seemed to call for it. Tech w"
+      },
+      {
+        "title": "Rivian\u2019s RJ Scaringe thinks we\u2019re doing robots all wrong",
+        "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+        "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "Rivian CEO RJ Scaringe shares his thoughts and plans for his newest startup, Mind Robotics."
+      },
+      {
+        "title": "The MacBook Neo is \u2018the most repairable MacBook\u2019 in years, according to iFixit",
+        "url": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "Apple\u2019s new MacBook Neo isn\u2019t just the most affordable MacBook \u2014 it\u2019s also the company's most repairable laptop in \u201cabout fourteen years.\""
+      },
+      {
+        "title": "US Army announces contract with Anduril worth up to $20B",
+        "url": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\""
+      },
+      {
+        "title": "Developing and evaluating a chatbot to support maternal health care",
+        "url": "https://arxiv.org/abs/2603.13168v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "The ability to provide trustworthy maternal health information using phone-based chatbots can have a significant impact, particularly in low-resource settings where users have low health literacy and limited access to care. However, deploying such systems is technically challenging: user queries are"
+      },
+      {
+        "title": "Human-in-the-Loop LLM Grading for Handwritten Mathematics Assessments",
+        "url": "https://arxiv.org/abs/2603.13083v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Providing timely and individualised feedback on handwritten student work is highly beneficial for learning but difficult to achieve at scale. This challenge has become more pressing as generative AI undermines the reliability of take-home assessments, shifting emphasis toward supervised, in-class ev"
+      },
+      {
+        "title": "Developing the PsyCogMetrics AI Lab to Evaluate Large Language Models and Advance Cognitive Science -- A Three-Cycle Action Design Science Study",
+        "url": "https://arxiv.org/abs/2603.13126v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "This study presents the development of the PsyCogMetrics AI Lab (psycogmetrics.ai), an integrated, cloud-based platform that operationalizes psychometric and cognitive-science methodologies for Large Language Model (LLM) evaluation. Framed as a three-cycle Action Design Science study, the Relevance "
+      },
+      {
+        "title": "Steven Spielberg says he\u2019s \u2018never used AI\u2019 in any of his films",
+        "url": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
         "source": "TechCrunch",
         "date": "2026-03-13",
-        "description": "Caller identity platform Truecaller recently launched a new feature that lets one person become an admin of a family group, get alerts about fraud calls received by other members, and even end a call on their behalf if they suspect a family member might get scammed. The company, which has over 450 m"
+        "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing."
       },
       {
-        "title": "How to watch Jensen Huang\u2019s Nvidia GTC 2026 keynote",
-        "url": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "GTC \u2014 which stands for GPU Technology Conference \u2014 is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out its vision for the future of computing. Huang's keynote will focus on Nvidia's role in the future of com"
+        "title": "The elusive cyclotron line in 4U 1901+03: hidden, yet present",
+        "url": "https://arxiv.org/abs/2603.13107v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Context. Cyclotron resonant scattering features (CRSFs) in accreting X-ray pulsars are often difficult to detect, especially when shallow or variable. Recent studies have shown that combining spectral and timing analyses enhances their detectability. Aims. We investigated the evolution of energy-res"
       },
       {
-        "title": "Investigating student perceptions of creativity and generative ai in computational physics",
-        "url": "https://arxiv.org/abs/2603.12154v1",
+        "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
+        "url": "https://arxiv.org/abs/2603.13228v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Recent progress in text-conditioned human motion generation has been largely driven by diffusion models trained on large-scale human motion data. Building on this progress, recent methods attempt to transfer such models for character animation and real robot control by applying a Whole-Body Controll"
+      },
+      {
+        "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
+        "url": "https://arxiv.org/abs/2603.13224v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Vision-to-code tasks require models to reconstruct structured visual inputs, such as charts, tables, and SVGs, into executable or structured representations with high visual fidelity. While recent Large Vision Language Models (LVLMs) achieve strong results via supervised fine-tuning, reinforcement l"
+      },
+      {
+        "title": "Teaching Agile Requirements Engineering: A Stakeholder Simulation with Generative AI",
+        "url": "https://arxiv.org/abs/2603.12925v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Context: The active involvement of users and customers in agile software development remains a persistent challenge in practice. For this reason, it is important that students in higher education become familiar with good practices in Agile Requirements Engineering during their studies. Objective: O"
+      },
+      {
+        "title": "A Commensal Radio-Only Cosmic Ray Detector at the Owens Valley Radio Observatory Long Wavelength Array",
+        "url": "https://arxiv.org/abs/2603.13205v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "The brief (10 nanoseconds) transient radio emission from cosmic ray air showers carries key information about the energy and mass composition of high energy cosmic rays, but anthropogenic radio frequency interference has historically prevented radio-based cosmic ray studies from being carried out in"
+      },
+      {
+        "title": "Electromechanical Hysteresis in Phase Change Material Sb2S3",
+        "url": "https://arxiv.org/abs/2603.13221v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Antimony sulfide is an emerging phase change material for optical and electrical memory and computation elements. It has additionally been reported as a ferroelectric, with recent evidence from hysteresis in piezoresponse force microscopy. Here, we complete a rigorous set of piezoresponse force micr"
+      },
+      {
+        "title": "Thinking in Dynamics: How Multimodal Large Language Models Perceive, Track, and Reason Dynamics in Physical 4D World",
+        "url": "https://arxiv.org/abs/2603.12746v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Humans inhabit a physical 4D world where geometric structure and semantic content evolve over time, constituting a dynamic 4D reality (spatial with temporal dimension). While current Multimodal Large Language Models (MLLMs) excel in static visual understanding, can they also be adept at \"thinking in"
+      },
+      {
+        "title": "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback",
+        "url": "https://arxiv.org/abs/2603.12471v1",
         "source": "arXiv",
         "date": "2026-03-12",
-        "description": "Generative Artificial Intelligence (gen-AI) is rapidly becoming more integrated into today's classrooms in all ranges of education. In higher education, Gen-AI is often seen as a resource for students, aiding them in drafting outlines, solving simple mathematical problems, or even decoding or constr"
-      },
-      {
-        "title": "Student experiences in a computational physics lab through the lens of Physics Computational Literacy",
-        "url": "https://arxiv.org/abs/2603.12158v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Computational physics is a key part of what it means to do physics in the twenty-first century. However, upper division computational physics remains a largely understudied area. We set out to understand the experiences of students in an upper division computational physics lab course. To that end w"
-      },
-      {
-        "title": "Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration",
-        "url": "https://arxiv.org/abs/2603.12226v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Despite interdisciplinary research leading to larger and longer-term impact, most work remains confined to single-domain academic silos. Recent AI-based approaches to scientific discovery show promise for interdisciplinary research, but many prioritize rapidly designing experiments and solutions, by"
-      },
-      {
-        "title": "LifeSim: Long-Horizon User Life Simulator for Personalized Assistant Evaluation",
-        "url": "https://arxiv.org/abs/2603.12152v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "The rapid advancement of large language models (LLMs) has accelerated progress toward universal AI assistants. However, existing benchmarks for personalized assistants remain misaligned with real-world user-assistant interactions, failing to capture the complexity of external contexts and users' cog"
-      },
-      {
-        "title": "A writer is suing Grammarly for turning her and other authors into \u2018AI editors\u2019 without consent",
-        "url": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights."
-      },
-      {
-        "title": "Increasing intelligence in AI agents can worsen collective outcomes",
-        "url": "https://arxiv.org/abs/2603.12129v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "When resources are scarce, will a population of AI agents coordinate in harmony, or descend into tribal chaos? Diverse decision-making AI from different developers is entering everyday devices -- from phones and medical devices to battlefield drones and cars -- and these AI agents typically compete "
-      },
-      {
-        "title": "Cornserve: A Distributed Serving System for Any-to-Any Multimodal Models",
-        "url": "https://arxiv.org/abs/2603.12118v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Any-to-Any models are an emerging class of multimodal models that accept combinations of multimodal data (e.g., text, image, video, audio) as input and generate them as output. Serving these models are challenging; different requests with different input and output modalities traverse different path"
-      },
-      {
-        "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
-        "url": "https://arxiv.org/abs/2603.12265v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Modern visual agents require representations that are general, causal, and physically structured to operate in real-time streaming environments. However, current vision foundation models remain fragmented, specializing narrowly in image semantic perception, offline temporal modeling, or spatial geom"
-      },
-      {
-        "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
-        "url": "https://arxiv.org/abs/2603.12255v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Humans perceive and understand real-world spaces through a stream of visual observations. Therefore, the ability to streamingly maintain and update spatial evidence from potentially unbounded video streams is essential for spatial intelligence. The core challenge is not simply longer context windows"
-      },
-      {
-        "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
-        "url": "https://arxiv.org/abs/2603.12266v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Multimodal Large Language Models (MLLMs) are increasingly used to carry out visual workflows such as navigating GUIs, where the next step depends on verified visual compositional conditions (e.g., \"if a permission dialog appears and the color of the interface is green, click Allow\") and the process "
-      },
-      {
-        "title": "CoMMET: To What Extent Can LLMs Perform Theory of Mind Tasks?",
-        "url": "https://arxiv.org/abs/2603.11915v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Theory of Mind (ToM)-the ability to reason about the mental states of oneself and others-is a cornerstone of human social intelligence. As Large Language Models (LLMs) become ubiquitous in real-world applications, validating their capacity for this level of social reasoning is essential for effectiv"
-      },
-      {
-        "title": "EgoIntent: An Egocentric Step-level Benchmark for Understanding What, Why, and Next",
-        "url": "https://arxiv.org/abs/2603.12147v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Multimodal Large Language Models (MLLMs) have demonstrated remarkable video reasoning capabilities across diverse tasks. However, their ability to understand human intent at a fine-grained level in egocentric videos remains largely unexplored. Existing benchmarks focus primarily on episode-level int"
-      },
-      {
-        "title": "Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training",
-        "url": "https://arxiv.org/abs/2603.12246v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Reasoning LLMs-as-Judges, which can benefit from inference-time scaling, provide a promising path for extending the success of reasoning models to non-verifiable domains where the output correctness/quality cannot be directly checked. However, while reasoning judges have shown better performance on "
+        "description": "Effective personalized feedback is critical to students' literacy development. Though LLM-powered tools now promise to automate such feedback at scale, LLMs are not language-neutral: they privilege standard academic English and reproduce social stereotypes, raising concerns about how \"personalizatio"
       },
       {
         "title": "A technology-oriented mapping of the language and translation industry: Analysing stakeholder values and their potential implication for translation pedagogy",
@@ -223,52 +279,31 @@
         "title": "CRusTTY: A pedagogical C interpreter with time-travel debugging capabilities",
         "url": "https://github.com/aicheye/crustty",
         "source": "Hacker News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "20 points, 2 comments on Hacker News"
-      },
-      {
-        "title": "Real-World Point Tracking with Verifier-Guided Pseudo-Labeling",
-        "url": "https://arxiv.org/abs/2603.12217v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Models for long-term point tracking are typically trained on large synthetic datasets. The performance of these models degrades in real-world videos due to different characteristics and the absence of dense ground-truth annotations. Self-training on unlabeled videos has been explored as a practical "
       }
     ],
     "Assessment & Credentialing": [
+      {
+        "title": "Will the Science of Reading Deliver This Time?",
+        "url": "https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>It\u2019s one bandwagon that might be worth jumping on, but it\u2019ll need to steer around some potholes</p>\n<p>The post <a href=\"https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/\">Will the Science of Reading Deliver This Time?</a> appeared first on <a href=\"https://www.educatio"
+      },
+      {
+        "title": "The Education Exchange: Today\u2019s Better Grades Could Mean Tomorrow\u2019s Smaller Paychecks",
+        "url": "https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/",
+        "source": "Education Next",
+        "date": "2026-03-09",
+        "description": "<p>Paul E. Peterson interviews Jeff Denning, an associate professor at the University of Texas at Austin</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-todays-better-grades-could-mean-tomorrows-smaller-paychecks/\">The Education Exchange: Today\u2019s Better Grades Could Mea"
+      },
       {
         "title": "Harvard to Tackle Grade Inflation With Cap on A\u2019s",
         "url": "https://www.insidehighered.com/news/faculty-issues/learning-assessment/2026/03/13/harvard-tackle-grade-inflation-cap",
         "source": "Inside Higher Ed",
         "date": "2026-03-13",
         "description": "<span>Harvard to Tackle Grade Inflation With Cap on A\u2019s</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of hot air balloons made out of letter grades floating over a countryside.\" he"
-      },
-      {
-        "title": "MPs launch student loans inquiry amid \u2018perfect storm\u2019 for young people in UK",
-        "url": "https://www.theguardian.com/money/2026/mar/12/mps-launch-student-loans-inquiry-amid-perfect-storm-for-young-people-in-uk",
-        "source": "The Guardian Education",
-        "date": "2026-03-12",
-        "description": "<p>Influential Treasury committee chair Meg Hillier says review follows growing concern over graduate debt</p><ul><li><p><a href=\"https://www.theguardian.com/society/2026/mar/11/uk-companies-struggling-to-hire-young-people-amid-cost-pressures-mps-told\">UK firms struggling to hire young people amid c"
-      },
-      {
-        "title": "Matching Features, Not Tokens: Energy-Based Fine-Tuning of Language Models",
-        "url": "https://arxiv.org/abs/2603.12248v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Cross-entropy (CE) training provides dense and scalable supervision for language models, but it optimizes next-token prediction under teacher forcing rather than sequence-level behavior under model rollouts. We introduce a feature-matching objective for language-model fine-tuning that targets sequen"
-      },
-      {
-        "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
-        "url": "https://arxiv.org/abs/2603.12264v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Unified multimodal models target joint understanding, reasoning, and generation, but current image editing benchmarks are largely confined to natural images and shallow commonsense reasoning, offering limited assessment of this capability under structured, domain-specific constraints. In this work, "
-      },
-      {
-        "title": "To Words and Beyond: Probing Large Language Models for Sentence-Level Psycholinguistic Norms of Memorability and Reading Times",
-        "url": "https://arxiv.org/abs/2603.12105v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Large Language Models (LLMs) have recently been shown to produce estimates of psycholinguistic norms, such as valence, arousal, or concreteness, for words and multiword expressions, that correlate with human judgments. These estimates are obtained by prompting an LLM, in zero-shot fashion, with a qu"
       }
     ],
     "Future of Work & Skills": [
@@ -280,6 +315,13 @@
         "description": "Will what worked for AI coding scale to Finance, Law and other knowledge work professions?"
       },
       {
+        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
+        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
+        "source": "EdSurge",
+        "date": "2026-03-11",
+        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
+      },
+      {
         "title": "Iowa House Advances Bill to Limit Use of H-1B Visas",
         "url": "https://www.insidehighered.com/news/quick-takes/2026/03/13/iowa-house-advances-bill-limit-use-h-1b-visas",
         "source": "Inside Higher Ed",
@@ -287,18 +329,25 @@
         "description": "<span>Iowa House Advances Bill to Limit Use of H-1B Visas</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"University of Iowa building\" height=\"548\" src=\"https://www.insidehighered.com/sites/default/files"
       },
       {
-        "title": "Peacock expands into AI-driven video, mobile-first live sports, and gaming",
-        "url": "https://techcrunch.com/2026/03/13/peacock-expands-into-ai-driven-video-mobile-first-live-sports-and-gaming/",
+        "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+        "url": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
         "source": "TechCrunch",
-        "date": "2026-03-13",
-        "description": "Peacock is betting on new AI-powered video experiences, vertical clips, and mobile games to help its growth."
+        "date": "2026-03-14",
+        "description": "These layoffs could help Facebook's parent company offset its aggressive spending on AI infrastructure, as well as AI-related acquisitions and hiring."
       },
       {
-        "title": "Atlassian follows Block\u2019s footsteps and cuts staff in the name of AI",
-        "url": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+        "title": "Digg lays off staff and shuts down app as company retools",
+        "url": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/",
         "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI."
+        "date": "2026-03-13",
+        "description": "Digg laid off a significant number of staff and shut down its app, but says it's not giving up on the startup."
+      },
+      {
+        "title": "Nyne, founded by a father-son duo, gives AI agents the human context they\u2019re missing",
+        "url": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/",
+        "source": "TechCrunch",
+        "date": "2026-03-13",
+        "description": "The data infrastructure startup raised $5.3 million in seed funding led by Wischoff Ventures and South Park Commons."
       },
       {
         "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
@@ -308,49 +357,35 @@
         "description": "The US military might use generative AI systems to rank lists of targets and make recommendations\u2014which would be vetted by humans\u2014about which to strike first, according to a Defense Department official with knowledge of the matter. The disclosure about how the military may use AI chatbots comes as t"
       },
       {
-        "title": "Building a strong data infrastructure for AI agent success",
-        "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-10",
-        "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u"
+        "title": "LLM Constitutional Multi-Agent Governance",
+        "url": "https://arxiv.org/abs/2603.13189v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Large Language Models (LLMs) can generate persuasive influence strategies that shift cooperative behavior in multi-agent populations, but a critical question remains: does the resulting cooperation reflect genuine prosocial alignment, or does it mask erosion of agent autonomy, epistemic integrity, a"
       },
       {
-        "title": "HumDex:Humanoid Dexterous Manipulation Made Easy",
-        "url": "https://arxiv.org/abs/2603.12260v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "This paper investigates humanoid whole-body dexterous manipulation, where the efficient collection of high-quality demonstration data remains a central bottleneck.\n  Existing teleoperation systems often suffer from limited portability, occlusion, or insufficient precision, which hinders their applic"
+        "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
+        "url": "https://news.ycombinator.com/item?id=47394291",
+        "source": "Hacker News",
+        "date": "2026-03-16",
+        "description": "58 points, 56 comments on Hacker News"
       },
       {
-        "title": "CogSearch: A Cognitive-Aligned Multi-Agent Framework for Proactive Decision Support in E-Commerce Search",
-        "url": "https://arxiv.org/abs/2603.11927v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Modern e-commerce search engines, largely rooted in passive retrieval-and-ranking models, frequently fail to support complex decision-making, leaving users overwhelmed by cognitive friction. In this paper, we introduce CogSearch, a novel cognitive-oriented multi-agent framework that reimagines e-com"
-      },
-      {
-        "title": "The Network That Thinks: Kraken* and the Dawn of Cognitive 6G",
-        "url": "https://arxiv.org/abs/2603.11920v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Future sixth-generation (6G) networks must evolve beyond high-speed data delivery to support intelligent, context-aware services. Emerging applications such as autonomous transportation, immersive extended reality, and large-scale sensing require networks capable of interpreting context, anticipatin"
-      },
-      {
-        "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
-        "url": "https://arxiv.org/abs/2603.12180v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Multimodal agents offer a promising path to automating complex document-intensive workflows. Yet, a critical question remains: do these agents demonstrate genuine strategic reasoning, or merely stochastic trial-and-error search? To address this, we introduce MADQA, a benchmark of 2,250 human-authore"
-      },
-      {
-        "title": "WORKSWORLD: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows",
-        "url": "https://arxiv.org/abs/2603.12214v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "This work pursues automated planning and scheduling of distributed data pipelines, or workflows. We develop a general workflow and resource graph representation that includes both data processing and sharing components with corresponding network interfaces for scheduling. Leveraging these graphs, we"
+        "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
+        "url": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/",
+        "source": "Hacker News",
+        "date": "2026-03-16",
+        "description": "78 points, 53 comments on Hacker News"
       }
     ],
     "Higher Education Policy": [
+      {
+        "title": "CISA Announces Town Hall Meetings on CIRCIA Regulations",
+        "url": "https://er.educause.edu/articles/2026/3/cisa-announces-town-hall-meetings-on-circia-regulations",
+        "source": "EDUCAUSE Review",
+        "date": "2026-03-12",
+        "description": "The Cybersecurity and Infrastructure Security Agency has announced a series of virtual town hall meetings to seek additional input on proposed regulations under the Cyber Incident Reporting for Critical Infrastructure Act."
+      },
       {
         "title": "Hotline: Cybersecurity and Privacy | March 2026",
         "url": "https://er.educause.edu/articles/2026/3/hotline-cybersecurity-and-privacy-march-2026",
@@ -359,46 +394,32 @@
         "description": "\"Hotline: Cybersecurity and Privacy\" tackles the philosophical, moral, strategic, and organizational quandaries related to higher education cybersecurity, privacy, and data. This month, Mike answers your questions about cybersecurity strategy, CMMC/CUI-compliant research computing and storage infras"
       },
       {
-        "title": "Trump Signs AI Executive Order as States Implement AI Laws",
-        "url": "https://er.educause.edu/articles/2026/3/trump-signs-ai-executive-order-as-states-implement-ai-laws",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-09",
-        "description": "In December 2025, President Trump issued an executive order establishing a national artificial intelligence (AI) policy framework, challenging stricter state AI laws, and tying certain federal funding to state compliance."
+        "title": "Row over university fees shows UK\u2019s \u2018reset\u2019 with EU may not be so simple",
+        "url": "https://www.theguardian.com/politics/2026/mar/15/row-over-university-fees-uk-reset-with-eu-not-so-simple",
+        "source": "The Guardian Education",
+        "date": "2026-03-15",
+        "description": "<p>Ministers go to Brussels for talks amid tuition fees standoff, almost 10 years after Britons voted to leave EU</p><p>This week is \u201cBrexit reset\u201d week for the British government, as ministers engage in a flurry of activity intended to highlight their determination to forge closer ties with Brussel"
       },
       {
-        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
-        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
-        "source": "EdSurge",
-        "date": "2026-03-11",
-        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
+        "title": "Office for Students faces judicial review over public funding for bible colleges",
+        "url": "https://www.theguardian.com/education/2026/mar/15/office-for-students-judicial-review-public-funding-bible-colleges",
+        "source": "The Guardian Education",
+        "date": "2026-03-15",
+        "description": "<p>National Secular Society to launch court action after failure to investigate alleged breaches of academic freedom laws</p><p>A university regulator in England has failed to investigate potential breaches of laws protecting academic freedom at a dozen theological colleges and is now facing legal a"
       },
       {
-        "title": "\u2018It\u2019s like a giant book club\u2019: how schools are getting children excited about reading again",
-        "url": "https://www.theguardian.com/books/2026/mar/13/school-children-excited-about-reading-book-club",
+        "title": "Row over tuition fees cut for European students threatens Starmer\u2019s EU reset",
+        "url": "https://www.theguardian.com/politics/2026/mar/15/row-tuition-fees-cut-european-students-threatens-starmer-eu-reset",
+        "source": "The Guardian Education",
+        "date": "2026-03-15",
+        "description": "<p>British negotiators \u2018blindsided\u2019 by Brussels\u2019 demand for a reduction that could cost universities \u00a3140m a year</p><p>Britain is in a standoff with Brussels over a demand to cut university tuition fees for European students, in a row that threatens to scupper Keir Starmer\u2019s planned EU reset.</p><p"
+      },
+      {
+        "title": "Phillipson accuses lawyers of exploiting parents of children with special needs",
+        "url": "https://www.theguardian.com/education/2026/mar/13/bridget-phillipson-accuses-lawyers-exploiting-parents-children-special-needs-send",
         "source": "The Guardian Education",
         "date": "2026-03-13",
-        "description": "<p>In the National Year of Reading, teachers say a culture of enthusiasm, from dress-up days, story time and book clubs, can reverse a national decline</p><p>Ajmal, 7, is an avid fan of the InvestiGators comic books. They feature two crime-busting alligator secret agents called Mango and Brash. \u201cIt\u2019"
-      },
-      {
-        "title": "Short tempers and legal threats: UK teachers report rise in problem parents",
-        "url": "https://www.theguardian.com/education/2026/mar/13/teachers-mental-heath-parents-behaviour-education",
-        "source": "The Guardian Education",
-        "date": "2026-03-13",
-        "description": "<p>Rudeness, social media posts and AI-generated complaints among issues harming staff wellbeing, union survey finds</p><p>Teachers are used to outbreaks of rudeness and defiance from their pupils, but are now saying parents are some of the worst offenders and affecting staff mental health, accordin"
-      },
-      {
-        "title": "Ohio State University president resigns over \u2018inappropriate relationship\u2019",
-        "url": "https://www.theguardian.com/us-news/2026/mar/09/ohio-state-university-president-resigns",
-        "source": "The Guardian Education",
-        "date": "2026-03-09",
-        "description": "<p>Walter \u2018Ted\u2019 Carter Jr says he \u2018made a mistake in allowing inappropriate access to Ohio State leadership\u2019</p><ul><li><p><a href=\"https://www.theguardian.com/news/2026/feb/17/sign-up-for-the-breaking-news-us-email-to-get-newsletter-alerts-direct-to-your-inbox?utm_medium=ACQUISITIONS_STANDFIRST&amp"
-      },
-      {
-        "title": "Ohio State Quickly Finds a President",
-        "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/03/13/ohio-state-quickly-finds-president",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-13",
-        "description": "<span>Ohio State Quickly Finds a President</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Students walk across the campus of The Ohio State University in Columbus, Ohio on November 6, 2023. \" height=\"80"
+        "description": "<p>Education secretary claims lawyers\u2019 criticisms of her department\u2019s policy changes are motivated by profit</p><p>Lawyers have been accused of exploiting parents of children with special needs by the education secretary, Bridget Phillipson, who said their criticisms of the government\u2019s policy chang"
       }
     ],
     "Learning Science & Design": [
@@ -410,39 +431,46 @@
         "description": "<p>If you\u2019re searching for NGSS-aligned science lessons that go beyond worksheets and actually get students thinking, building, and investigating \u2014 this is your moment. ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/science-should-feel-like-science-new-hands-on-ngss-aligned-resources-fo"
       },
       {
-        "title": "Will the Science of Reading Deliver This Time?",
-        "url": "https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/",
+        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
+        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
         "source": "Education Next",
-        "date": "2026-03-09",
-        "description": "<p>It\u2019s one bandwagon that might be worth jumping on, but it\u2019ll need to steer around some potholes</p>\n<p>The post <a href=\"https://www.educationnext.org/will-the-science-of-reading-deliver-this-time/\">Will the Science of Reading Deliver This Time?</a> appeared first on <a href=\"https://www.educatio"
+        "date": "2026-03-12",
+        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
       },
       {
-        "title": "\u2018Charismatic and extremely confident\u2019: how to recognise \u2013 and handle \u2013 a psychopath",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/mar/10/how-to-recognise-handle-psychopath",
-        "source": "The Guardian Education",
-        "date": "2026-03-10",
-        "description": "<p>Psychologist Leanne ten Brinke has spent decades studying toxic personality traits. What are the red flags to look out for among workmates, politicians and potential partners?</p><p>Coming face to face with a probable psychopath was enough to make Dr Leanne ten Brinke rethink her career choices. "
-      },
-      {
-        "title": "AI, Ethics and You",
-        "url": "https://www.insidehighered.com/opinion/views/2026/03/13/ai-ethics-and-you-opinion",
-        "source": "Inside Higher Ed",
+        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
+        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
+        "source": "EdSurge",
         "date": "2026-03-13",
-        "description": "<span>AI, Ethics and You</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A cartoon-like chatbot icon sits in front of a laptop computer.\" height=\"1732\" src=\"https://www.insidehighered.com/sites/default/f"
+        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
       },
       {
-        "title": "Paper Title: LoV3D: Grounding Cognitive Prognosis Reasoning in Longitudinal 3D Brain MRI via Regional Volume Assessments",
-        "url": "https://arxiv.org/abs/2603.12071v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Longitudinal brain MRI is essential for characterizing the progression of neurological diseases such as Alzheimer's disease assessment. However, current deep-learning tools fragment this process: classifiers reduce a scan to a label, volumetric pipelines produce uninterpreted measurements, and visio"
+        "title": "\u2018It\u2019s like a giant book club\u2019: how schools are getting children excited about reading again",
+        "url": "https://www.theguardian.com/books/2026/mar/13/school-children-excited-about-reading-book-club",
+        "source": "The Guardian Education",
+        "date": "2026-03-13",
+        "description": "<p>In the National Year of Reading, teachers say a culture of enthusiasm, from dress-up days, story time and book clubs, can reverse a national decline</p><p>Ajmal, 7, is an avid fan of the InvestiGators comic books. They feature two crime-busting alligator secret agents called Mango and Brash. \u201cIt\u2019"
       },
       {
-        "title": "An Intent of Collaboration: On Agencies between Designers and Emerging (Intelligent) Technologies",
-        "url": "https://arxiv.org/abs/2603.12018v1",
+        "title": "Representation Learning for Spatiotemporal Physical Systems",
+        "url": "https://arxiv.org/abs/2603.13227v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Amidst the emergence of powerful intelligent technologies such as LLMs and text-to-image AIs that promise to enhance creative processes, designers face the challenges of remaining empowered and creative while working with these foreign digital partners. While generative AIs offer versatile, informat"
+        "date": "2026-03-13",
+        "description": "Machine learning approaches to spatiotemporal physical systems have primarily focused on next-frame prediction, with the goal of learning an accurate emulator for the system's evolution in time. However, these emulators are computationally expensive to train and are subject to performance pitfalls, "
+      },
+      {
+        "title": "Navig-AI-tion: Navigation by Contextual AI and Spatial Audio",
+        "url": "https://arxiv.org/abs/2603.13200v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Audio-only walking navigation can leave users disoriented, relying on vague cardinal directions and lacking real-time environmental context, leading to frequent errors. To address this, we present a novel system that integrates a Vision Language Model (VLM) with a spatial audio cue. Our system extra"
+      },
+      {
+        "title": "A Multi-task Large Reasoning Model for Molecular Science",
+        "url": "https://arxiv.org/abs/2603.12808v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Advancements in artificial intelligence for molecular science are necessitating a paradigm shift from purely data-driven predictions to knowledge-guided computational reasoning. Existing molecular models are predominantly proprietary, lacking general molecular intelligence and generalizability. This"
       }
     ],
     "Skills & Workforce Development": [
@@ -454,48 +482,48 @@
         "description": "<p>A solution for the Anxious Generation is hiding in plain sight: Education Freedom Accounts</p>\n<p>The post <a href=\"https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/\">Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives</a> appeare"
       },
       {
-        "title": "Logged In, Tuned Out",
-        "url": "https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/",
-        "source": "Education Next",
+        "title": "The First Screen My Daughter Ever Saw",
+        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
+        "source": "EdSurge",
         "date": "2026-03-10",
-        "description": "<p>Fifteen years and billions of dollars later, what has learning tech accomplished?</p>\n<p>The post <a href=\"https://www.educationnext.org/logged-in-tuned-out-fifteen-years-billions-of-dollars-later-what-has-learning-tech-accomplished/\">Logged In, Tuned Out</a> appeared first on <a href=\"https://ww"
+        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
       },
       {
-        "title": "3 Things to Know About This Year\u2019s Application Data",
-        "url": "https://www.insidehighered.com/news/admissions/traditional-age/2026/03/13/common-app-data-shows-increase-applications",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-13",
-        "description": "<span>3 Things to Know About This Year\u2019s Application Data</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of three color-tinted images showing a college testing environment, a hand h"
+        "title": "Unacademy to be acquired by upGrad in share-swap deal as India\u2019s edtech sector consolidates",
+        "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+        "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "The deal comes after Unacademy\u2019s valuation plunged from $3.5B to under $500M, as India\u2019s once-booming edtech sector struggles."
       },
       {
-        "title": "After San Jos\u00e9 State Sues, McMahon Threatens to Take Action",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/03/13/after-san-jose-state-sues-mcmahon-threatens-take-action",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-13",
-        "description": "<span>After San Jos\u00e9 State Sues, McMahon Threatens to Take Action</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"US Secretary of Education Linda McMahon, wearing a coat, speaks into a microphone.\" heigh"
+        "title": "Building a strong data infrastructure for AI agent success",
+        "url": "https://www.technologyreview.com/2026/03/10/1134083/building-a-strong-data-infrastructure-for-ai-agent-success/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-10",
+        "description": "In the race to adopt and show value from AI, enterprises are moving faster than ever to deploy agentic AI as copilots, assistants, and autonomous task-runners. In late 2025, nearly two-thirds of companies were experimenting with AI agents, while 88% were using AI in at least one business function, u"
       },
       {
-        "title": "Resource-Efficient Iterative LLM-Based NAS with Feedback Memory",
-        "url": "https://arxiv.org/abs/2603.12091v1",
+        "title": "From Experiments to Expertise: Scientific Knowledge Consolidation for AI-Driven Computational Research",
+        "url": "https://arxiv.org/abs/2603.13191v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Neural Architecture Search (NAS) automates network design, but conventional methods demand substantial computational resources. We propose a closed-loop pipeline leveraging large language models (LLMs) to iteratively generate, evaluate, and refine convolutional neural network architectures for image"
+        "date": "2026-03-13",
+        "description": "While large language models (LLMs) have transformed AI agents into proficient executors of computational materials science, performing a hundred simulations does not make a researcher. What distinguishes research from routine execution is the progressive accumulation of knowledge -- learning which a"
       },
       {
-        "title": "On Information Self-Locking in Reinforcement Learning for Active Reasoning of LLM agents",
-        "url": "https://arxiv.org/abs/2603.12109v1",
+        "title": "DS$^2$-Instruct: Domain-Specific Data Synthesis for Large Language Models Instruction Tuning",
+        "url": "https://arxiv.org/abs/2603.12932v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Reinforcement learning (RL) with outcome-based rewards has achieved significant success in training large language model (LLM) agents for complex reasoning tasks. However, in active reasoning where agents need to strategically ask questions to acquire task-relevant information, we find that LLM agen"
+        "date": "2026-03-13",
+        "description": "Adapting Large Language Models (LLMs) to specialized domains requires high-quality instruction tuning datasets, which are expensive to create through human annotation. Existing data synthesis methods focus on general-purpose tasks and fail to capture domain-specific terminology and reasoning pattern"
       }
     ],
     "Research & Academic Papers": [
       {
-        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
-        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
-        "source": "Education Next",
+        "title": "The Shape of the Thing",
+        "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+        "source": "Ethan Mollick (One Useful Thing)",
         "date": "2026-03-12",
-        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+        "description": "Where we are right now, and what likely happens next"
       },
       {
         "title": "Place and Male Educational Attainment Gaps",
@@ -505,216 +533,307 @@
         "description": "In our latest release of the Distressed Communities Index, we highlighted the very strong relationship between local economic distress and the gap in educational outcomes between men and women."
       },
       {
-        "title": "Apple drops commission rates in China without a fuss",
-        "url": "https://techcrunch.com/2026/03/13/apple-drops-commission-rates-in-china-25-percent/",
-        "source": "TechCrunch",
+        "title": "How Libraries Shape AI Literacy on Campus",
+        "url": "https://www.insidehighered.com/news/student-success/academic-life/2026/03/13/how-libraries-shape-ai-literacy-campus",
+        "source": "Inside Higher Ed",
         "date": "2026-03-13",
-        "description": "Apple dropped its App Store commission rates to 25% in China, and commissions on auto-renewed subscriptions down to 12%."
+        "description": "<span>How Libraries Shape AI Literacy on Campus</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Group of Black students studying individually at a table at a college library.\" height=\"1501\" src=\"https://"
       },
       {
-        "title": "The FBI is investigating malware hidden inside games hosted on Steam",
-        "url": "https://techcrunch.com/2026/03/13/valve-steam-malware-games-fbi/",
+        "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
         "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+      },
+      {
+        "title": "Semantic Invariance in Agentic AI",
+        "url": "https://arxiv.org/abs/2603.13173v1",
+        "source": "arXiv",
         "date": "2026-03-13",
-        "description": "The FBI believes a series of video games published on Steam in the last two years were embedded with malware by the same hacker."
+        "description": "Large Language Models (LLMs) increasingly serve as autonomous reasoning agents in decision support, scientific problem-solving, and multi-agent coordination systems. However, deploying LLM agents in consequential applications requires assurance that their reasoning remains stable under semantically "
       },
       {
-        "title": "The Geometry of Clifford Algorithms: Bernstein-Vazirani as Classical Computation in a Rotated Basis",
-        "url": "https://arxiv.org/abs/2603.12127v1",
+        "title": "Memory Printer: Exploring Everyday Reminiscing by Combining Slow Design with Generative AI-based Image Creation",
+        "url": "https://arxiv.org/abs/2603.13116v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "The Bernstein-Vazirani (BV) algorithm is frequently taught as a canonical example of quantum parallelism, yet the standard interference-based explanation often obscures its underlying simplicity. We present a geometric reframing in which the Hadamard gate \"wrapping\" acts as a global basis rotation r"
+        "date": "2026-03-13",
+        "description": "Generative Artificial Intelligence (GAI) offers new opportunities for reconstructing these unrecorded memory scenes, yet existing web-based tools undermine users' sense of agency through disengaging and unpredictable interactions. In this work, we advance three design arguments about how slow, tangi"
       },
       {
-        "title": "Human-Centred LLM Privacy Audits: Findings and Frictions",
-        "url": "https://arxiv.org/abs/2603.12094v1",
+        "title": "Breaking the Tuning Barrier: Zero-Hyperparameters Yield Multi-Corner Analysis Via Learned Priors",
+        "url": "https://arxiv.org/abs/2603.13092v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Large language models (LLMs) learn statistical associations from massive training corpora and user interactions, and deployed systems can surface or infer information about individuals. Yet people lack practical ways to inspect what a model associates with their name. We report interim findings from"
+        "date": "2026-03-13",
+        "description": "Yield Multi-Corner Analysis validates circuits across 25+ Process-Voltage-Temperature corners, resulting in a combinatorial simulation cost of $O(K \\times N)$ where $K$ denotes corners and $N$ exceeds $10^4$ samples per corner. Existing methods face a fundamental trade-off: simple models achieve aut"
       },
       {
-        "title": "Cascade: Composing Software-Hardware Attack Gadgets for Adversarial Threat Amplification in Compound AI Systems",
-        "url": "https://arxiv.org/abs/2603.12023v1",
+        "title": "MoEKD: Mixture-of-Experts Knowledge Distillation for Robust and High-Performing Compressed Code Models",
+        "url": "https://arxiv.org/abs/2603.13213v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Rapid progress in generative AI has given rise to Compound AI systems - pipelines comprised of multiple large language models (LLM), software tools and database systems. Compound AI systems are constructed on a layered traditional software stack running on a distributed hardware infrastructure. Many"
+        "date": "2026-03-13",
+        "description": "Large language models for code have achieved strong performance across diverse software analytics tasks, yet their real-world adoption remains limited by high computational demands, slow inference speeds, significant energy consumption, and environmental impact. Knowledge distillation (KD) offers a "
       },
       {
-        "title": "$\u03a8_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation",
-        "url": "https://arxiv.org/abs/2603.12263v1",
+        "title": "A Conceptual Shift In Our Understanding of Degenerate Radical Spin Systems: Spin-Rotation Coupling Turned On Its Head",
+        "url": "https://arxiv.org/abs/2603.13211v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "We introduce $\u03a8_0$ (Psi-Zero), an open foundation model to address challenging humanoid loco-manipulation tasks. While existing approaches often attempt to address this fundamental problem by co-training on large and diverse human and humanoid data, we argue that this strategy is suboptimal due to t"
+        "date": "2026-03-13",
+        "description": "For most chemists, Kramers' degeneracy refers to the fact that for any radical system, every potential energy surface is at least doubly degenerate (with spin up and spin down, time-reversed solutions) for all nuclear positions $\\mathbf{X}$. That being said, as is well-known to the community of spin"
       },
       {
-        "title": "The Latent Color Subspace: Emergent Order in High-Dimensional Chaos",
-        "url": "https://arxiv.org/abs/2603.12261v1",
+        "title": "Learnability and Privacy Vulnerability are Entangled in a Few Critical Weights",
+        "url": "https://arxiv.org/abs/2603.13186v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Text-to-image generation models have advanced rapidly, yet achieving fine-grained control over generated images remains difficult, largely due to limited understanding of how semantic information is encoded. We develop an interpretation of the color representation in the Variational Autoencoder late"
+        "date": "2026-03-13",
+        "description": "Prior approaches for membership privacy preservation usually update or retrain all weights in neural networks, which is costly and can lead to unnecessary utility loss or even more serious misalignment in predictions between training data and non-training data. In this work, we observed three insigh"
       },
       {
-        "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
-        "url": "https://arxiv.org/abs/2603.12257v1",
+        "title": "Diffusion-Based Feature Denoising and Using NNMF for Robust Brain Tumor Classification",
+        "url": "https://arxiv.org/abs/2603.13182v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "While large-scale diffusion models have revolutionized video synthesis, achieving precise control over both multi-subject identity and multi-granularity motion remains a significant challenge. Recent attempts to bridge this gap often suffer from limited motion granularity, control ambiguity, and ide"
+        "date": "2026-03-13",
+        "description": "Brain tumor classification from magnetic resonance imaging, which is also known as MRI, plays a sensitive role in computer-assisted diagnosis systems. In recent years, deep learning models have achieved high classification accuracy. However, their sensitivity to adversarial perturbations has become "
       },
       {
-        "title": "Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing",
-        "url": "https://arxiv.org/abs/2603.12254v1",
+        "title": "MXNorm: Reusing MXFP block scales for efficient tensor normalisation",
+        "url": "https://arxiv.org/abs/2603.13180v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Multi-modal large language models (MLLMs) have advanced general-purpose video understanding but struggle with long, high-resolution videos -- they process every pixel equally in their vision transformers (ViTs) or LLMs despite significant spatiotemporal redundancy. We introduce AutoGaze, a lightweig"
+        "date": "2026-03-13",
+        "description": "Matrix multiplication performance has long been the major bottleneck to scaling deep learning workloads, which has stimulated the design of new accelerators that use increasingly low-precision number formats. However, improvements in matrix multiplication performance have far outstripped improvement"
       },
       {
-        "title": "Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation",
-        "url": "https://arxiv.org/abs/2603.12247v1",
+        "title": "First-principles predictions of band alignment in strained Si/Si1-xGex and Ge/Si1-xGex heterostructures",
+        "url": "https://arxiv.org/abs/2603.13219v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Reinforcement learning (RL) has emerged as a promising paradigm for enhancing image editing and text-to-image (T2I) generation. However, current reward models, which act as critics during RL, often suffer from hallucinations and assign noisy scores, inherently misguiding the optimization process. In"
+        "date": "2026-03-13",
+        "description": "Accurate band offsets are essential for predictive continuum modeling of nanostructures such as quantum wells and quantum dots formed in strained Si/Si1-xGex and Ge/Si1-xGex heterostructures. Experimental offset data for these systems remain sparse away from endpoint compositions, making composition"
       },
       {
-        "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
-        "url": "https://arxiv.org/abs/2603.12262v1",
+        "title": "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models",
+        "url": "https://arxiv.org/abs/2603.13215v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Online Video Large Language Models (VideoLLMs) play a critical role in supporting responsive, real-time interaction. Existing methods focus on streaming perception, lacking a synchronized logical reasoning stream. However, directly applying test-time scaling methods incurs unacceptable response late"
+        "date": "2026-03-13",
+        "description": "Evolutions in the world, such as water pouring or ice melting, happen regardless of being observed. Video world models generate \"worlds\" via 2D frame observations. Can these generated \"worlds\" evolve regardless of observation? To probe this question, we design a benchmark to evaluate whether video w"
       },
       {
-        "title": "DVD: Deterministic Video Depth Estimation with Generative Priors",
-        "url": "https://arxiv.org/abs/2603.12250v1",
+        "title": "A Generative Model of Conspicuous Consumption and Status Signaling",
+        "url": "https://arxiv.org/abs/2603.13220v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Existing video depth estimation faces a fundamental trade-off: generative models suffer from stochastic geometric hallucinations and scale drift, while discriminative models demand massive labeled datasets to resolve semantic ambiguities. To break this impasse, we present DVD, the first framework to"
+        "date": "2026-03-13",
+        "description": "Status signaling drives human behavior and the allocation of scarce resources such as mating opportunities, yet the generative mechanisms governing how specific goods, signals, or behaviors acquire prestige remain a puzzle. Classical frameworks, such as Costly Signaling Theory, treat preferences as "
       },
       {
-        "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
-        "url": "https://arxiv.org/abs/2603.12267v1",
+        "title": "Investigating mixed-integer programming approaches for the $p$-$\u03b1$-closest-center problem",
+        "url": "https://arxiv.org/abs/2603.13214v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Autoregressive (AR) video generative models rely on video tokenizers that compress pixels into discrete token sequences. The length of these token sequences is crucial for balancing reconstruction quality against downstream generation computational cost. Traditional video tokenizers apply a uniform "
+        "date": "2026-03-13",
+        "description": "In this work, we introduce and study the $p$-$\u03b1$-closest-center problem ($p\u03b1$CCP), which generalizes the $p$-second-center problem, a recently emerged variant of the classical $p$-center problem. In the $p\u03b1$CCP, we are given sets of customers and potential facility locations, distances between each "
       },
       {
-        "title": "Translationese as a Rational Response to Translation Task Difficulty",
-        "url": "https://arxiv.org/abs/2603.12050v1",
+        "title": "A Spatial Localizer for Electrons in Insulators",
+        "url": "https://arxiv.org/abs/2603.13206v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Translations systematically diverge from texts originally produced in the target language, a phenomenon widely referred to as translationese. Translationese has been attributed to production tendencies (e.g. interference, simplification), socio-cultural variables, and language-pair effects, yet a un"
+        "date": "2026-03-13",
+        "description": "The location of electrons governs phenomena ranging from chemical bonding and electric polarization to the topological classification of band insulators and the emergence of correlated states in quantum matter. While a prescription exists for finding local state representations of electrons in one-d"
       },
       {
-        "title": "Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights",
-        "url": "https://arxiv.org/abs/2603.12228v1",
+        "title": "In Defence of the Material Conditional",
+        "url": "https://arxiv.org/abs/2603.13066v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Pretraining produces a learned parameter vector that is typically treated as a starting point for further iterative adaptation. In this work, we instead view the outcome of pretraining as a distribution over parameter vectors, whose support already contains task-specific experts. We show that in sma"
+        "date": "2026-03-13",
+        "description": "The material conditional has long been charged with paradox. Defined truth-functionally, it renders true any conditional whose antecedent is false or consequent true -- hence, seemingly absurd statements such as `If unicorns exist, then $2+2=4$'. This has been taken as proof that the connective cann"
       },
       {
-        "title": "Structure Selection for Fairness-Constrained Differentially Private Data Synthesis",
-        "url": "https://arxiv.org/abs/2603.12112v1",
+        "title": "ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models",
+        "url": "https://arxiv.org/abs/2603.13033v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Differential privacy (DP) enables safe data release, with synthetic data generation emerging as a common approach in recent years. Yet standard synthesizers preserve all dependencies in the data, including spurious correlations between sensitive attributes and outcomes. In fairness-critical settings"
+        "date": "2026-03-13",
+        "description": "A recent trend in vision-language models (VLMs) has been to enhance their spatial cognition for embodied domains. Despite progress, existing evaluations have been limited both in paradigm and in coverage, hindering rapid, iterative model development. To address these limitations, we propose ESPIRE, "
       },
       {
-        "title": "Intelligent 6G Edge Connectivity: A Knowledge Driven Optimization Framework for Small Cell Selection",
-        "url": "https://arxiv.org/abs/2603.12086v1",
+        "title": "Pulse desynchronization of neural populations by targeting the centroid of the limit cycle in phase space",
+        "url": "https://arxiv.org/abs/2603.12878v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Sixth-generation (6G) wireless networks are expected to support immersive and mission-critical applications requiring ultra-reliable communication, sub-second responsiveness, and multi-Gbps data rates. Dense small-cell deployments are a key enabler of these capabilities; however, the large number of"
+        "date": "2026-03-13",
+        "description": "The synchronized activity of neuronal populations can lead to pathological over-synchronization in conditions such as epilepsy and Parkinson disease. Such states can be desynchronized by brief electrical pulses. But when the underlying oscillating system is not known, as in most practical applicatio"
       },
       {
-        "title": "Quantum Inductance as a Phase-Sensitive Probe of Fermion Parity Switching in Majorana Nanowires",
-        "url": "https://arxiv.org/abs/2603.12256v1",
+        "title": "Seeing Eye to Eye: Enabling Cognitive Alignment Through Shared First-Person Perspective in Human-AI Collaboration",
+        "url": "https://arxiv.org/abs/2603.12701v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "We study the flux-dependent quantum inductance of a one-dimensional (1D) semiconductor-superconductor (SM-SC) Majorana nanowire coupled to a quantum dot in an interferometric setup. Although quantum capacitance in this setup enables fast fermion parity readout, as has been demonstrated experimentall"
+        "date": "2026-03-13",
+        "description": "Despite advances in multimodal AI, current vision-based assistants often remain inefficient in collaborative tasks. We identify two key gulfs: a communication gulf, where users must translate rich parallel intentions into verbal commands due to the channel mismatch , and an understanding gulf, where"
       },
       {
-        "title": "$\\bar{D}$-meson Nucleon Scattering from Lattice QCD at the Physical Point",
-        "url": "https://arxiv.org/abs/2603.12251v1",
+        "title": "Dual-Laws Model for a theory of artificial consciousness",
+        "url": "https://arxiv.org/abs/2603.12662v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "We report the first lattice QCD study of the $s$-wave scattering of the $\\bar{D}$-meson and the nucleon at the physical point, utilizing (2+1)-flavor configurations generated by the HAL QCD collaboration with a pion mass of $m_\u03c0\\simeq 137$ MeV and a lattice spacing of $a\\simeq0.084$ fm. By applying "
+        "date": "2026-03-13",
+        "description": "Objectively verifying the generative mechanism of consciousness is extremely difficult because of its subjective nature. As long as theories of consciousness focus solely on its generative mechanism, developing a theory remains challenging. We believe that broadening the theoretical scope and enhanc"
       },
       {
-        "title": "Separable neural architectures as a primitive for unified predictive and generative intelligence",
-        "url": "https://arxiv.org/abs/2603.12244v1",
+        "title": "Clustering Astronomical Orbital Synthetic Data Using Advanced Feature Extraction and Dimensionality Reduction Techniques",
+        "url": "https://arxiv.org/abs/2603.13177v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Intelligent systems across physics, language and perception often exhibit factorisable structure, yet are typically modelled by monolithic neural architectures that do not explicitly exploit this structure. The separable neural architecture (SNA) addresses this by formalising a representational clas"
+        "date": "2026-03-13",
+        "description": "The dynamics of Saturn's satellite system offer a rich framework for studying orbital stability and resonance interactions. Traditional methods for analysing such systems, including Fourier analysis and stability metrics, struggle with the scale and complexity of modern datasets. This study introduc"
       },
       {
-        "title": "Onset of Ergodicity Across Scales on a Digital Quantum Processor",
-        "url": "https://arxiv.org/abs/2603.12236v1",
+        "title": "Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation",
+        "url": "https://arxiv.org/abs/2603.13131v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Understanding how isolated quantum many-body systems thermalize remains a central question in modern physics. We study the onset of ergodicity in a two-dimensional disordered Heisenberg Floquet model using digital quantum simulation on IBM's Nighthawk superconducting processor, reaching system sizes"
+        "date": "2026-03-13",
+        "description": "Open-world embodied agents must solve long-horizon tasks where the main bottleneck is not single-step planning quality but how interaction experience is organized and evolved. To this end, we present Steve-Evolving, a non-parametric self-evolving framework that tightly couples fine-grained execution"
       },
       {
-        "title": "Transition from Statistical to Hardware-Limited Scaling in Photonic Quantum State Reconstruction",
-        "url": "https://arxiv.org/abs/2603.12235v1",
+        "title": "V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration",
+        "url": "https://arxiv.org/abs/2603.13089v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "The theoretical efficiency of classical shadow tomography is predicated on a perfect Haar-random unitary ensemble, yet this mathematical ideal remains physically unattainable in near-term hardware. Here, we report the experimental discovery of a fundamental accuracy bound on integrated photonic proc"
+        "date": "2026-03-13",
+        "description": "Large-scale video generative models are trained on vast and diverse visual data, enabling them to internalize rich structural, semantic, and dynamic priors of the visual world. While these models have demonstrated impressive generative capability, their potential as general-purpose visual learners r"
       },
       {
-        "title": "Permutation invariant multi-scale full quantum neural network wavefunction",
-        "url": "https://arxiv.org/abs/2603.12233v1",
+        "title": "Noise mitigation of quantum observables via learning from Hamiltonian symmetry decays",
+        "url": "https://arxiv.org/abs/2603.13060v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Solving the intricate quantum behavior of interacting particles is key to unlocking the mysteries of condensed matter, but capturing their complex correlations across different scales remains a monumental challenge. We introduce a neural network framework that overcomes this barrier by modeling the "
+        "date": "2026-03-13",
+        "description": "We present a new quantum error mitigation technique (QEM), called GUiding Extrapolations from Symmetry decayS (GUESS), which exploits Hamiltonian symmetries to improve accuracy of noisy quantum computations. This method is explicitly designed for quantum algorithms that estimate expectation values o"
       },
       {
-        "title": "Thermalisation as Diffusion in Hilbert Space",
-        "url": "https://arxiv.org/abs/2603.12234v1",
+        "title": "Competition-Aware CPC Forecasting with Near-Market Coverage",
+        "url": "https://arxiv.org/abs/2603.13059v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "We develop a microscopic theory of thermalisation for a thermometer coupled to a many-body bath beyond standard Markovian and Fermi-golden-rule assumptions. By modeling interaction matrix elements in the non-interacting basis as independent random variables, we derive a diffusion-propagator expressi"
+        "date": "2026-03-13",
+        "description": "Cost-per-click (CPC) in paid search is a volatile auction outcome generated by a competitive landscape that is only partially observable from any single advertiser's history. Using Google Ads auction logs from a concentrated car-rental market (2021--2023), we forecast weekly CPC for 1,811 keyword se"
       },
       {
-        "title": "Stable Topology in Exactly Flat Bands",
-        "url": "https://arxiv.org/abs/2603.12258v1",
+        "title": "Inaccurate (weak) measurements classical and quantum",
+        "url": "https://arxiv.org/abs/2603.12927v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Topological flat bands (FBs) offer an ideal platform for realizing exotic topological phases, such as fractional Chern insulators, yet their realization with both exact flatness and stable topology in local lattice models has been long hindered by fundamental no-go theorems. Here, we overcome this b"
+        "date": "2026-03-13",
+        "description": "We consider highly inaccurate measurements made on classical stochastic and quantum systems. In the quantum case such a \\e{weak} measurement preserves coherence between the system's alternatives. We demonstrate that in both cases the information about the scenario realised in each individual trial i"
       },
       {
-        "title": "HandelBot: Real-World Piano Playing via Fast Adaptation of Dexterous Robot Policies",
-        "url": "https://arxiv.org/abs/2603.12243v1",
+        "title": "Enhanced Drug-drug Interaction Prediction Using Adaptive Knowledge Integration",
+        "url": "https://arxiv.org/abs/2603.12885v1",
         "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Mastering dexterous manipulation with multi-fingered hands has been a grand challenge in robotics for decades. Despite its potential, the difficulty of collecting high-quality data remains a primary bottleneck for high-precision tasks. While reinforcement learning and simulation-to-real-world transf"
+        "date": "2026-03-13",
+        "description": "Drug-drug interaction event (DDIE) prediction is crucial for preventing adverse reactions and ensuring optimal therapeutic outcomes. However, existing methods often face challenges with imbalanced datasets, complex interaction mechanisms, and poor generalization to unknown drug combinations. To addr"
+      },
+      {
+        "title": "exoALMA XXI: The Morphology and Dynamics of Vertical Flows",
+        "url": "https://arxiv.org/abs/2603.12861v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Vertical gas flows, such as winds and meridional circulations, are natural outcomes of protoplanetary disk processes and play a critical role in the earliest stages of planet formation. We analyze vertical gas motions in 14 disks as part of the exoALMA Large Program, focusing on the 12CO J=3-2 and 1"
+      },
+      {
+        "title": "SciDesignBench: Benchmarking and Improving Language Models for Scientific Inverse Design",
+        "url": "https://arxiv.org/abs/2603.12724v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Many of the most important problems in science and engineering are inverse problems: given a desired outcome, find a design that achieves it. Evaluating whether a candidate meets the spec is often routine; a binding energy can be computed, a reactor yield simulated, a pharmacokinetic profile predict"
+      },
+      {
+        "title": "Magnetotransport in the presence of real and momentum space topology",
+        "url": "https://arxiv.org/abs/2603.13229v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "We investigate magnetotransport in a time-reversal symmetry-broken, untilted Weyl semimetal in the simultaneous presence of momentum-space Berry curvature and real-space topology arising from a skyrmion-induced emergent magnetic field $\\mathbf{B}_{\\mathrm{emer}}$. Using a semiclassical Boltzmann app"
+      },
+      {
+        "title": "A 2% determination of $N_{\\rm eff}$ from primordial element abundance, cosmic microwave background, and baryon acoustic oscillation measurements",
+        "url": "https://arxiv.org/abs/2603.13226v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "We present a new constraint on the effective number of relativistic species in the early universe, $N_{\\rm eff}$, by combining recent primordial helium abundance measurements from the Large Binocular Telescope $Y_p$ Project with primordial deuterium abundance data, cosmic microwave background (CMB) "
+      },
+      {
+        "title": "Two-channel physics in a lightly doped antiferromagnetic Mott insulator revealed by two-hole spectroscopy",
+        "url": "https://arxiv.org/abs/2603.13222v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Understanding pairing in the strong-coupling regime of doped Mott insulators remains an open problem in the context of cuprate superconductors. We perform ultra-high resolution numerical simulations of spectral functions in the highly underdoped $t-J$ model and discover two coupled branches of hole "
+      },
+      {
+        "title": "Measurement of correlations between elliptic flow and mean transverse momentum in pp, p-Pb, and Pb-Pb collisions at the LHC",
+        "url": "https://arxiv.org/abs/2603.13217v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Measurements of the event-by-event correlation between elliptic flow ($v_2$) and the mean transverse momentum ($[p_{\\rm T}]$) using the modified Pearson correlation coefficient $\u03c1(v_2^2,[p_{\\rm T}])$ are reported in pp collisions at $\\sqrt{s} = 13$ TeV, and in p-Pb and Pb-Pb collisions at a center-o"
+      },
+      {
+        "title": "Bounds on Agreement between Subjective and Objective Measurements",
+        "url": "https://arxiv.org/abs/2603.13204v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Objective estimators of multimedia quality are often judged by comparing estimates with subjective \"truth data,\" most often via Pearson correlation coefficient (PCC) or mean-squared error (MSE). But subjective test results contain noise, so striving for a PCC of 1.0 or an MSE of 0.0 is neither reali"
+      },
+      {
+        "title": "$\u03c0$, K, and p production in high-multiplicity pp collisions at $\\sqrt{s} = 13$ TeV",
+        "url": "https://arxiv.org/abs/2603.13203v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "This paper presents the measurement of $\u03c0^{\\pm}$, K$^{\\pm}$, and p($\\bar{\\text{p}}$) production in high-multiplicity proton-proton collisions at $\\sqrt{s} = 13$ TeV at midrapidity ($|y| < 0.5$) using the ALICE detector at the LHC. The transverse-momentum ($p_{\\rm T}$) spectra of these particles are "
+      },
+      {
+        "title": "Challenging the Weak Cosmic Censorship with Phantom Fields",
+        "url": "https://arxiv.org/abs/2603.13210v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Penrose's weak cosmic censorship conjecture asserts that spacetime singularities produced by gravitational collapse are generically hidden behind event horizons, thus preventing them from causally influencing distant observers and preserving the predictability of the exterior region. In this work, w"
+      },
+      {
+        "title": "Axion search with telescope for radio astronomy (ASTRA): forecast for observations between 0.5 and 4~GHz",
+        "url": "https://arxiv.org/abs/2603.13194v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "Axion dark matter (DM) is predicted to convert into radio waves in neutron star magnetospheres. We assess the detectability of this signal using a 5 m radio telescope to be installed at the Fan Mountain Observatory, operating in the UHF, L- and S-bands from 0.5 to 4~GHz. We demonstrate that such a t"
+      },
+      {
+        "title": "Radiative return meets GVMD",
+        "url": "https://arxiv.org/abs/2603.13171v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "We improve the description of pion-photon interactions in the radiative return process $e^+e^-\\to \u03c0^+\u03c0^-\u03b3$ at the next-to-leading order by including the pion form factor in the Feynman rules. We present a general calculation of the new amplitudes, and provide an implementation easy to interface with"
+      },
+      {
+        "title": "ESG-Bench: Benchmarking Long-Context ESG Reports for Hallucination Mitigation",
+        "url": "https://arxiv.org/abs/2603.13154v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "As corporate responsibility increasingly incorporates environmental, social, and governance (ESG) criteria, ESG reporting is becoming a legal requirement in many regions and a key channel for documenting sustainability practices and assessing firms' long-term and ethical performance. However, the le"
+      },
+      {
+        "title": "When Dark Energy Turns On: Constraints on a Critical Emergence Model",
+        "url": "https://arxiv.org/abs/2603.13137v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "We investigate a specific emergent dark energy scenario, known as critically emergent dark energy (CEDE), in which dark energy is effectively absent in the early Universe and becomes dynamically relevant only after a critical cosmic epoch through a phase transition. We constrain this model using rec"
+      },
+      {
+        "title": "Unifying Decision Making and Trajectory Planning in Automated Driving through Time-Varying Potential Fields",
+        "url": "https://arxiv.org/abs/2603.13136v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "This paper proposes a unified decision making and local trajectory planning framework based on Time-Varying Artificial Potential Fields (TVAPFs). The TVAPF explicitly models the predicted motion via bounded uncertainty of dynamic obstacles over the planning horizon, using information from perception"
+      },
+      {
+        "title": "Robust symmetry breaking in gapless quantum magnets",
+        "url": "https://arxiv.org/abs/2603.13212v1",
+        "source": "arXiv",
+        "date": "2026-03-13",
+        "description": "We prove the existence of spontaneous symmetry breaking in suitably low-energy eigenstates of certain gapless and frustrated many-body quantum systems, namely symmetric quantum perturbations to classical models which exhibit spontaneous symmetry breaking of a finite group at some positive temperatur"
       }
     ],
     "Industry & Competitor News": [
       {
-        "title": "CISA Announces Town Hall Meetings on CIRCIA Regulations",
-        "url": "https://er.educause.edu/articles/2026/3/cisa-announces-town-hall-meetings-on-circia-regulations",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-12",
-        "description": "The Cybersecurity and Infrastructure Security Agency has announced a series of virtual town hall meetings to seek additional input on proposed regulations under the Cyber Incident Reporting for Critical Infrastructure Act."
-      },
-      {
-        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
-        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
-        "source": "EdSurge",
+        "title": "The AI race that Apple is winning",
+        "url": "https://www.exponentialview.co/p/the-ai-race-that-apple-is-winning",
+        "source": "Azeem Azhar (Exponential View)",
         "date": "2026-03-13",
-        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
-      },
-      {
-        "title": "The First Screen My Daughter Ever Saw",
-        "url": "https://www.edsurge.com/news/2026-03-10-the-first-screen-my-daughter-ever-saw",
-        "source": "EdSurge",
-        "date": "2026-03-10",
-        "description": "A premature baby, a pandemic and new pediatric research reveal why the screen-time debate is more nuanced than simply counting minutes."
-      },
-      {
-        "title": "Screen-Free Schools? Some Legislators Push for a New Normal",
-        "url": "https://www.edsurge.com/news/2026-03-09-screen-free-schools-some-legislators-push-for-a-new-normal",
-        "source": "EdSurge",
-        "date": "2026-03-09",
-        "description": "First, it was no phones in schools. Now, amid the debate around edtech, schools are looking to go screen free."
+        "description": "In today&#8217;s episode, I explore why despite seeming to lose the conventional AI race, Apple may end up holding one of the most powerful positions in AI."
       },
       {
         "title": "Ambient Computing via Voice AI is about to Enter its Golden Age in 2027",
@@ -731,41 +850,6 @@
         "description": "The Biggest European AI Startup just came out of Stealth."
       },
       {
-        "title": "Rakuten fixes issues twice as fast with Codex",
-        "url": "https://openai.com/index/rakuten",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
-      },
-      {
-        "title": "Designing AI agents to resist prompt injection",
-        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
-      },
-      {
-        "title": "From model to agent: Equipping the Responses API with a computer environment",
-        "url": "https://openai.com/index/equip-responses-api-computer-environment",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
-      },
-      {
-        "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-        "url": "https://openai.com/index/wayfair",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
-      },
-      {
-        "title": "Improving instruction hierarchy in frontier LLMs",
-        "url": "https://openai.com/index/instruction-hierarchy-challenge",
-        "source": "OpenAI News",
-        "date": "2026-03-10",
-        "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
-      },
-      {
         "title": "OpenAI to acquire Promptfoo",
         "url": "https://openai.com/index/openai-to-acquire-promptfoo",
         "source": "OpenAI News",
@@ -773,102 +857,81 @@
         "description": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development."
       },
       {
-        "title": "Motional robotaxis join the Uber app in Vegas two years after major reset",
-        "url": "https://techcrunch.com/2026/03/13/motional-robotaxis-join-the-uber-app-in-vegas-two-years-after-major-reset/",
+        "title": "Import AI 448: AI R&D; Bytedance\u2019s CUDA-writing agent; on-device satellite AI",
+        "url": "https://jack-clark.net/2026/03/09/import-ai-448-ai-rd-bytedances-cuda-writing-agent-on-device-satellite-ai/",
+        "source": "Jack Clark (Import AI)",
+        "date": "2026-03-09",
+        "description": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/03/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-lV3lPz.jpg?resize=150%2C150&amp;ssl=1\" wid"
+      },
+      {
+        "title": "Google, Accel India accelerator chooses 5 startups and none are \u2018AI wrappers\u2019",
+        "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+        "source": "TechCrunch",
+        "date": "2026-03-16",
+        "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort."
+      },
+      {
+        "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+        "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+        "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues."
+      },
+      {
+        "title": "TechCrunch Mobility: Travis Kalanick\u2019s return proves it really is 2016 again",
+        "url": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+        "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "Welcome back to TechCrunch Mobility \u2014 your central hub for news and insights on the future of transportation."
+      },
+      {
+        "title": "Wiz investor unpacks Google\u2019s $32B acquisition",
+        "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+        "source": "TechCrunch",
+        "date": "2026-03-15",
+        "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever."
+      },
+      {
+        "title": "Honda is killing its EVs \u2014\u00a0and any chance of competing in the future",
+        "url": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "Honda's decision to kill its three EVs for the U.S. market will reverberate far beyond North America."
+      },
+      {
+        "title": "Netflix\u2019s \u2018Frankenstein\u2019 wins three Oscars, \u2018KPop Demon Hunters\u2019 wins two",
+        "url": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+        "source": "TechCrunch",
+        "date": "2026-03-16",
+        "description": "\u201cFrankenstein\u201d won for Best Production Design, Best Costume Design, and Best Makeup and Hairstyling, while \u201cKPop Demon Hunters\u201d won for Best Animated Feature and Best Original Song."
+      },
+      {
+        "title": "As people look for ways to make new friends, here are the apps promising to help",
+        "url": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft."
+      },
+      {
+        "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+        "url": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "Learn how to use Spotify, Canva, Figma, Expedia, and other apps directly in ChatGPT."
+      },
+      {
+        "title": "\u2018Not built right the first time\u2019 \u2014 Musk\u2019s xAI is starting over again, again",
+        "url": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/",
+        "source": "TechCrunch",
+        "date": "2026-03-14",
+        "description": "The AI lab is revamping its effort to build an AI coding tool, with two new executives joining from Cursor."
+      },
+      {
+        "title": "Facebook makes it easier for creators to report impersonators",
+        "url": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/",
         "source": "TechCrunch",
         "date": "2026-03-13",
-        "description": "The launch comes just two years after a major reboot at Hyundai-owned Motional. The service will start with a safety monitor, which Motional hopes to remove by year's end."
-      },
-      {
-        "title": "Before quantum computing arrives, this startup wants enterprises already running on it",
-        "url": "https://techcrunch.com/2026/03/12/before-quantum-computing-arrives-this-startup-wants-enterprises-already-running-on-it/",
-        "source": "TechCrunch",
-        "date": "2026-03-13",
-        "description": "After selling his AI startup to AMD for $665 million, Peter Sarlin is back with QuTwo, a new venture building the infrastructure it believes enterprises will need when quantum computing finally arrives."
-      },
-      {
-        "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
-        "url": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools."
-      },
-      {
-        "title": "Facebook Marketplace now lets Meta AI respond to buyers\u2019 messages",
-        "url": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "When buyers inquire about an item\u2019s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price."
-      },
-      {
-        "title": "Substack launches a built-in recording studio",
-        "url": "https://techcrunch.com/2026/03/12/substack-launches-a-built-in-recording-studio/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Substack creators can pre-record video conversations with up to two guests, then publish directly on the platform."
-      },
-      {
-        "title": "Channel Surfer lets you watch YouTube like it\u2019s old-school cable TV",
-        "url": "https://techcrunch.com/2026/03/12/channel-surfer-watch-youtube-retro-cable-tv-guide/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "The web app lets you turn on YouTube and surf channels like you're watching cable TV in the '90s."
-      },
-      {
-        "title": "Why Rivian is holding the $45,000 base model R2 until \u2018late 2027\u2019",
-        "url": "https://techcrunch.com/2026/03/12/why-rivian-is-holding-the-45000-base-model-r2-until-late-2027/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Rivian spent the last two years promoting the R2 as a $45,000 SUV. But buyers won't be able to pay that price until late next year -- if at all."
-      },
-      {
-        "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
-        "url": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Tinder just got a major revamp as it attempts to reengage its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating."
-      },
-      {
-        "title": "Webflow buys AI content-generation platform Vidoso to bolster its marketing suite",
-        "url": "https://techcrunch.com/2026/03/12/webflow-buys-ai-content-generation-platform-vidoso-to-bolster-its-marketing-suite/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Founded in 2024, Vidoso uses large language models to help organizations generate marketing collateral like images, presentations, video clips, blog posts, and social media content."
-      },
-      {
-        "title": "Bumble introduces an AI dating assistant, \u2018Bee\u2019",
-        "url": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals."
-      },
-      {
-        "title": "Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots",
-        "url": "https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "Sunday is on a quest to build a household humanoid robot called Memo that helps with tasks like laundry and clearing the table. The company emerged from stealth late last year and already has 1,000 people on its waitlist."
-      },
-      {
-        "title": "Lucid Motors shows off robotaxi concept called \u2018Lunar\u2019",
-        "url": "https://techcrunch.com/2026/03/12/lucid-motors-shows-off-robotaxi-concept-called-lunar/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "The concept was a highlight of Lucid's investor day, in which the company detailed its ambitions to push deeper into autonomy while pumping out new, affordable EVs."
-      },
-      {
-        "title": "Future AI chips could be built on glass",
-        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-13",
-        "description": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation"
-      },
-      {
-        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
-        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-13",
-        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targ"
+        "description": "Facebook is making it easier for creators to report impersonators while tightening rules around reposts and other unoriginal content."
       },
       {
         "title": "Why physical AI is becoming manufacturing\u2019s next advantage",
@@ -878,11 +941,18 @@
         "description": "For decades, manufacturers have pursued automation to drive efficiency, reduce costs, and stabilize operations. That approach delivered meaningful gains, but it is no longer enough. Today\u2019s manufacturing leaders face a different challenge: how to grow amid labor constraints, rising complexity, and i"
       },
       {
-        "title": "Law enforcement shuts down botnet made of tens of thousands of hacked routers",
-        "url": "https://techcrunch.com/2026/03/12/law-enforcement-shuts-down-botnet-made-of-tens-of-thousands-of-hacked-routers/",
-        "source": "TechCrunch",
-        "date": "2026-03-12",
-        "description": "An international law enforcement operation shut down a service called SocksEscort, which allegedly helped cybercriminals all over the world launch ransomware and DDoS attacks, as well as distribute child sexual abuse material."
+        "title": "The Download: how AI is used for military targeting, and the Pentagon\u2019s war on Claude",
+        "url": "https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-13",
+        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Defense&#160;official reveals how AI chatbots could be used for targeting decisions&#160; The US military might use generative AI systems to rank targ"
+      },
+      {
+        "title": "Future AI chips could be built on glass",
+        "url": "https://www.technologyreview.com/2026/03/13/1134230/future-ai-chips-could-be-built-on-glass/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-13",
+        "description": "Human-made glass is thousands of years old. But it\u2019s now poised to find its way into the AI chips used in the world\u2019s newest and largest data centers. This year, a South Korean company called Absolics is planning to start commercial production of special glass panels designed to make next-generation"
       },
       {
         "title": "The Download: Early adopters cash in on China\u2019s OpenClaw craze, and US batteries slump",
@@ -890,27 +960,6 @@
         "source": "MIT Technology Review",
         "date": "2026-03-12",
         "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Hustlers are cashing in on China\u2019s&#160;OpenClaw&#160;AI craze&#160; In January, Beijing-based software engineer Feng Qingyang started tinkering with&"
-      },
-      {
-        "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
-        "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-11",
-        "description": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and auto"
-      },
-      {
-        "title": "The Download: Pok\u00e9mon Go to train world models, and the US-China race to find aliens",
-        "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
-        "source": "MIT Technology Review",
-        "date": "2026-03-11",
-        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world&#160; Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released "
-      },
-      {
-        "title": "Security Considerations for Artificial Intelligence Agents",
-        "url": "https://arxiv.org/abs/2603.12230v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "This article, a lightly adapted version of Perplexity's response to NIST/CAISI Request for Information 2025-0035, details our observations and recommendations concerning the security of frontier AI agents. These insights are informed by Perplexity's experience operating general-purpose agentic syste"
       },
       {
         "title": "Pragmatic by design: Engineering AI for the real world",
@@ -927,129 +976,115 @@
         "description": "Just a few years ago, the battery industry was hot, hot, hot. There was a seemingly infinite number of companies popping up, with shiny new chemistries and massive fundraising rounds. My biggest problem was sifting through the pile to pick the most exciting news to cover. That tide has turned, and i"
       },
       {
-        "title": "Emergent Anomalous Hall Effect from Surface States in the Altermagnet MnTe Thin Films",
-        "url": "https://arxiv.org/abs/2603.12259v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Transport measurements on thin films of the prototypical altermagnet MnTe have reported conflicting phenomena of anomalous Hall effects (AHE), including opposite signs and thickness-independent resistivity. Here we resolve these discrepancies by separating bulk and surface contributions to the AHE f"
+        "title": "Hustlers are cashing in on China\u2019s OpenClaw AI craze",
+        "url": "https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-11",
+        "description": "Feng Qingyang had always hoped to launch his own company, but he never thought this would be how\u2014or that the day would come this fast.&#160; Feng, a 27-year-old software engineer based in Beijing, started tinkering with OpenClaw, a popular new open-source AI tool that can take over a device and auto"
       },
       {
-        "title": "Forecasting and Manipulating the Forecasts of Others",
-        "url": "https://arxiv.org/abs/2603.12140v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "In strategic environments with private information, evaluating a change in policy requires predicting how the equilibrium responds -- but when actions reshape opponents' signals, each agent's optimal response depends on an infinite hierarchy of beliefs about beliefs that has resisted exact analysis "
-      },
-      {
-        "title": "Evil Twins in Sums of Wildflowers",
-        "url": "https://arxiv.org/abs/2603.12225v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "A game $G$ is said to have the evil twin property if there exists $G^* \\in \\{G,G+*\\}$ such that $o^+(G) = o^-(G^*)$ and $o^+(G^*) = o^-(G)$. We study sums of wildflowers, games of form $G:H$. We find that a large closed set of sums of wildflowers has the evil twin property, extending work of McKay--"
-      },
-      {
-        "title": "QAQ: Bidirectional Semantic Coherence for Selecting High-Quality Synthetic Code Instructions",
-        "url": "https://arxiv.org/abs/2603.12165v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Synthetic data has become essential for training code generation models, yet it introduces significant noise and hallucinations that are difficult to detect with current metrics. Existing data selection methods like Instruction-Following Difficulty (IFD) typically assess how hard a model generates a"
-      },
-      {
-        "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
-        "url": "https://quesma.com/blog/chromatron-recompiled/",
-        "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "26 points, 9 comments on Hacker News"
+        "title": "The Download: Pok\u00e9mon Go to train world models, and the US-China race to find aliens",
+        "url": "https://www.technologyreview.com/2026/03/11/1134174/the-download-pokemon-go-train-world-models-us-china-race-find-aliens/",
+        "source": "MIT Technology Review",
+        "date": "2026-03-11",
+        "description": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How Pok\u00e9mon Go is giving delivery robots an inch-perfect view of the world&#160; Pok\u00e9mon Go was the world\u2019s first augmented-reality megahit. Released "
       },
       {
         "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
         "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "264 points, 276 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "276 points, 301 comments on Hacker News"
       },
       {
         "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
         "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "479 points, 349 comments on Hacker News"
-      },
-      {
-        "title": "Anthropic, please make a new Slack",
-        "url": "https://www.fivetran.com/blog/anthropic-please-make-a-new-slack",
-        "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "271 points, 253 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "479 points, 350 comments on Hacker News"
       },
       {
         "title": "I'm glad the Anthropic fight is happening now",
         "url": "https://www.dwarkesh.com/p/dow-anthropic",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "176 points, 212 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "178 points, 218 comments on Hacker News"
       },
       {
-        "title": "Palantir and Anthropic AI helped the US hit 1k Iran targets in 24 hours",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/how-palantir-and-anthropic-ai-helped-the-us-hit-1-000-iran-targets-in-24-hours-article-13853331.html",
+        "title": "Prompt-caching \u2013 auto-injects Anthropic cache breakpoints (90% token savings)",
+        "url": "https://prompt-caching.ai/",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "111 points, 87 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "69 points, 27 comments on Hacker News"
       },
       {
-        "title": "Anthropic sues to block Pentagon blacklisting over AI use restrictions",
-        "url": "https://www.reuters.com/world/anthropic-sues-block-pentagon-blacklisting-over-ai-use-restrictions-2026-03-09/",
+        "title": "Anthropic has strong case against Pentagon blacklisting, legal experts say",
+        "url": "https://www.reuters.com/legal/legalindustry/anthropic-has-strong-case-against-pentagon-blacklisting-legal-experts-say-2026-03-11/",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "78 points, 53 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "54 points, 12 comments on Hacker News"
       },
       {
         "title": "X is selling existing users' handles",
         "url": "https://news.ycombinator.com/item?id=47340754",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "195 points, 89 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "197 points, 91 comments on Hacker News"
       },
       {
         "title": "Launch HN: Spine Swarm (YC S23) \u2013 AI agents that collaborate on a visual canvas",
         "url": "https://www.getspine.ai/",
         "source": "Hacker News",
-        "date": "2026-03-13",
-        "description": "44 points, 45 comments on Hacker News"
+        "date": "2026-03-16",
+        "description": "108 points, 69 comments on Hacker News"
+      },
+      {
+        "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
+        "url": "https://sitespy.app",
+        "source": "Hacker News",
+        "date": "2026-03-16",
+        "description": "320 points, 78 comments on Hacker News"
+      },
+      {
+        "title": "SHOW HN: A usage circuit breaker for Cloudflare Workers",
+        "url": "https://news.ycombinator.com/item?id=47322794",
+        "source": "Hacker News",
+        "date": "2026-03-16",
+        "description": "29 points, 9 comments on Hacker News"
       },
       {
         "title": "Where things stand with the Department of WarAnnouncementsMar 5, 2026A statement from Dario Amodei.",
         "url": "https://www.anthropic.com/news/where-stand-department-war",
         "source": "Anthropic News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "Latest news and announcements from Anthropic"
       },
       {
         "title": "AnnouncementsFeb 27, 2026Statement on the comments from Secretary of War Pete HegsethAnthropic's response to the Secretary of War and advice to customers.",
         "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
         "source": "Anthropic News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "Latest news and announcements from Anthropic"
       },
       {
         "title": "AnnouncementsFeb 26, 2026Statement from Dario Amodei on our discussions with the Department of WarA statement from our CEO on national security uses of AI.",
         "url": "https://www.anthropic.com/news/statement-department-of-war",
         "source": "Anthropic News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "Latest news and announcements from Anthropic"
       },
       {
         "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
         "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
         "source": "Anthropic News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "Latest news and announcements from Anthropic"
       },
       {
         "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
         "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
         "source": "Anthropic News",
-        "date": "2026-03-13",
+        "date": "2026-03-16",
         "description": "Latest news and announcements from Anthropic"
       }
     ]
