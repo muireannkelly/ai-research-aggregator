@@ -99,7 +99,7 @@ def fetch_rss():
                     count += 1
             print(f"{source}: {count} items found")
         except Exception as e:
-            print(f"{source}: error — {e}")
+            print(f"{source}: error - {e}")
     return items
 
 def fetch_arxiv():
@@ -123,7 +123,7 @@ def fetch_arxiv():
                     count += 1
             print(f"arXiv ({label}): {count} items found")
         except Exception as e:
-            print(f"arXiv ({label}): error — {e}")
+            print(f"arXiv ({label}): error - {e}")
     return items
 
 def fetch_hacker_news():
@@ -146,4 +146,63 @@ def fetch_hacker_news():
                     items.append({
                         "title": title,
                         "url": story_url,
-                        "source": "Hacke
+                        "source": "Hacker News",
+                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "description": f"{points} points, {comments} comments on Hacker News"
+                    })
+                    count += 1
+            print(f"Hacker News ({query}): {count} items found")
+    except Exception as e:
+        print(f"Hacker News: error - {e}")
+    return items
+
+def fetch_anthropic_news():
+    """Scrape Anthropic news page for recent posts"""
+    items = []
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; research-aggregator/1.0)"}
+        response = requests.get("https://www.anthropic.com/news", headers=headers, timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
+        count = 0
+        for link in soup.find_all("a", href=True):
+            href = link["href"]
+            if "/news/" in href and href != "/news":
+                full_url = f"https://www.anthropic.com{href}" if href.startswith("/") else href
+                title = link.get_text(strip=True)
+                if title and len(title) > 10:
+                    items.append({
+                        "title": title,
+                        "url": full_url,
+                        "source": "Anthropic News",
+                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "description": "Latest news and announcements from Anthropic"
+                    })
+                    count += 1
+                    if count >= 5:
+                        break
+        print(f"Anthropic News: {count} items found")
+    except Exception as e:
+        print(f"Anthropic News: error - {e}")
+    return items
+
+def main():
+    all_items = fetch_rss() + fetch_arxiv() + fetch_hacker_news() + fetch_anthropic_news()
+
+    # Deduplicate by URL
+    seen_urls = set()
+    unique_items = []
+    for item in all_items:
+        if item["url"] not in seen_urls and item["url"]:
+            seen_urls.add(item["url"])
+            unique_items.append(item)
+
+    # Filter TechCrunch, MIT Tech Review, and Hacker News to education-relevant articles only
+    unique_items = [item for item in unique_items if is_education_relevant(item)]
+
+    print(f"\nTotal unique items collected: {len(unique_items)}")
+    with open("output.json", "w") as f:
+        json.dump(unique_items, f, indent=2)
+    print("Saved to output.json")
+
+if __name__ == "__main__":
+    main()
