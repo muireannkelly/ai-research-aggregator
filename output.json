@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-03-17 11:39 UTC",
+  "last_updated": "2026-03-17 13:50 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
+        "title": "Unpacking the cognitive and ethical pathways of generative AI tools in higher education: a PLS-SEM study of learning performance mediation and moderation effects",
+        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3563",
+        "source": "Research in Learning Technology",
+        "date": "2026-03-13",
+        "description": "<p>This study examines how Generative Artificial Intelligence Tools (GAIT) influence student learning performance (LP) through cognitive, affective and ethical pathways using Partial Least Squares Structural Equation Modeling (PLS-SEM). Data were collected from 292 Indonesian university students thr"
+      },
+      {
+        "title": "Students\u2019 perspectives on AI conversations in brainstorming within learning management systems in higher education",
+        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3674",
+        "source": "Research in Learning Technology",
+        "date": "2026-03-13",
+        "description": "<p>This article explores students\u2019 perspectives on how AI conversations can enhance brainstorming within the Learning Management System (LMS), specifically Blackboard (BB). By analysing students\u2019 feedback, the study investigates how students are familiar with AI conversation, benefits, challenges, a"
+      },
+      {
         "title": "Doctoral students\u2019 interdisciplinary research proposal development supported by generative AI",
         "url": "https://link.springer.com/article/10.1007/s10639-026-13952-y",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-17",
-        "description": ""
-      },
-      {
-        "title": "Bridging minds and machines: a comparative study of AI and human rater agreement and reliability in educational assessment",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13949-7",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-17",
-        "description": ""
-      },
-      {
-        "title": "Uncovering diverse digital motivational patterns in computer science students to enhance educational practice",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13940-2",
         "source": "Education and Information Technologies",
         "date": "2026-03-17",
         "description": ""
@@ -31,13 +31,6 @@
         "description": ""
       },
       {
-        "title": "Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13939-9",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-16",
-        "description": ""
-      },
-      {
         "title": "What are teachers\u2019 perspectives and practices regarding the integration of GenAI tools in pedagogical design and classroom instruction?",
         "url": "https://link.springer.com/article/10.1007/s10639-026-13925-1",
         "source": "Education and Information Technologies",
@@ -45,10 +38,10 @@
         "description": ""
       },
       {
-        "title": "Antecedents of students\u2019 feedback engagement: A longitudinal investigation of learner motivation and generative AI-enabled teacher feedback literacy",
-        "url": "https://link.springer.com/article/10.1007/s10639-025-13879-w",
+        "title": "Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13931-3",
         "source": "Education and Information Technologies",
-        "date": "2026-03-14",
+        "date": "2026-03-12",
         "description": ""
       },
       {
@@ -66,6 +59,20 @@
         "description": "British Journal of Educational Technology, EarlyView."
       },
       {
+        "title": "Linguistic differences between self-written and generative AI-assisted student texts in Dutch bachelor CS education",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13939-9",
+        "source": "Education and Information Technologies",
+        "date": "2026-03-16",
+        "description": ""
+      },
+      {
+        "title": "Toward sustainable digital innovation in education: Contextualizing LMS adoption through perceived complexity, organizational support, and teacher positionality in the post-pandemic era",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13913-5",
+        "source": "Education and Information Technologies",
+        "date": "2026-03-14",
+        "description": "<p>This study addresses the need for sustainable digital practices in education by examining the sustained adoption of Learning Management Systems (LMSs) among K\u201312 teachers in the post-pandemic era. Specifically, it investigates how perceived complexity and organizational support interact to shape "
+      },
+      {
         "title": "How field independence/dependence and immersion tendency affect spatial ability training in VR environments: An empirical study",
         "url": "https://link.springer.com/article/10.1007/s10639-026-13935-z",
         "source": "Education and Information Technologies",
@@ -73,99 +80,18 @@
         "description": ""
       },
       {
-        "title": "Designing AI agents to resist prompt injection",
-        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-        "source": "OpenAI News",
-        "date": "2026-03-11",
-        "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
-      },
-      {
-        "title": "Scaling Laws for Educational AI Agents",
-        "url": "https://arxiv.org/abs/2603.11709v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "While scaling laws for Large Language Models (LLMs) have been extensively studied along dimensions of model parameters, training data, and compute, the scaling behavior of LLM-based educational agents remains unexplored. We propose that educational agent capability scales not merely with the underly"
-      },
-      {
-        "title": "Human-in-the-Loop LLM Grading for Handwritten Mathematics Assessments",
-        "url": "https://arxiv.org/abs/2603.13083v1",
-        "source": "arXiv",
-        "date": "2026-03-13",
-        "description": "Providing timely and individualised feedback on handwritten student work is highly beneficial for learning but difficult to achieve at scale. This challenge has become more pressing as generative AI undermines the reliability of take-home assessments, shifting emphasis toward supervised, in-class ev"
-      },
-      {
-        "title": "Marked Pedagogies: Examining Linguistic Biases in Personalized Automated Writing Feedback",
-        "url": "https://arxiv.org/abs/2603.12471v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Effective personalized feedback is critical to students' literacy development. Though LLM-powered tools now promise to automate such feedback at scale, LLMs are not language-neutral: they privilege standard academic English and reproduce social stereotypes, raising concerns about how \"personalizatio"
-      },
-      {
-        "title": "Can LLMs Model Incorrect Student Reasoning? A Case Study on Distractor Generation",
-        "url": "https://arxiv.org/abs/2603.15547v1",
-        "source": "arXiv",
-        "date": "2026-03-16",
-        "description": "Modeling plausible student misconceptions is critical for AI in education. In this work, we examine how large language models (LLMs) reason about misconceptions when generating multiple-choice distractors, a task that requires modeling incorrect yet plausible answers by coordinating solution knowled"
-      },
-      {
-        "title": "The Future of Feedback: How Can AI Help Transform Feedback to Be More Engaging, Effective, and Scalable?",
-        "url": "https://arxiv.org/abs/2603.12463v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "With digital learning environments becoming more prevalent, the ease with which generative AI enables the scalable production of real-time, automated feedback holds the potential to reshape learning and teaching experiences. This meeting report synthesizes the interdisciplinary perspectives of 50 sc"
-      },
-      {
-        "title": "A Theory of Appropriateness That Accounts for Norms of Rationality",
-        "url": "https://arxiv.org/abs/2603.14050v1",
-        "source": "arXiv",
-        "date": "2026-03-14",
-        "description": "We propose a society-first theory of normative appropriateness where individuals, modeled as pre-trained actors with cognitive architectures analogous to Large Language Models (LLMs), generate behavior via predictive pattern completion. Our theory posits that individuals act by completing distribute"
-      }
-    ],
-    "Assessment & Credentialing": [
-      {
-        "title": "Criterion-referenceability determines LLM-as-a-judge validity across physics assessment formats",
-        "url": "https://arxiv.org/abs/2603.14732v1",
-        "source": "arXiv",
-        "date": "2026-03-16",
-        "description": "As large language models (LLMs) are increasingly considered for automated assessment and feedback, understanding when LLM marking can be trusted is essential. We evaluate LLM-as-a-judge marking across three physics assessment formats - structured questions, written essays, and scientific plots - com"
-      },
-      {
-        "title": "Evaluation format, not model capability, drives triage failure in the assessment of consumer health AI",
-        "url": "https://arxiv.org/abs/2603.11413v2",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Ramaswamy et al. reported in \\textit{Nature Medicine} that ChatGPT Health under-triages 51.6\\% of emergencies, concluding that consumer-facing AI triage poses safety risks. However, their evaluation used an exam-style protocol -- forced A/B/C/D output, knowledge suppression, and suppression of clari"
-      }
-    ],
-    "Future of Work & Skills": [
-      {
-        "title": "Beyond the Classroom: How School Districts Are Building Real-World Career Pathways",
-        "url": "https://www.edsurge.com/news/2026-03-16-beyond-the-classroom-how-school-districts-are-building-real-world-career-pathways",
-        "source": "EdSurge",
-        "date": "2026-03-16",
-        "description": "Some school districts are moving well beyond career simulations, partnering instead with clients in the community to give students opportunities to ..."
-      },
-      {
-        "title": "The Social Wealth Gap",
-        "url": "https://www.educationnext.org/social-wealth-gap-students-lack-social-connections-lead-to-better-outcomes/",
-        "source": "Education Next",
-        "date": "2026-03-17",
-        "description": "<p>Many students lack the social connections that lead to better outcomes. Schools can help make them.</p>\n<p>The post <a href=\"https://www.educationnext.org/social-wealth-gap-students-lack-social-connections-lead-to-better-outcomes/\">The Social Wealth Gap</a> appeared first on <a href=\"https://www."
-      },
-      {
-        "title": "No Homework? No Problem.",
-        "url": "https://www.educationnext.org/no-homework-no-problem-decline-take-home-assignments/",
-        "source": "Education Next",
-        "date": "2026-03-16",
-        "description": "<p>Eminent ed school dean Smug Snidely sees the decline in take-home assignments as allowing students more time to be their authentic selves</p>\n<p>The post <a href=\"https://www.educationnext.org/no-homework-no-problem-decline-take-home-assignments/\">No Homework? No Problem.</a> appeared first on <a"
-      },
-      {
-        "title": "Steering schools into the digital future: A serial mediation model of principal digital leadership, school digital culture, school organizational digital agility, and school digital transformation in Taiwanese secondary schools",
-        "url": "https://link.springer.com/article/10.1007/s10639-025-13890-1",
+        "title": "How game elements are connected to motivational design in gamified geogebra learning environments: identifying design principles using ARCS theory",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13930-4",
         "source": "Education and Information Technologies",
-        "date": "2026-03-12",
+        "date": "2026-03-13",
         "description": ""
+      },
+      {
+        "title": "\ud83d\udd2e The lantern and the flame",
+        "url": "https://www.exponentialview.co/p/the-lantern-and-the-flame",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-03-13",
+        "description": "How I protect my thinking as I use AI constantly"
       },
       {
         "title": "Cursor's Wild Trajectory to being a Vibe Working Leader",
@@ -175,41 +101,87 @@
         "description": "Vibe Working: How AI Plugins Across Cursor, Claude Code & Cowork Are Changing How We Work. Why Cursor is destined to lead Enterprise AI."
       },
       {
+        "title": "Designing AI agents to resist prompt injection",
+        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+        "source": "OpenAI News",
+        "date": "2026-03-11",
+        "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+      },
+      {
+        "title": "Criminology Professor Spills His \u2018Love Is Blind\u2019 Success Story",
+        "url": "https://www.insidehighered.com/news/faculty-issues/2026/03/17/criminology-professor-spills-his-love-blind-story",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-17",
+        "description": "<span>Criminology Professor Spills His \u2018Love Is Blind\u2019 Success Story</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Vic St. John, from above, waiting behind closed doors.\" height=\"800\" src=\"https://www."
+      },
+      {
+        "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+        "url": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+        "source": "TechCrunch Edtech",
+        "date": "2026-03-10",
+        "description": "Instead of just reading an explanation or looking at a static diagram, users can now engage directly with interactive visuals."
+      },
+      {
+        "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
+        "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
+        "source": "Hacker News",
+        "date": "2026-03-17",
+        "description": "280 points, 302 comments on Hacker News"
+      }
+    ],
+    "Assessment & Credentialing": [
+      {
+        "title": "Bridging minds and machines: a comparative study of AI and human rater agreement and reliability in educational assessment",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13949-7",
+        "source": "Education and Information Technologies",
+        "date": "2026-03-17",
+        "description": ""
+      },
+      {
+        "title": "Antecedents of students\u2019 feedback engagement: A longitudinal investigation of learner motivation and generative AI-enabled teacher feedback literacy",
+        "url": "https://link.springer.com/article/10.1007/s10639-025-13879-w",
+        "source": "Education and Information Technologies",
+        "date": "2026-03-14",
+        "description": ""
+      }
+    ],
+    "Future of Work & Skills": [
+      {
+        "title": "The AI race that Apple is winning",
+        "url": "https://www.exponentialview.co/p/the-ai-race-that-apple-is-winning",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-03-13",
+        "description": "In today&#8217;s episode, I explore why despite seeming to lose the conventional AI race, Apple may end up holding one of the most powerful positions in AI."
+      },
+      {
         "title": "Ambient Computing via Voice AI is about to Enter its Golden Age in 2027",
         "url": "https://www.ai-supremacy.com/p/ambient-computing-via-voice-ai-agents-future-2026",
         "source": "Michael Spencer (AI Supremacy)",
         "date": "2026-03-13",
         "description": "Genspark Workspace 2.0: What&#8217;s The Big Idea? Daniel Nest explores. OpenAI losing marketshare."
+      },
+      {
+        "title": "Creating Self-Aware Teams: Worth the Effort?",
+        "url": "https://er.educause.edu/articles/2026/3/creating-self-aware-teams-worth-the-effort",
+        "source": "EDUCAUSE Review",
+        "date": "2026-03-17",
+        "description": "The three Ts of IT provide a practical framework for shifting organizations from siloed management to a capacity-building approach that results in high-functioning, collaborative teams."
+      },
+      {
+        "title": "US: Student visa issuances fell by -36% in summer 2025; OPT uncertainty among factors affecting international student demand",
+        "url": "https://monitor.icef.com/2026/03/us-student-visa-issuances-fell-by-36-in-summer-2025-opt-uncertainty-among-factors-affecting-international-student-demand/",
+        "source": "ICEF Monitor",
+        "date": "2026-03-10",
+        "description": "<p>The US government has renewed its focus on the Optional Practical Training (OPT) programme that allows international students on F-1 visas to gain post-study work experience for one to three years following their studies. Before Secretary of Homeland Security Kristi Noem was replaced in her role "
       }
     ],
     "Higher Education Policy": [
-      {
-        "title": "CISA Announces Town Hall Meetings on CIRCIA Regulations",
-        "url": "https://er.educause.edu/articles/2026/3/cisa-announces-town-hall-meetings-on-circia-regulations",
-        "source": "EDUCAUSE Review",
-        "date": "2026-03-12",
-        "description": "The Cybersecurity and Infrastructure Security Agency has announced a series of virtual town hall meetings to seek additional input on proposed regulations under the Cyber Incident Reporting for Critical Infrastructure Act."
-      },
-      {
-        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
-        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
-        "source": "EdSurge",
-        "date": "2026-03-11",
-        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
-      },
       {
         "title": "The Education Exchange: Top Academic Journal Sees America Through a Glass Darkly",
         "url": "https://www.educationnext.org/the-education-exchange-top-academic-journal-sees-america-through-a-glass-darkly/",
         "source": "Education Next",
         "date": "2026-03-16",
         "description": "<p>Paul E. Peterson interviews Richard D. Kahlenberg, Director of the American Identity Project at the Progressive Policy Institute</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-top-academic-journal-sees-america-through-a-glass-darkly/\">The Education Exchange: Top Aca"
-      },
-      {
-        "title": "Retraction Note: Online learning challenges in Thailand and strategies to overcome the challenges from the students\u2019 perspectives",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13962-w",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-14",
-        "description": ""
       },
       {
         "title": "EU calls for urgent reboot in talks with UK to stop reset deal failing",
@@ -233,27 +205,34 @@
         "description": "<p>British negotiators \u2018blindsided\u2019 by Brussels\u2019 demand for a reduction that could cost universities \u00a3140m a year</p><p>Britain is in a standoff with Brussels over a demand to cut university tuition fees for European students, in a row that threatens to scupper Keir Starmer\u2019s planned EU reset.</p><p"
       },
       {
-        "title": "5% Cap on Out-of-State Enrollment at Florida Universities Fails",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/03/17/5-cap-out-state-enrollment-fla-universities-fails",
+        "title": "Childcare Costs Put College Out of Reach for Bay Area Parents",
+        "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/03/17/childcare-costs-put-college-out-reach-bay-area",
         "source": "Inside Higher Ed",
         "date": "2026-03-17",
-        "description": "<span>5% Cap on Out-of-State Enrollment at Florida Universities Fails</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo of the University of Florida campus.\" height=\"1425\" src=\"https://www.insidehi"
+        "description": "<span>Childcare Costs Put College Out of Reach for Bay Area Parents</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Father hugging his daughter goodby after drop-off at a childcare center on a college ca"
+      },
+      {
+        "title": "British Council says student recruitment to UK higher education will get a boost this year from South Asia and the \u201cTrump effect\u201d",
+        "url": "https://monitor.icef.com/2026/03/british-council-says-student-recruitment-to-uk-higher-education-will-get-a-boost-this-year-from-south-asia-and-the-trump-effect/",
+        "source": "ICEF Monitor",
+        "date": "2026-03-12",
+        "description": "<p>&#8220;Demand for UK education will remain resilient over the coming year despite increased competition from intra-regional mobility in East Asia and a slowdown in student flows from China,&#8221; says the latest edition of the annual 5 Trends to Watch report from the British Council&#8217;s East"
+      },
+      {
+        "title": "As Iran retaliates across the Middle East, schools close, students worry, and institutions reassess transnational education",
+        "url": "https://monitor.icef.com/2026/03/as-iran-retaliates-across-the-middle-east-schools-close-students-worry-and-institutions-reassess-transnational-education/",
+        "source": "ICEF Monitor",
+        "date": "2026-03-12",
+        "description": "<p>The US/Israel-Iran war has touched down in several countries in the Middle East, and international educators and students are among the many who are suffering the consequences. The United Arab Emirates (UAE) is bearing the brunt of Iran\u2019s retaliation because of its close Western ties. The region\u2019"
       }
     ],
     "Learning Science & Design": [
       {
-        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
-        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
-        "source": "EdSurge",
+        "title": "A digital competence training program design based on DigComp 2.1",
+        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3848",
+        "source": "Research in Learning Technology",
         "date": "2026-03-13",
-        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
-      },
-      {
-        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
-        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
-        "source": "Education Next",
-        "date": "2026-03-12",
-        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+        "description": "<p>This study aims to design a comprehensive and theoretically grounded digital competence training program for middle school students, based on DigComp 2.1: The European Digital Competence Framework. An explanatory sequential mixed-methods design was employed. In the first phase, the Digital Compet"
       },
       {
         "title": "One size doesn\u2019t fit all: exploring functional expectations and learner typologies for learning analytics in self-regulated learning",
@@ -263,11 +242,11 @@
         "description": ""
       },
       {
-        "title": "How game elements are connected to motivational design in gamified geogebra learning environments: identifying design principles using ARCS theory",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13930-4",
+        "title": "Exploring the relationship between computational thinking behaviors and socially shared metacognitive regulation in collaborative coding across task complexity",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13917-1",
         "source": "Education and Information Technologies",
-        "date": "2026-03-13",
-        "description": ""
+        "date": "2026-03-11",
+        "description": "<p>As computational thinking (CT) is increasingly recognized as a fundamental competency across disciplines, there is a growing emphasis on integrating it into educational settings for non-computer science (non-CS) majors, with collaborative block-based coding emerging as a promising approach. Howev"
       },
       {
         "title": "\u2018It\u2019s like a giant book club\u2019: how schools are getting children excited about reading again",
@@ -284,28 +263,42 @@
         "description": "<p>Pausing the scrapping of existing qualifications was the right decision. But the wider battle over further education continues</p><p>The government\u2019s granting of a <a href=\"https://www.bbc.co.uk/news/articles/cz6e7004dj9o\">stay of execution to popular courses</a> including health and business stu"
       },
       {
-        "title": "The RIGID Framework: Research-Integrated, Generative AI-Mediated Instructional Design",
-        "url": "https://arxiv.org/abs/2603.12781v1",
-        "source": "arXiv",
+        "title": "The Benefits of Combining Collaborative Learning and Interleaved Practice",
+        "url": "https://www.learningscientists.org/blog/2026/3/13-1",
+        "source": "Learning Scientists",
         "date": "2026-03-13",
-        "description": "Instructional Design (ID) often faces challenges in incorporating research-based knowledge and pedagogical best practices. Although educational researchers and government agencies emphasize grounding ID in evidence, integrating research findings into everyday design workflows is often complex, as it"
-      },
-      {
-        "title": "Dynamic Theory of Mind as a Temporal Memory Problem: Evidence from Large Language Models",
-        "url": "https://arxiv.org/abs/2603.14646v1",
-        "source": "arXiv",
-        "date": "2026-03-15",
-        "description": "Theory of Mind (ToM) is central to social cognition and human-AI interaction, and Large Language Models (LLMs) have been used to help understand and represent ToM. However, most evaluations treat ToM as a static judgment at a single moment, primarily relying on tests of false beliefs. This overlooks"
-      },
-      {
-        "title": "Rethinking Evaluation in Retrieval-Augmented Personalized Dialogue: A Cognitive and Linguistic Perspective",
-        "url": "https://arxiv.org/abs/2603.14217v1",
-        "source": "arXiv",
-        "date": "2026-03-15",
-        "description": "In cognitive science and linguistic theory, dialogue is not seen as a chain of independent utterances but rather as a joint activity sustained by coherence, consistency, and shared understanding. However, many systems for open-domain and personalized dialogue use surface-level similarity metrics (e."
+        "description": "In a recent paper, Danzglock, Berger, and H\u00e4nze (1) investigated the \neffects of combining collaborative learning with interleaved practice using \ncomplex material in physics in 376 secondary school students. Interleaved \npractice is when tasks or concepts are..."
       }
     ],
     "Skills & Workforce Development": [
+      {
+        "title": "The Social Wealth Gap",
+        "url": "https://www.educationnext.org/social-wealth-gap-students-lack-social-connections-lead-to-better-outcomes/",
+        "source": "Education Next",
+        "date": "2026-03-17",
+        "description": "<p>Many students lack the social connections that lead to better outcomes. Schools can help make them.</p>\n<p>The post <a href=\"https://www.educationnext.org/social-wealth-gap-students-lack-social-connections-lead-to-better-outcomes/\">The Social Wealth Gap</a> appeared first on <a href=\"https://www."
+      },
+      {
+        "title": "No Homework? No Problem.",
+        "url": "https://www.educationnext.org/no-homework-no-problem-decline-take-home-assignments/",
+        "source": "Education Next",
+        "date": "2026-03-16",
+        "description": "<p>Eminent ed school dean Smug Snidely sees the decline in take-home assignments as allowing students more time to be their authentic selves</p>\n<p>The post <a href=\"https://www.educationnext.org/no-homework-no-problem-decline-take-home-assignments/\">No Homework? No Problem.</a> appeared first on <a"
+      },
+      {
+        "title": "Restorative Justice Didn\u2019t Deliver. Why?",
+        "url": "https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-discipline/",
+        "source": "Education Next",
+        "date": "2026-03-12",
+        "description": "<p>Teachers say focusing on students\u2019 social and emotional wellbeing to address discipline has left classrooms harder to manage than ever</p>\n<p>The post <a href=\"https://www.educationnext.org/restorative-justice-didnt-deliver-why-teachers-say-focusing-students-social-emotional-wellbeing-address-dis"
+      },
+      {
+        "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
+        "url": "https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/",
+        "source": "Education Next",
+        "date": "2026-03-11",
+        "description": "<p>A solution for the Anxious Generation is hiding in plain sight: Education Freedom Accounts</p>\n<p>The post <a href=\"https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/\">Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives</a> appeare"
+      },
       {
         "title": "Effects of interactive and hands-on learning experience of assistive technology on college students\u2019 perspectives and knowledge",
         "url": "https://link.springer.com/article/10.1007/s10639-026-13942-0",
@@ -314,28 +307,42 @@
         "description": ""
       },
       {
-        "title": "Determinants of lecturer readiness to adopt generative AI in higher education: survey evidence from UTAUT and self-determination theory",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13931-3",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-12",
-        "description": ""
-      },
-      {
-        "title": "Childcare Costs Put College Out of Reach for Bay Area Parents",
-        "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/03/17/childcare-costs-put-college-out-reach-bay-area",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-17",
-        "description": "<span>Childcare Costs Put College Out of Reach for Bay Area Parents</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Father hugging his daughter goodby after drop-off at a childcare center on a college ca"
-      },
-      {
         "title": "Workforce Pell Can\u2019t Leave Rural Communities Behind",
         "url": "https://www.insidehighered.com/opinion/views/2026/03/17/workforce-pell-cant-leave-rural-areas-behind-opinion",
         "source": "Inside Higher Ed",
         "date": "2026-03-17",
         "description": "<span>Workforce Pell Can\u2019t Leave Rural Communities Behind</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"An aerial photo of a two-lane highway cutting through an area of rural Virginia at dawn.\" height="
+      },
+      {
+        "title": "Helping Transfer Students Complete Degrees Abroad",
+        "url": "https://www.insidehighered.com/news/global/study-abroad/2026/03/17/new-company-helps-community-college-students-study-abroad",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-17",
+        "description": "<span>Helping Transfer Students Complete Degrees Abroad</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Travelers look at the flight information display system at Los Angeles International Airport on Mon"
+      },
+      {
+        "title": "New Zealand expands post-study work opportunities for international students",
+        "url": "https://monitor.icef.com/2026/03/new-zealand-expands-post-study-work-opportunities-for-international-students/",
+        "source": "ICEF Monitor",
+        "date": "2026-03-12",
+        "description": "<p>In late 2026, New Zealand is rolling out a new Short Term Graduate Work Visa and extending eligibility for the Post Study Work Visa. No set date for the launch of these new visa provisions has been established. New Zealand&#8217;s international education strategy favours managed growth over the n"
+      },
+      {
+        "title": "Unacademy to be acquired by upGrad in share-swap deal as India\u2019s edtech sector consolidates",
+        "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+        "source": "TechCrunch Edtech",
+        "date": "2026-03-15",
+        "description": "The deal comes after Unacademy\u2019s valuation plunged from $3.5B to under $500M, as India\u2019s once-booming edtech sector struggles."
       }
     ],
     "Research & Academic Papers": [
+      {
+        "title": "Uncovering diverse digital motivational patterns in computer science students to enhance educational practice",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13940-2",
+        "source": "Education and Information Technologies",
+        "date": "2026-03-17",
+        "description": ""
+      },
       {
         "title": "Correction to: Children\u2019s Coding Experiences in A Block-Based Coding Environment: A Usability Study on Code.org",
         "url": "https://link.springer.com/article/10.1007/s10639-026-13961-x",
@@ -351,39 +358,18 @@
         "description": ""
       },
       {
-        "title": "Exploring the relationship between computational thinking behaviors and socially shared metacognitive regulation in collaborative coding across task complexity",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13917-1",
+        "title": "Retraction Note: Online learning challenges in Thailand and strategies to overcome the challenges from the students\u2019 perspectives",
+        "url": "https://link.springer.com/article/10.1007/s10639-026-13962-w",
         "source": "Education and Information Technologies",
-        "date": "2026-03-11",
-        "description": "<p>As computational thinking (CT) is increasingly recognized as a fundamental competency across disciplines, there is a growing emphasis on integrating it into educational settings for non-computer science (non-CS) majors, with collaborative block-based coding emerging as a promising approach. Howev"
+        "date": "2026-03-14",
+        "description": ""
       },
       {
-        "title": "The Shape of the Thing",
-        "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-        "source": "Ethan Mollick (One Useful Thing)",
+        "title": "Steering schools into the digital future: A serial mediation model of principal digital leadership, school digital culture, school organizational digital agility, and school digital transformation in Taiwanese secondary schools",
+        "url": "https://link.springer.com/article/10.1007/s10639-025-13890-1",
+        "source": "Education and Information Technologies",
         "date": "2026-03-12",
-        "description": "Where we are right now, and what likely happens next"
-      },
-      {
-        "title": "\ud83d\udd2e Exponential View #565: Autoresearch; the solar supercycle; an agentic nation; ChatGPT Olympian, seeing fraud & moving asteroids++",
-        "url": "https://www.exponentialview.co/p/ev-565",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-03-15",
-        "description": "Hi, Welcome to the Sunday edition, in which we make sense of the week behind us."
-      },
-      {
-        "title": "The AI race that Apple is winning",
-        "url": "https://www.exponentialview.co/p/the-ai-race-that-apple-is-winning",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-03-13",
-        "description": "In today&#8217;s episode, I explore why despite seeming to lose the conventional AI race, Apple may end up holding one of the most powerful positions in AI."
-      },
-      {
-        "title": "\ud83d\udd2e The case for radical solar optimism",
-        "url": "https://www.exponentialview.co/p/solar-supercycle",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-03-12",
-        "description": "While politics is powerful, the laws of physics will always win"
+        "description": ""
       },
       {
         "title": "ImportAI 449: LLMs training other LLMs; 72B distributed training run; computer vision is harder than generative text",
@@ -393,55 +379,27 @@
         "description": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/03/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-FbLbgH.jpg?resize=150%2C150&amp;ssl=1\" wid"
       },
       {
-        "title": "From Education to Evidence: A Collaborative Practice Research Platform for AI-Integrated Agile Development",
-        "url": "https://arxiv.org/abs/2603.10679v1",
-        "source": "arXiv",
+        "title": "\ud83d\udd2e Exponential View #565: Autoresearch; the solar supercycle; an agentic nation; ChatGPT Olympian, seeing fraud & moving asteroids++",
+        "url": "https://www.exponentialview.co/p/ev-565",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-03-15",
+        "description": "Hi, Welcome to the Sunday edition, in which we make sense of the week behind us."
+      },
+      {
+        "title": "Why NYC Schools Invested in Coaching for Staff Outside the Classroom",
+        "url": "https://www.edsurge.com/news/2026-03-11-why-nyc-schools-invested-in-coaching-for-staff-outside-the-classroom",
+        "source": "EdSurge",
         "date": "2026-03-11",
-        "description": "Agile software development evolves so rapidly that research struggles to remain timely and transferable - an issue heightened by the swift adoption of generative AI and agentic tools. Earlier discussions highlight theory and time gaps, leading to results that often lack clear reuse conditions or arr"
-      },
-      {
-        "title": "CLARIN-PT-LDB: An Open LLM Leaderboard for Portuguese to assess Language, Culture and Civility",
-        "url": "https://arxiv.org/abs/2603.12872v1",
-        "source": "arXiv",
-        "date": "2026-03-13",
-        "description": "This paper reports on the development of a leaderboard of Open Large Language Models (LLM) for European Portuguese (PT-PT), and on its associated benchmarks. This leaderboard comes as a way to address a gap in the evaluation of LLM for European Portuguese, which so far had no leaderboard dedicated t"
-      },
-      {
-        "title": "Exploiting Expertise of Non-Expert and Diverse Agents in Social Bandit Learning: A Free Energy Approach",
-        "url": "https://arxiv.org/abs/2603.11757v1",
-        "source": "arXiv",
-        "date": "2026-03-12",
-        "description": "Personalized AI-based services involve a population of individual reinforcement learning agents. However, most reinforcement learning algorithms focus on harnessing individual learning and fail to leverage the social learning capabilities commonly exhibited by humans and animals. Social learning int"
-      },
-      {
-        "title": "Developing the PsyCogMetrics AI Lab to Evaluate Large Language Models and Advance Cognitive Science -- A Three-Cycle Action Design Science Study",
-        "url": "https://arxiv.org/abs/2603.13126v1",
-        "source": "arXiv",
-        "date": "2026-03-13",
-        "description": "This study presents the development of the PsyCogMetrics AI Lab (psycogmetrics.ai), an integrated, cloud-based platform that operationalizes psychometric and cognitive-science methodologies for Large Language Model (LLM) evaluation. Framed as a three-cycle Action Design Science study, the Relevance "
-      },
-      {
-        "title": "How do AI agents talk about science and research? An exploration of scientific discussions on Moltbook using BERTopic",
-        "url": "https://arxiv.org/abs/2603.11375v1",
-        "source": "arXiv",
-        "date": "2026-03-11",
-        "description": "How do AI agents talk about science and research, and what topics are particularly relevant for AI agents? To address these questions, this study analyzes discussions generated by OpenClaw AI agents on Moltbook - a social network for generative AI agents. A corpus of 357 posts and 2,526 replies rela"
+        "description": "In a system serving nearly 1 million students across more than 1,800 schools, the distance between a central office cubicle and a second grade ..."
       }
     ],
     "Industry & Competitor News": [
       {
-        "title": "Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives",
-        "url": "https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/",
-        "source": "Education Next",
-        "date": "2026-03-11",
-        "description": "<p>A solution for the Anxious Generation is hiding in plain sight: Education Freedom Accounts</p>\n<p>The post <a href=\"https://www.educationnext.org/dont-just-fight-teen-screen-time-fund-the-alternatives-education-freedom-accounts/\">Don\u2019t Just Fight Teen Screen Time\u2014Fund the Alternatives</a> appeare"
-      },
-      {
-        "title": "Toward sustainable digital innovation in education: Contextualizing LMS adoption through perceived complexity, organizational support, and teacher positionality in the post-pandemic era",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-13913-5",
-        "source": "Education and Information Technologies",
-        "date": "2026-03-14",
-        "description": "<p>This study addresses the need for sustainable digital practices in education by examining the sustained adoption of Learning Management Systems (LMSs) among K\u201312 teachers in the post-pandemic era. Specifically, it investigates how perceived complexity and organizational support interact to shape "
+        "title": "The Shape of the Thing",
+        "url": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+        "source": "Ethan Mollick (One Useful Thing)",
+        "date": "2026-03-12",
+        "description": "Where we are right now, and what likely happens next"
       },
       {
         "title": "\ud83d\udcc8 Data to start your week",
@@ -451,11 +409,11 @@
         "description": "WFH babies &#8593; Dr. GPT &#8593; AI in academia &#8595;"
       },
       {
-        "title": "\ud83d\udd2e The lantern and the flame",
-        "url": "https://www.exponentialview.co/p/the-lantern-and-the-flame",
+        "title": "\ud83d\udd2e The case for radical solar optimism",
+        "url": "https://www.exponentialview.co/p/solar-supercycle",
         "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-03-13",
-        "description": "How I protect my thinking as I use AI constantly"
+        "date": "2026-03-12",
+        "description": "While politics is powerful, the laws of physics will always win"
       },
       {
         "title": "What is Advanced Machine Intelligence or AMI Labs?",
@@ -486,25 +444,18 @@
         "description": "<p>Education secretary claims lawyers\u2019 criticisms of her department\u2019s policy changes are motivated by profit</p><p>Lawyers have been accused of exploiting parents of children with special needs by the education secretary, Bridget Phillipson, who said their criticisms of the government\u2019s policy chang"
       },
       {
+        "title": "5% Cap on Out-of-State Enrollment at Florida Universities Fails",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/03/17/5-cap-out-state-enrollment-fla-universities-fails",
+        "source": "Inside Higher Ed",
+        "date": "2026-03-17",
+        "description": "<span>5% Cap on Out-of-State Enrollment at Florida Universities Fails</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo of the University of Florida campus.\" height=\"1425\" src=\"https://www.insidehi"
+      },
+      {
         "title": "What Will It Take to Address the Pell Shortfall?",
         "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/03/17/what-will-it-take-address-pell-shortfall",
         "source": "Inside Higher Ed",
         "date": "2026-03-17",
         "description": "<span>What Will It Take to Address the Pell Shortfall?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of a math equations swirling around a students head. \" height=\"800\" src=\"https:"
-      },
-      {
-        "title": "Helping Transfer Students Complete Degrees Abroad",
-        "url": "https://www.insidehighered.com/news/global/study-abroad/2026/03/17/new-company-helps-community-college-students-study-abroad",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-17",
-        "description": "<span>Helping Transfer Students Complete Degrees Abroad</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Travelers look at the flight information display system at Los Angeles International Airport on Mon"
-      },
-      {
-        "title": "Criminology Professor Spills His \u2018Love Is Blind\u2019 Success Story",
-        "url": "https://www.insidehighered.com/news/faculty-issues/2026/03/17/criminology-professor-spills-his-love-blind-story",
-        "source": "Inside Higher Ed",
-        "date": "2026-03-17",
-        "description": "<span>Criminology Professor Spills His \u2018Love Is Blind\u2019 Success Story</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Vic St. John, from above, waiting behind closed doors.\" height=\"800\" src=\"https://www."
       },
       {
         "title": "New College Campus Expansion Plan Stalls",
@@ -535,46 +486,25 @@
         "description": "<span>Iowa House Passes Bills Affecting Public University Curricula, President Searches</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Students on lawn in front of Schaeffer Hall at the University of Io"
       },
       {
-        "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-        "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-        "source": "Hacker News",
-        "date": "2026-03-17",
-        "description": "280 points, 302 comments on Hacker News"
+        "title": "CISA Announces Town Hall Meetings on CIRCIA Regulations",
+        "url": "https://er.educause.edu/articles/2026/3/cisa-announces-town-hall-meetings-on-circia-regulations",
+        "source": "EDUCAUSE Review",
+        "date": "2026-03-12",
+        "description": "The Cybersecurity and Infrastructure Security Agency has announced a series of virtual town hall meetings to seek additional input on proposed regulations under the Cyber Incident Reporting for Critical Infrastructure Act."
       },
       {
-        "title": "Where things stand with the Department of WarAnnouncementsMar 5, 2026A statement from Dario Amodei.",
-        "url": "https://www.anthropic.com/news/where-stand-department-war",
-        "source": "Anthropic News",
-        "date": "2026-03-17",
-        "description": "Latest news and announcements from Anthropic"
+        "title": "Beyond the Classroom: How School Districts Are Building Real-World Career Pathways",
+        "url": "https://www.edsurge.com/news/2026-03-16-beyond-the-classroom-how-school-districts-are-building-real-world-career-pathways",
+        "source": "EdSurge",
+        "date": "2026-03-16",
+        "description": "Some school districts are moving well beyond career simulations, partnering instead with clients in the community to give students opportunities to ..."
       },
       {
-        "title": "AnnouncementsFeb 27, 2026Statement on the comments from Secretary of War Pete HegsethAnthropic's response to the Secretary of War and advice to customers.",
-        "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
-        "source": "Anthropic News",
-        "date": "2026-03-17",
-        "description": "Latest news and announcements from Anthropic"
-      },
-      {
-        "title": "AnnouncementsFeb 26, 2026Statement from Dario Amodei on our discussions with the Department of WarA statement from our CEO on national security uses of AI.",
-        "url": "https://www.anthropic.com/news/statement-department-of-war",
-        "source": "Anthropic News",
-        "date": "2026-03-17",
-        "description": "Latest news and announcements from Anthropic"
-      },
-      {
-        "title": "ProductFeb 17, 2026Introducing Claude Sonnet 4.6Sonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
-        "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-        "source": "Anthropic News",
-        "date": "2026-03-17",
-        "description": "Latest news and announcements from Anthropic"
-      },
-      {
-        "title": "AnnouncementsFeb 4, 2026Claude is a space to thinkWe\u2019ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
-        "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-        "source": "Anthropic News",
-        "date": "2026-03-17",
-        "description": "Latest news and announcements from Anthropic"
+        "title": "When a Box Is No Longer a Castle: Restoring Wonder in a Screen-Filled World",
+        "url": "https://www.edsurge.com/news/2026-03-13-when-a-box-is-no-longer-a-castle-restoring-wonder-in-a-screen-filled-world",
+        "source": "EdSurge",
+        "date": "2026-03-13",
+        "description": "In a world dominated by screens offering all sorts of diversions, writes early education teacher Hema Khatri, children need help recapturing their ..."
       }
     ]
   }
