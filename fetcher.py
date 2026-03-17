@@ -101,6 +101,49 @@ ARXIV_QUERIES = {
 
 CUTOFF = datetime.now(timezone.utc) - timedelta(days=7)
 
+# Sources where every article is guaranteed on-topic - skip keyword filtering for these
+TRUSTED_SOURCES = {
+    # Academic journals
+    "Research in Learning Technology",
+    "Education Next",
+    "Computers and Education AI",
+    "Computers and Education",
+    "Education and Information Technologies",
+    "British Journal of Educational Technology",
+    "Int Journal of Educational Technology in Higher Education",
+    "Journal of the Learning Sciences",
+    # Thought leaders
+    "Ethan Mollick (One Useful Thing)",
+    "Lilach Mollick",
+    "Azeem Azhar (Exponential View)",
+    "Andrew Ng (The Batch)",
+    "Erik Brynjolfsson",
+    "Steve Fitzpatrick",
+    "Amanda Askell",
+    "Zvi Mowshowitz",
+    "Jack Clark (Import AI)",
+    "Alberto Romero (Algorithmic Bridge)",
+    "John Warner (Biblioracle)",
+    "Michael Spencer (AI Supremacy)",
+    "Nik Bear Brown (Education and AI)",
+    "Dan Fitzpatrick (Forbes)",
+    # Org news
+    "Google Education Blog",
+    "Khan Academy Blog",
+    # Mainstream news
+    "The Guardian Education",
+    "Inside Higher Ed",
+    "EDUCAUSE Review",
+    "EdSurge",
+    # K-12 & practitioner
+    "Education Week",
+    "Edutopia",
+    "ICEF Monitor",
+    # Learning science
+    "Learning Scientists",
+    "AERA",
+}
+
 # Note: avoid generic words like "learn" or "learning" which match "machine learning"
 EDUCATION_KEYWORDS = [
     "education", "edtech", "teaching", "teacher", "learner", "learners",
@@ -111,15 +154,9 @@ EDUCATION_KEYWORDS = [
     "educational", "instructional"
 ]
 
-FILTERED_SOURCES = {
-    "Hacker News", "MIT Technology Review", "OpenAI News", "Anthropic News",
-    "NYT Education", "Google DeepMind", "Hugging Face Blog",
-    "Crunchbase News", "LinkedIn Talent Blog", "UNESCO (Education and AI)"
-}
-
 def is_education_relevant(item):
-    """Return True if the item is education/learning focused."""
-    if item["source"] not in FILTERED_SOURCES:
+    """Pass trusted sources through unfiltered; apply keyword check to everything else."""
+    if item["source"] in TRUSTED_SOURCES:
         return True
     text = (item["title"] + " " + item["description"]).lower()
     return any(kw in text for kw in EDUCATION_KEYWORDS)
@@ -284,7 +321,7 @@ def main():
             seen_urls.add(item["url"])
             unique_items.append(item)
 
-    # Filter flagged sources to education-relevant articles only
+    # Filter all non-trusted sources to education-relevant articles only
     unique_items = [item for item in unique_items if is_education_relevant(item)]
 
     print(f"\nTotal unique items collected: {len(unique_items)}")
