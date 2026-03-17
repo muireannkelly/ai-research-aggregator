@@ -9,17 +9,15 @@ from bs4 import BeautifulSoup
 ssl_context = ssl.create_default_context(cafile=certifi.where())
 
 FEEDS = {
-    # Education blogs & journals
-    "EDUCAUSE Review": "https://er.educause.edu/rss",
-    "EdSurge": "https://www.edsurge.com/feed",
+    # Education-focused academic journals
     "Research in Learning Technology": "https://journal.alt.ac.uk/index.php/rlt/gateway/plugin/WebFeedGatewayPlugin/rss2",
-    "Khan Academy Blog": "https://blog.khanacademy.org/feed/",
     "Education Next": "https://educationnext.org/feed",
     "Computers and Education AI": "https://www.sciencedirect.com/journal/computers-and-education-artificial-intelligence/rss/articles",
     "Computers and Education": "https://www.sciencedirect.com/journal/computers-and-education/rss/articles",
     "Education and Information Technologies": "https://link.springer.com/search.rss?facet-journal-id=10639&query=&search-within=Journal&facet-content-type=Article",
     "British Journal of Educational Technology": "https://bera-journals.onlinelibrary.wiley.com/feed/14678535/most-recent",
     "Int Journal of Educational Technology in Higher Education": "https://link.springer.com/search.rss?facet-journal-id=41239&query=&search-within=Journal&facet-content-type=Article",
+    "Journal of the Learning Sciences": "https://www.tandfonline.com/feed/rss/hlns20",
 
     # Thought leaders
     "Ethan Mollick (One Useful Thing)": "https://www.oneusefulthing.org/feed",
@@ -40,11 +38,54 @@ FEEDS = {
     # Competitor & org news
     "OpenAI News": "https://openai.com/news/rss.xml",
     "Google Education Blog": "https://blog.google/outreach-initiatives/education/rss/",
+    "Khan Academy Blog": "https://blog.khanacademy.org/feed/",
 
-    # News
+    # Mainstream news
     "The Guardian Education": "https://www.theguardian.com/education/rss",
     "Inside Higher Ed": "https://www.insidehighered.com/rss.xml",
     "MIT Technology Review": "https://www.technologyreview.com/feed/",
+    "EDUCAUSE Review": "https://er.educause.edu/rss",
+    "EdSurge": "https://www.edsurge.com/feed",
+
+    # Policy & regulation
+    "UNESCO (Education and AI)": "https://www.unesco.org/en/articles/rss.xml",
+    "OECD Education": "https://www.oecd.org/education/rss.xml",
+    "European Commission (Digital Education)": "https://education.ec.europa.eu/news/rss-en",
+    "U.S. Department of Education": "https://www.ed.gov/feed",
+
+    # K-12 & practitioner voice
+    "Education Week": "https://www.edweek.org/feeds/all-content",
+    "Edutopia": "https://www.edutopia.org/rss.xml",
+    "TES": "https://www.tes.com/news/rss.xml",
+    "ASCD Express": "https://www.ascd.org/el/articles/rss",
+
+    # Global & market intelligence
+    "HolonIQ": "https://www.holoniq.com/feed/",
+    "ICEF Monitor": "https://monitor.icef.com/feed/",
+    "World Bank Education": "https://blogs.worldbank.org/education/rss",
+
+    # Learning science & research
+    "Learning Scientists": "https://www.learningscientists.org/blog?format=rss",
+    "AERA": "https://www.aera.net/Newsroom/rss",
+
+    # Edtech business & startups
+    "EdTech Crunch": "https://www.edtechcrunch.com/feed/",
+    "TechCrunch Edtech": "https://techcrunch.com/tag/edtech/feed/",
+    "Crunchbase News": "https://news.crunchbase.com/feed/",
+    "GSV Ventures": "https://gsv.ventures/feed/",
+
+    # Broader AI ecosystem
+    "Google DeepMind": "https://deepmind.google/blog/rss.xml",
+    "Hugging Face Blog": "https://huggingface.co/blog/feed.xml",
+
+    # Workforce & outcomes
+    "Strada Education Foundation": "https://stradaeducation.org/feed/",
+    "Burning Glass Institute": "https://burningglassinstitute.org/feed/",
+    "LinkedIn Talent Blog": "https://www.linkedin.com/blog/rss.xml",
+
+    # Critical perspectives
+    "AI Now Institute": "https://ainowinstitute.org/feed.xml",
+    "Data and Society": "https://datasociety.net/feed/",
 }
 
 ARXIV_QUERIES = {
@@ -70,7 +111,11 @@ EDUCATION_KEYWORDS = [
     "educational", "instructional"
 ]
 
-FILTERED_SOURCES = {"Hacker News", "MIT Technology Review", "OpenAI News"}
+FILTERED_SOURCES = {
+    "Hacker News", "MIT Technology Review", "OpenAI News", "Anthropic News",
+    "NYT Education", "Google DeepMind", "Hugging Face Blog",
+    "Crunchbase News", "LinkedIn Talent Blog", "UNESCO (Education and AI)"
+}
 
 def is_education_relevant(item):
     """Return True if the item is education/learning focused."""
@@ -132,7 +177,7 @@ def fetch_arxiv():
     return items
 
 def fetch_hacker_news():
-    """Fetch Hacker News stories mentioning education or AI learning"""
+    """Fetch Hacker News stories with education-focused titles"""
     items = []
     queries = [
         "AI education", "edtech", "AI tutoring", "learning science",
@@ -152,21 +197,23 @@ def fetch_hacker_news():
                 points = hit.get("points", 0)
                 comments = hit.get("num_comments", 0)
                 if points and points > 10:
-                    items.append({
+                    item = {
                         "title": title,
                         "url": story_url,
                         "source": "Hacker News",
                         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                         "description": f"{points} points, {comments} comments on Hacker News"
-                    })
-                    count += 1
+                    }
+                    if is_education_relevant(item):
+                        items.append(item)
+                        count += 1
             print(f"Hacker News ({query}): {count} items found")
     except Exception as e:
         print(f"Hacker News: error - {e}")
     return items
 
 def fetch_anthropic_news():
-    """Scrape Anthropic news page for recent posts"""
+    """Scrape Anthropic news page for education-focused posts"""
     items = []
     try:
         headers = {"User-Agent": "Mozilla/5.0 (compatible; research-aggregator/1.0)"}
@@ -179,14 +226,16 @@ def fetch_anthropic_news():
                 full_url = f"https://www.anthropic.com{href}" if href.startswith("/") else href
                 title = link.get_text(strip=True)
                 if title and len(title) > 10:
-                    items.append({
+                    item = {
                         "title": title,
                         "url": full_url,
                         "source": "Anthropic News",
                         "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
                         "description": "Latest news and announcements from Anthropic"
-                    })
-                    count += 1
+                    }
+                    if is_education_relevant(item):
+                        items.append(item)
+                        count += 1
                     if count >= 5:
                         break
         print(f"Anthropic News: {count} items found")
@@ -194,8 +243,38 @@ def fetch_anthropic_news():
         print(f"Anthropic News: error - {e}")
     return items
 
+def fetch_nyt_education():
+    """Scrape NYT international education section for recent articles"""
+    items = []
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (compatible; research-aggregator/1.0)"}
+        response = requests.get("https://www.nytimes.com/international/section/education", headers=headers, timeout=10)
+        soup = BeautifulSoup(response.text, "html.parser")
+        count = 0
+        for link in soup.find_all("a", href=True):
+            href = link["href"]
+            if "/20" in href and href.startswith("https://www.nytimes.com"):
+                title = link.get_text(strip=True)
+                if title and len(title) > 20:
+                    item = {
+                        "title": title,
+                        "url": href,
+                        "source": "NYT Education",
+                        "date": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "description": ""
+                    }
+                    if is_education_relevant(item):
+                        items.append(item)
+                        count += 1
+                    if count >= 10:
+                        break
+        print(f"NYT Education: {count} items found")
+    except Exception as e:
+        print(f"NYT Education: error - {e}")
+    return items
+
 def main():
-    all_items = fetch_rss() + fetch_arxiv() + fetch_hacker_news() + fetch_anthropic_news()
+    all_items = fetch_rss() + fetch_arxiv() + fetch_hacker_news() + fetch_anthropic_news() + fetch_nyt_education()
 
     # Deduplicate by URL
     seen_urls = set()
@@ -205,7 +284,7 @@ def main():
             seen_urls.add(item["url"])
             unique_items.append(item)
 
-    # Filter OpenAI, MIT Tech Review, and Hacker News to education-relevant articles only
+    # Filter flagged sources to education-relevant articles only
     unique_items = [item for item in unique_items if is_education_relevant(item)]
 
     print(f"\nTotal unique items collected: {len(unique_items)}")
