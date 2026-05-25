@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21 10:35 UTC",
+  "last_updated": "2026-05-25 11:05 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
@@ -8,313 +8,6 @@
         "source": "Research in Learning Technology",
         "date": "2026-05-20",
         "description": "<p>Considering the sensitive nature of the material, Islamic studies education is still provided with traditional pedagogies. In the current tech-driven era, the objective of the current study was to explore mainstream teachers\u2019 perceptions of using ChatGPT as a pedagogical support in teaching Islam"
-      },
-      {
-        "title": "Artificial intelligence (AI) in primary school classrooms: ChatGPT\u2019s text summarization ability and its impact on attitudes towards summarization",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-14029-6",
-        "source": "Education and Information Technologies",
-        "date": "2026-05-19",
-        "description": "<p>Developments in artificial intelligence technology are having a significant impact on education. ChatGPT, in particular, plays an important role in this regard. Although it raises various concerns, ChatGPT can also be positively integrated into classrooms. The current study investigates the integ"
-      },
-      {
-        "title": "From prompts to practice: preservice teachers candidates\u2019 integration of ChatGPT in lesson planning during practicum",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-14028-7",
-        "source": "Education and Information Technologies",
-        "date": "2026-05-18",
-        "description": "<p>This study examined preservice teachers\u2019 use of generative Artificial Intelligence (AI) chatbots for lesson planning during K-12 practicum placements. Using a convergent mixed-methods approach, we analyzed survey responses (<i>n</i>\u2009=\u2009103; response rate\u2009=\u200912.88%) and conducted 4 semi-structured i"
-      },
-      {
-        "title": "AI literacy and mediated learner autonomy in ChatGPT-supported EFL writing: a qualitative study at a Palestinian university",
-        "url": "https://link.springer.com/article/10.1186/s41239-026-00597-7",
-        "source": "Int Journal of Educational Technology in Higher Education",
-        "date": "2026-05-20",
-        "description": "<p>The rapid expansion of generative artificial intelligence (AI) has reshaped higher education, raising urgent pedagogical, ethical, and epistemic questions. In English as a Foreign Language (EFL) contexts, tools such as ChatGPT challenge established understandings of learner autonomy, authorship, "
-      },
-      {
-        "title": "The next phase of OpenAI\u2019s Education for Countries",
-        "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
-        "source": "OpenAI News",
-        "date": "2026-05-20",
-        "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
-      },
-      {
-        "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-        "url": "https://openai.com/index/malta-chatgpt-plus-partnership",
-        "source": "OpenAI News",
-        "date": "2026-05-16",
-        "description": "OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly."
-      },
-      {
-        "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
-        "url": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
-        "source": "The Guardian Education",
-        "date": "2026-05-18",
-        "description": "<p>Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid it</p><p>One in three university students think AI will wipe out jobs so rapidly it will trigger civil unrest, according to a survey by King\u2019s College London (KCL).</p><p>Students are a"
-      },
-      {
-        "title": "Why Are Students Opening Up to AI Instead of People?",
-        "url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/05/21/why-are-students-opening-ai-instead-people",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Why Are Students Opening Up to AI Instead of People?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"The Key Voices of Student Success graphic\" height=\"800\" src=\"https://www.insidehighered.com/site"
-      },
-      {
-        "title": "University of Kentucky Sparks Campus-Wide Innovation with Microsoft 365 Copilot",
-        "url": "https://er.educause.edu/articles/sponsored/2026/5/university-of-kentucky-sparks-campus-wide-innovation-with-microsoft-365-copilot",
-        "source": "EDUCAUSE Review",
-        "date": "2026-05-18",
-        "description": "The University of Kentucky unified more than 150 artificial intelligence efforts through its Commonwealth AI Transdisciplinary Strategy framework and scaled trusted governance practices. Now, more than 70,000 students and staff use Copilot tools to accelerate learning, research, and health care."
-      },
-      {
-        "title": "Signals of Change, AI, and Tensions Around the Value of Higher Ed",
-        "url": "https://er.educause.edu/podcasts/educause-shop-talk/2026/signals-of-change-ai-and-tensions-around-the-value-of-higher-ed",
-        "source": "EDUCAUSE Review",
-        "date": "2026-05-18",
-        "description": "Sophie and Jenay discuss findings from the 2026 EDUCAUSE Horizon Report Teaching and Learning Edition and their implications for higher education institutions with Michael LaMagna, Kim Arnold, and Nicole Muscanell."
-      },
-      {
-        "title": "Strengthening Singapore\u2019s AI Future: A New National Partnership",
-        "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-        "source": "Google DeepMind",
-        "date": "2026-05-16",
-        "description": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
-      },
-      {
-        "title": "Generative AI and the Productivity Divide: Human-AI Complementarities in Education",
-        "url": "https://arxiv.org/abs/2605.18143v1",
-        "source": "arXiv",
-        "date": "2026-05-18",
-        "description": "Generative Artificial Intelligence (GenAI) is transforming how firms create, process, and apply knowledge, yet little is known about the heterogeneity of its productivity effects across users. We report results from a randomized controlled experiment in which participants-analogs of early-career kno"
-      },
-      {
-        "title": "After dinosaurs, it\u2019s spot the dog! But can a child really learn anything in a gallery?",
-        "url": "https://www.theguardian.com/artanddesign/2026/may/18/national-museum-cardiff-can-a-child-really-learn-anything-in-a-gallery",
-        "source": "The Guardian Education",
-        "date": "2026-05-18",
-        "description": "<p>Galleries such as National Museum Cardiff pull in children with their play areas and pencils \u2013 but stick around and you\u2019ll notice kids critiquing Turner paintings too</p><p>Neil Osborne and his three-year-old daughter Daisy are peering at a small, shimmering painting by JMW Turner of foaming wave"
-      },
-      {
-        "title": "Another Neg Reg, Another \u2018Yes, But\u2019 Moment",
-        "url": "https://www.insidehighered.com/opinion/columns/editors-note/2026/05/21/another-neg-reg-another-yes-moment",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Another Neg Reg, Another \u2018Yes, But\u2019 Moment </span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Editor's Note logo\" height=\"528\" src=\"https://www.insidehighered.com/sites/default/files/2025-09/image%20"
-      },
-      {
-        "title": "Specter of AI Haunts Class of 2026",
-        "url": "https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/05/21/specter-ai-haunts-class-2026",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Specter of AI Haunts Class of 2026</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of graduating students talking at a robot speaker representing AI.\" height=\"800\" src=\"https:/"
-      },
-      {
-        "title": "Botstein Recording Reveals Views on Epstein and \u2018Sloppy\u2019 Investigation",
-        "url": "https://www.insidehighered.com/news/governance/executive-leadership/2026/05/21/botstein-speaks-epstein-sloppy-investigation-dinner",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Botstein Recording Reveals Views on Epstein and \u2018Sloppy\u2019 Investigation </span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of former Bard President Leon Botstein sitting in front "
-      },
-      {
-        "title": "UF Interim President to Receive $2M Exit Package",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/21/uf-interim-president-receive-2m-exit-package",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>UF Interim President to Receive $2M Exit Package</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A combination of a campus image of the University of Florida, the incoming Interim President Donald "
-      },
-      {
-        "title": "Lessons From the Canvas Outage",
-        "url": "https://www.insidehighered.com/opinion/views/2026/05/21/lessons-canvas-outage-opinion",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Lessons From the Canvas Outage</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"An illustration of a tiny person standing next to a cloud of images and icons with the word &quot;LMS&quot; in the mid"
-      },
-      {
-        "title": "Why Read \u2018The Infinity Machine\u2019?",
-        "url": "https://www.insidehighered.com/opinion/columns/learning-innovation/2026/05/21/why-read-infinity-machine-age-half-crappy-university",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Why Read \u2018The Infinity Machine\u2019?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Cover of The Infinity Machine: Demis Hassabis, DeepMind, and the Quest for Superintelligence by Sebastian Mallaby\" h"
-      },
-      {
-        "title": "Choose Student Support, Not Surveillance",
-        "url": "https://www.insidehighered.com/opinion/career-advice/teaching/2026/05/21/deter-ai-cheating-through-support-not-detection-opinion",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Choose Student Support, Not Surveillance</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo taken from behind, over the shoulder, of a young woman with a laptop open to an AI chatbot.\" height="
-      },
-      {
-        "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
-        "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
-        "source": "ICEF Monitor",
-        "date": "2026-05-19",
-        "description": "<p>In a legislative instrument dated 18 May 2025, Australia\u2019s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on the establishment of new private training centres as well as new courses offered by established private-sector providers. The order dictates that "
-      },
-      {
-        "title": "ChatGPT vs Teachers vs Students: Large-Scale Analysis of Generative AI Discourse in Education Communities on Reddit",
-        "url": "https://arxiv.org/abs/2605.17712v1",
-        "source": "arXiv",
-        "date": "2026-05-18",
-        "description": "Generative Artificial Intelligence (GenAI) has prompted significant discussion in education, yet large-scale empirical evidence on how students and teachers perceive and navigate this shift remains limited. We analyse 270k AI-related Reddit posts and comments from 26 education-related subreddits spa"
-      },
-      {
-        "title": "Expert Cognition Dashboard: From Learning Analytics to Cognition Intelligence in AI-Driven Education",
-        "url": "https://arxiv.org/abs/2605.17263v1",
-        "source": "arXiv",
-        "date": "2026-05-17",
-        "description": "Current AI-driven educational systems primarily rely on behavioural analytics, performance metrics, and content-level interactions to model learning. While these approaches provide useful indicators of learner activity, they are insufficient for representing the expert cognition used to interpret le"
-      },
-      {
-        "title": "Eskwai for Students: Generative AI Assistant for Legal Education in Ghana",
-        "url": "https://arxiv.org/abs/2605.15380v1",
-        "source": "arXiv",
-        "date": "2026-05-14",
-        "description": "Recent advances in generative AI have shown their potential to be leveraged for legal education. Yet, work on the development and deployment of such systems for legal education in the Global South is limited. In this work, we developed Eskwai for Students, a generative AI assistant to help law stude"
-      },
-      {
-        "title": "Towards SocratiCode: Designing a Generative AI-Based Programming Tutor for K-12 Students through a 4-Week Participatory Design Study",
-        "url": "https://arxiv.org/abs/2605.17857v1",
-        "source": "arXiv",
-        "date": "2026-05-18",
-        "description": "Generative AI creates new opportunities for programming education, but many existing systems remain overly directive, producing lengthy explanations and premature solutions that can overwhelm K-12 novices. In this paper, we present a participatory design study of how an adaptive tutorial system, Soc"
-      },
-      {
-        "title": "Gen-AI-tecture: using generative AI to support architectural students in design tasks",
-        "url": "https://arxiv.org/abs/2605.21361v1",
-        "source": "arXiv",
-        "date": "2026-05-20",
-        "description": "The \"Gen-AI-tecture\" project embeds a locally executed, discipline-specific tool into a mixed-methods focus-group design, structured around three research objectives: (a) to evaluate how generative AI tools impact students' creativity in design-thinking processes and outcomes, (b) to assess whether "
-      }
-    ],
-    "Assessment & Credentialing": [
-      {
-        "title": "Strategic integration of ICTs and its impact on surface and deep learning: a case study on adopting online collaborative platforms for exam reviews",
-        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3831",
-        "source": "Research in Learning Technology",
-        "date": "2026-05-19",
-        "description": "<p>With the launch of Saudi Vision 2030, Information and Communication Technologies (ICTs) have been integrated into one of their realisation programmes, aiming to raise the quality of education resulting in a digitally literate citizenry for a vibrant community. Existing research has proven a direc"
-      },
-      {
-        "title": "The Hidden Cost of PreK Assessment \u2014 and a Better Way Forward",
-        "url": "https://blog.khanacademy.org/better-alternative-for-prek-assessment/",
-        "source": "Khan Academy Blog",
-        "date": "2026-05-20",
-        "description": "<p>It's one of the most debated questions in early childhood education right now: does technology belong in PreK classrooms? Earlier this month, we brought together three leading voices to dig into the research, and the answer turned out to be more nuanced, more human, and more hopeful than a simple"
-      },
-      {
-        "title": "Harvard College will limit the number of students who can receive A grades",
-        "url": "https://www.theguardian.com/education/2026/may/20/harvard-college-cap-a-grade-students",
-        "source": "The Guardian Education",
-        "date": "2026-05-20",
-        "description": "<p>Mandatory cap on top grades at one of America\u2019s most prestigious colleges will go into effect in fall of 2027</p><p>Harvard faculty has voted to impose a roughly 20% cap on A grades in an effort to curb decades of grade inflation that, the faculty argues, degrades the value of top-tier academic a"
-      },
-      {
-        "title": "\u2018Attainment at all costs\u2019 approach could undermine Send changes, school leaders in England say",
-        "url": "https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
-        "source": "The Guardian Education",
-        "date": "2026-05-20",
-        "description": "<p>Union says emphasis on academic goals conflicts with proposed measures on special educational needs provision</p><p>Changes to special educational needs provision in England could be thwarted by \u201cacademic attainment at all costs\u201d policies that prioritise exam results and punish inclusive schools,"
-      },
-      {
-        "title": "Children\u2019s reading should prioritise pleasure over learning, says laureate",
-        "url": "https://www.theguardian.com/society/2026/may/19/childrens-reading-should-prioritise-pleasure-over-learning-says-laureate",
-        "source": "The Guardian Education",
-        "date": "2026-05-19",
-        "description": "<p>Frank Cottrell-Boyce tells MPs to focus on early-years reading, with more support for parents and nursery workers</p><p>The children\u2019s laureate, Frank Cottrell-Boyce, has urged the government to prioritise pleasure over learning in children\u2019s reading.</p><p>Giving evidence to MPs on the education"
-      },
-      {
-        "title": "There is no state more impotent than being a parent of a teenager doing A-levels | Zoe Williams",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/19/parent-of-teenager-a-level-revision",
-        "source": "The Guardian Education",
-        "date": "2026-05-19",
-        "description": "<p>Holding a flashcard for chemistry or further maths fills me with a unique kind of horror. Does anyone really understand this?</p><p>There\u2019s a chart doing the rounds on social media, ranking philosophers by how punk they are. Hobbes and Heidegger, it says, are \u201cbasically a cop\u201d; while for Dionysiu"
-      },
-      {
-        "title": "Students Largely Oppose Punishment for \u2018Objectionable Speech,\u2019 Study Finds",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/21/students-largely-oppose-punishment-objectionable-speech",
-        "source": "Inside Higher Ed",
-        "date": "2026-05-21",
-        "description": "<span>Students Largely Oppose Punishment for \u2018Objectionable Speech,\u2019 Study Finds</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Encampment and End Genocide sign on Rutgers campus\" height=\"2000\" src=\"htt"
-      },
-      {
-        "title": "AI-Assisted Competency Assessment from Egocentric Video in Simulation-Based Nursing Education",
-        "url": "https://arxiv.org/abs/2605.20233v1",
-        "source": "arXiv",
-        "date": "2026-05-16",
-        "description": "Assessing learner competency in clinical simulation requires expert observation that is time-intensive, difficult to scale, and subject to inter-rater variability. Vision-language models have emerged as a promising tool for understanding complex visual behavior. In this work, we investigate whether "
-      },
-      {
-        "title": "Generative-Evaluative Agreement: A Necessary Validity Criterion for LLM-Enabled Adaptive Assessment",
-        "url": "https://arxiv.org/abs/2605.19529v1",
-        "source": "arXiv",
-        "date": "2026-05-19",
-        "description": "When the same LLM generates assessment items, simulates student responses, and scores them, the validation loop is self-referential. We introduce Generative-Evaluative Agreement (GEA), a validity criterion measuring whether an LLM's scoring function recovers the skill levels its generative function "
-      },
-      {
-        "title": "Confirming Correct, Missing the Rest: LLM Tutoring Agents Struggle Where Feedback Matters Most",
-        "url": "https://arxiv.org/abs/2605.16207v1",
-        "source": "arXiv",
-        "date": "2026-05-15",
-        "description": "Effective tutoring requires distinguishing optimal, valid but suboptimal, and incorrect student solutions, a distinction central to intelligent tutoring systems (ITS) but untested for LLM-based tutors. As LLMs are increasingly explored as conversational complements to ITS, evaluating their diagnosti"
-      },
-      {
-        "title": "The Effects of Structured LLM-Generated Feedback on Programming Assignment Performance",
-        "url": "https://arxiv.org/abs/2605.16933v1",
-        "source": "arXiv",
-        "date": "2026-05-16",
-        "description": "When programming students encounter errors in their code, compiler messages or static analysis output often provide limited guidance, particularly for novice programmers. Personalized feedback from instructors can be effective but does not scale well. Recent advances in large language models (LLMs) "
-      },
-      {
-        "title": "Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs",
-        "url": "https://arxiv.org/abs/2605.19043v1",
-        "source": "arXiv",
-        "date": "2026-05-18",
-        "description": "Automated grading systems have enabled scalable assessment for many response types, but handwritten mathematics remains a barrier due to the complexity of multi-step solutions. Vision-capable large language models (LLMs) offer new opportunities here, yet their reliability in authentic instructional "
-      }
-    ],
-    "Future of Work & Skills": [
-      {
-        "title": "The Education Exchange: School Districts with Declining Enrollments Have Higher Funding, More Staff Per Pupil",
-        "url": "https://www.educationnext.org/the-education-exchange-school-districts-with-declining-enrollments-have-higher-funding-more-staff-per-pupil/",
-        "source": "Education Next",
-        "date": "2026-05-18",
-        "description": "<p>Paul E. Peterson interviews Ben Scafidi, Professor at Kennesaw State University</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-school-districts-with-declining-enrollments-have-higher-funding-more-staff-per-pupil/\">The Education Exchange: School Districts with Declin"
-      },
-      {
-        "title": "Tensions mount over AI Consequences on the Future",
-        "url": "https://www.ai-supremacy.com/p/tensions-mount-over-ai-consequences-on-the-future-2026",
-        "source": "Michael Spencer (AI Supremacy)",
-        "date": "2026-05-19",
-        "description": "Silicon Valley's AI success is starting to create more economic suffering for the rest of us."
-      },
-      {
-        "title": "Schools are \u2018pipeline\u2019 to joblessness for many people, says ex-Labour adviser",
-        "url": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
-        "source": "The Guardian Education",
-        "date": "2026-05-21",
-        "description": "<p>Ban social media and reform education to tackle scandal of young people not in work or study, says Peter Hyman</p><p>Schools have become a \u201cpipeline\u201d to worklessness for a large cohort of young people in the UK, according to an influential former Labour adviser who has called for urgent action to"
-      },
-      {
-        "title": "UK universities bracing for a further decline in international enrolments",
-        "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
-        "source": "ICEF Monitor",
-        "date": "2026-05-20",
-        "description": "<p>Last year, the number of foreign students in UK higher education declined by -6%, according to data from the Higher Education Statistics Agency (HESA). And now, government data shows that applications for study visas were down year-over-year in the last three months of 2025 and the first four mon"
-      }
-    ],
-    "Higher Education Policy": [
-      {
-        "title": "LLM-CR: LLM-enhanced course recommendation",
-        "url": "https://link.springer.com/article/10.1186/s41239-026-00590-0",
-        "source": "Int Journal of Educational Technology in Higher Education",
-        "date": "2026-05-21",
-        "description": "<p>Recommender systems have become increasingly important in online learning platforms, where learners face a growing number of available courses and substantial variation in course quality and relevance. However, many existing course recommendation methods primarily rely on user\u2013course interaction "
-      },
-      {
-        "title": "Factors influencing the academic use of digital technologies among Chilean pre-service teachers",
-        "url": "https://link.springer.com/article/10.1186/s41239-026-00595-9",
-        "source": "Int Journal of Educational Technology in Higher Education",
-        "date": "2026-05-19",
-        "description": "<p>This research examines the impact of psychological and cultural factors on the academic use of digital technologies by Chilean pre-service teachers. Considering the global digital transformation and the influence of digital technologies, such as artificial intelligence (AI), in education, it is e"
       },
       {
         "title": "What Google I/O 2026 Means For Education",
@@ -331,62 +24,53 @@
         "description": "Dan Fitzpatrick is at Google I/O 2026 this week. Here's what's coming from Gemini, Googlebook and Android XR and why educators should be paying attention."
       },
       {
-        "title": "British Council staff in Italy to strike over proposed 80% workforce cut",
-        "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
-        "source": "The Guardian Education",
+        "title": "The next phase of OpenAI\u2019s Education for Countries",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries",
+        "source": "OpenAI News",
         "date": "2026-05-20",
-        "description": "<p>Soft power institution faces funding crisis linked to Covid-era government loan due to be repaid by September</p><p>Staff at the British Council in Italy will go on strike over deep cuts that would slash about 80% of its workforce due to<a href=\"https://www.theguardian.com/politics/2025/jan/25/wh"
+        "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes."
       },
       {
-        "title": "Oregon Considers Ending Free College",
-        "url": "https://www.insidehighered.com/news/institutions/community-colleges/2026/05/21/oregon-considers-closing-free-college-program",
-        "source": "Inside Higher Ed",
+        "title": "Here's how accessibility tools and Gemini are helping students find independence",
+        "url": "https://blog.google/products-and-platforms/devices/chromebooks/face-control/",
+        "source": "Google Education Blog",
         "date": "2026-05-21",
-        "description": "<span>Oregon Considers Ending Free College</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Lane Community College\" height=\"800\" src=\"https://www.insidehighered.com/sites/default/files/2025-08/Lane_Commun"
+        "description": "The photo and video show Liam Alfonso Dansereau, a seventh-grade student in Alberta, Canada, with mobility differences."
       },
       {
-        "title": "UNESCO confirms growing trend of intra-regional student mobility",
-        "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
-        "source": "ICEF Monitor",
-        "date": "2026-05-21",
-        "description": "<p>UNESCO\u2019s first Higher Education Global Trends Report confirms that while traditional destinations for study abroad continue to be the most popular choices for international students, there are important changes afoot, with countries such as T\u00fcrkiye, Egypt, Japan, and others picking up share of in"
-      },
-      {
-        "title": "How new ideas about access to university are dramatically expanding the market for international higher education",
-        "url": "https://monitor.icef.com/2026/05/how-new-ideas-about-access-to-university-are-dramatically-expanding-the-market-for-international-higher-education/",
-        "source": "ICEF Monitor",
+        "title": "Measuring the impact of AI on teaching and learning",
+        "url": "https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/",
+        "source": "Google Education Blog",
         "date": "2026-05-19",
-        "description": "<p>This special feature is brought you in partnership with International Humanitarian College London (IHCL). A newly released UNESCO report reveals that higher education enrolments have more than doubled globally over the past 25 years, rising from about 100 million students in 2000 to 269 million a"
-      }
-    ],
-    "Learning Science & Design": [
-      {
-        "title": "The Brain That Sees Patterns",
-        "url": "https://www.educationnext.org/the-brain-that-sees-patterns-teaching-reading-dyslexia/",
-        "source": "Education Next",
-        "date": "2026-05-19",
-        "description": "<p>For too long, teachers have been asking struggling readers to guess at words instead of helping them to learn the code</p>\n<p>The post <a href=\"https://www.educationnext.org/the-brain-that-sees-patterns-teaching-reading-dyslexia/\">The Brain That Sees Patterns</a> appeared first on <a href=\"https:"
+        "description": "Image of children at laptops in a classroom"
       },
       {
-        "title": "Beyond tutoring: a child-centered AI framework for embodied construction in culturally-grounded steam education",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-14030-z",
-        "source": "Education and Information Technologies",
-        "date": "2026-05-16",
-        "description": "<p>This quasi-experimental study integrates embodied cognition, constructionism, and culturally sustaining teaching to address the three-dimensional needs of cognitive development, practical competence, and cultural understanding, operationalized through the Child-Centered Guided Scaffolding AI Fram"
-      },
-      {
-        "title": "From empathy to algorithms: how design thinking pedagogy influences primary school students\u2019 computational thinking skills and learning motivation in STEM education",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-14025-w",
-        "source": "Education and Information Technologies",
-        "date": "2026-05-16",
-        "description": "<p>As STEM education increasingly emphasizes the development of both cognitive and non-cognitive competencies, there remains a critical gap in understanding how pedagogical approaches such as design thinking can simultaneously foster computational thinking (CT) and learning motivation in primary sch"
-      },
-      {
-        "title": "Chicago\u2019s May Day Lesson in Civic Engagement",
-        "url": "https://www.educationnext.org/chicagos-may-day-lesson-in-civic-engagement/",
-        "source": "Education Next",
+        "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
+        "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
+        "source": "Jack Clark (Import AI)",
         "date": "2026-05-18",
-        "description": "<p>\u201cI\u2019m missing study hall for <em>this</em>?\u201d</p>\n<p>The post <a href=\"https://www.educationnext.org/chicagos-may-day-lesson-in-civic-engagement/\">Chicago\u2019s May Day Lesson in Civic Engagement</a> appeared first on <a href=\"https://www.educationnext.org\">Education Next</a>.</p>"
+        "description": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-qSUQ99.jpg?resize=150%2C150&amp;ssl=1\" wid"
+      },
+      {
+        "title": "\u2018Massive\u2019 child abuse scandal in France as school staff investigated for violence and sexual assault",
+        "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
+        "source": "The Guardian Education",
+        "date": "2026-05-25",
+        "description": "<p>Paris police looking into more than 100 allegations of mistreatment by \u2018monitors\u2019 after parents\u2019 groups said they had fought for years to be taken seriously</p><p>France is facing a child abuse scandal as \u2018monitors\u2019 at dozens of state nursery and primary schools are investigated for violence, sex"
+      },
+      {
+        "title": "Pioneering study aims to find out how repeated blows to head in women\u2019s rugby affects brain",
+        "url": "https://www.theguardian.com/education/2026/may/24/pioneering-study-aims-to-find-out-how-repeated-blows-to-head-in-womens-rugby-affects-brain",
+        "source": "The Guardian Education",
+        "date": "2026-05-24",
+        "description": "<p>Risk of CTE in men\u2019s sports has been widely studied, but female brains are softer and more vulnerable</p><p>Cleo Pallister-Turley, a forward for Cardiff university\u2019s women\u2019s rugby team, winces as she recalls two major concussions from playing rugby. \u201cGirls ask me, \u2018aren\u2019t you worried about gettin"
+      },
+      {
+        "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
+        "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
+        "source": "The Guardian Education",
+        "date": "2026-05-22",
+        "description": "<p>Backlash grows among European staff against radical cuts to pay off Covid-era debt, with some accusing council of \u2018colonial attitude\u2019</p><p>The historic Palacete building at 31 Paseo del General Mart\u00ednez Campos in Madrid\u2019s upmarket Chamber\u00ed district has been home to the British Council in Spain f"
       },
       {
         "title": "Struggling with the nine times table? I have a failsafe method | Adrian Chiles",
@@ -396,41 +80,64 @@
         "description": "<p>Apparently, nines are the hardest to grasp for primary school children. If only they\u2019d learned how to cheat like me</p><p>Maths was never my thing. I quite enjoyed it at O-level, to the extent that I chose to do it at A-level. As early as the first week of the A-level course, however, it became a"
       },
       {
-        "title": "GUEST POST: What\u2019s Missing in Professional Development and Educator Preparation",
-        "url": "https://www.learningscientists.org/blog/2026/5/14",
-        "source": "Learning Scientists",
-        "date": "2026-05-14",
-        "description": "Educators are well-trained professionals. Preparation programs and ongoing \nprofessional development ensure skills like instructional planning, \nassessment, data use, classroom management, technology integration, and \nculturally responsive teaching are firmly in place so that all learners \nhave the "
-      },
-      {
-        "title": "MetaRA: Metamorphic Robustness Assessment for Multimodal Large Language Model-based Visual Question Answering Systems",
-        "url": "https://arxiv.org/abs/2605.19307v1",
-        "source": "arXiv",
+        "title": "There is no state more impotent than being a parent of a teenager doing A-levels | Zoe Williams",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/19/parent-of-teenager-a-level-revision",
+        "source": "The Guardian Education",
         "date": "2026-05-19",
-        "description": "Visual Question Answering (VQA), as the representative multimodal task, serves as a key benchmark for evaluating the reasoning capabilities of Multimodal Large Language Models (MLLMs). However, existing evaluations largely rely on static datasets and accuracy-based metrics, which fail to capture rob"
+        "description": "<p>Holding a flashcard for chemistry or further maths fills me with a unique kind of horror. Does anyone really understand this?</p><p>There\u2019s a chart doing the rounds on social media, ranking philosophers by how punk they are. Hobbes and Heidegger, it says, are \u201cbasically a cop\u201d; while for Dionysiu"
       },
       {
-        "title": "An Interpretable Closed-Loop Intelligent Tutoring System for Multimodal Affective Feedback in Asynchronous Presentation Training",
-        "url": "https://arxiv.org/abs/2605.17468v1",
-        "source": "arXiv",
-        "date": "2026-05-17",
-        "description": "This paper presents an interpretable closed-loop Intelligent Tutoring System (ITS) that supports feedback-guided practice for developing on-camera oral presentation skills at scale. The system operationalizes a seven-dimensional Behaviorally Anchored Rating Scale (BARS) and implements a three-layer "
+        "title": "3 Takeaways on AI and Entry-Level Jobs",
+        "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/05/22/3-takeaways-ai-and-entry-level-jobs",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>3 Takeaways on AI and Entry-Level Jobs</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Close-up of a college student focused on her smartphone, using a modern AI app to help with her studies\" heigh"
+      },
+      {
+        "title": "University of Kentucky Sparks Campus-Wide Innovation with Microsoft 365 Copilot",
+        "url": "https://er.educause.edu/articles/sponsored/2026/5/university-of-kentucky-sparks-campus-wide-innovation-with-microsoft-365-copilot",
+        "source": "EDUCAUSE Review",
+        "date": "2026-05-18",
+        "description": "The University of Kentucky unified more than 150 artificial intelligence efforts through its Commonwealth AI Transdisciplinary Strategy framework and scaled trusted governance practices. Now, more than 70,000 students and staff use Copilot tools to accelerate learning, research, and health care."
       }
     ],
-    "Skills & Workforce Development": [
+    "Assessment & Credentialing": [
       {
-        "title": "Students\u2019 pre-tutorial learning behaviors and their relationship with tutorial engagement and learning outcomes",
-        "url": "https://link.springer.com/article/10.1007/s10639-026-14027-8",
-        "source": "Education and Information Technologies",
-        "date": "2026-05-16",
-        "description": "<p>In blended learning, pre-tutorial learning lays the foundation for in-tutorial learning but also presents challenges due to its emphasis on self-regulated learning. To understand the relationship between pre-tutorial and in-tutorial learning, this study examined variations in pre-tutorial behavio"
+        "title": "The Hidden Cost of PreK Assessment \u2014 and a Better Way Forward",
+        "url": "https://blog.khanacademy.org/better-alternative-for-prek-assessment/",
+        "source": "Khan Academy Blog",
+        "date": "2026-05-20",
+        "description": "<p>Observational PreK assessment tools like are time-consuming for teachers and often produce inconsistent data across classrooms. Learn how a short, bilingual, child-completed direct assessment can strengthen your program's data picture \u2014 free for publicly funded programs during SY 2026\u201327 and 2027"
       },
       {
-        "title": "Throw Away The Digital Adoption Playbook. AI Is A Behavior Problem",
-        "url": "https://www.forbes.com/sites/danfitzpatrick/2026/05/18/throw-away-the-digital-adoption-playbook-ai-is-a-behavior-problem/",
-        "source": "Dan Fitzpatrick (Forbes)",
-        "date": "2026-05-18",
-        "description": "Four years advising schools on AI adoption has taught me that the digital playbook everyone is still running was built for a problem AI doesn't have. Here's what works."
+        "title": "Education Department Reallocates Minority-Serving Institution Funds Again",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/22/education-department-reallocates-msi-funds-again",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>Education Department Reallocates Minority-Serving Institution Funds Again</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of a spilled jar of coins with MSI labeled on the side"
+      },
+      {
+        "title": "Trump\u2019s Accreditation Overhaul Advances",
+        "url": "https://www.insidehighered.com/news/governance/accreditation/2026/05/22/trumps-accreditation-overhaul-advances",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>Trump\u2019s Accreditation Overhaul Advances</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of the U.S. Capitol casting a shadow.\" height=\"800\" src=\"https://www.insidehighered.com/"
+      }
+    ],
+    "Future of Work & Skills": [
+      {
+        "title": "Labour to expand youth work experience and training schemes",
+        "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
+        "source": "The Guardian Education",
+        "date": "2026-05-24",
+        "description": "<p>Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young people</p><p>Ministers are expanding youth work-experience and training schemes, after Alan Milburn warned Britain is spending \u00a325 keeping young people on benefits for every \u00a31 spent helping the"
+      },
+      {
+        "title": "Tensions mount over AI Consequences on the Future",
+        "url": "https://www.ai-supremacy.com/p/tensions-mount-over-ai-consequences-on-the-future-2026",
+        "source": "Michael Spencer (AI Supremacy)",
+        "date": "2026-05-19",
+        "description": "Silicon Valley's AI success is starting to create more economic suffering for the rest of us."
       },
       {
         "title": "VR Gives North Dakota Kids an Early Career Jump Start",
@@ -447,20 +154,175 @@
         "description": "Keri Rodrigues, a mother of five boys, knows the value of screens. For her boys, four of whom receive school accommodations, screens serve a practical ..."
       }
     ],
-    "Research & Academic Papers": [
+    "Higher Education Policy": [
       {
-        "title": "Using LLM-empowered virtual avatars in immersive virtual reality technology to enhance psychological perception and learning outcomes: the role of interaction methods, anthropomorphism types, and VR perspectives",
-        "url": "https://link.springer.com/article/10.1186/s41239-026-00594-w",
-        "source": "Int Journal of Educational Technology in Higher Education",
-        "date": "2026-05-18",
-        "description": "<p>Although immersive virtual reality technology has gained widespread acceptance among educators for its unique advantages-such as high immersion, interactivity, and engagement-that traditional educational methods lack, more empirical research is still needed to address how to optimize learners\u2019 co"
+        "title": "Strategic integration of ICTs and its impact on surface and deep learning: a case study on adopting online collaborative platforms for exam reviews",
+        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3831",
+        "source": "Research in Learning Technology",
+        "date": "2026-05-19",
+        "description": "<p>With the launch of Saudi Vision 2030, Information and Communication Technologies (ICTs) have been integrated into one of their realisation programmes, aiming to raise the quality of education resulting in a digitally literate citizenry for a vibrant community. Existing research has proven a direc"
       },
       {
-        "title": "Measuring the impact of AI on teaching and learning",
-        "url": "https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/",
-        "source": "Google Education Blog",
+        "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
+        "url": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
+        "source": "The Guardian Education",
+        "date": "2026-05-24",
+        "description": "<p>Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to poll</p><p>Vice-chancellors have said they may need to cut hardship support for impoverished students and reduce outreach activities aimed at disadvantaged groups if the dire funding str"
+      },
+      {
+        "title": "Bridget Phillipson orders review of hidden childcare charges hitting parents",
+        "url": "https://www.theguardian.com/education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
+        "source": "The Guardian Education",
+        "date": "2026-05-24",
+        "description": "<p>Education secretary asks UK watchdog to look into nursery practices, including non-refundable deposits and add-ons</p><p>Bridget Phillipson, the education secretary, is ordering a competition review of hidden childcare charges amid concerns parents are being hit with extra charges, despite the go"
+      },
+      {
+        "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
+        "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
+        "source": "The Guardian Education",
+        "date": "2026-05-22",
+        "description": "<p>Replacement scheme worth about 40% less than current funding greeted with scepticism by headteachers</p><p>Funding for primary school sport in England is to be cut by Labour, including the abolition of a grant designed to cement the 2012 Olympic legacy, to the dismay of school leaders.</p><p>The "
+      },
+      {
+        "title": "State Reps Oppose Michigan\u2019s Plan to Buy Concordia Land",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/22/state-reps-oppose-u-michigans-plan-buy-concordia-land",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>State Reps Oppose Michigan\u2019s Plan to Buy Concordia Land</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"University of Michigan students walk on the UM campus on April 3, 2025 in Ann Arbor, Michigan"
+      },
+      {
+        "title": "Science: NIH, NASA Restrict Co-Authoring With Foreign Scientists",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/22/report-nih-nasa-restrict-co-authoring-foreign-scientists",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>Science: NIH, NASA Restrict Co-Authoring With Foreign Scientists</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"National Institutes of Health logo on building\" height=\"396\" src=\"https://www.inside"
+      },
+      {
+        "title": "New data provides early signals that Canada\u2019s popularity as a study destination is on the rise",
+        "url": "https://monitor.icef.com/2026/05/new-data-provides-early-signals-that-canadas-popularity-as-a-study-destination-is-on-the-rise/",
+        "source": "ICEF Monitor",
+        "date": "2026-05-21",
+        "description": "<p>Demand for study in Canada appears to be be on the rebound, according to search data from two major international student recruitment companies, Keystone Education Group and IDP. This recent trend contrasts with plummeting student interest in 2024 and 2025 linked to frequent policy changes by the"
+      },
+      {
+        "title": "UK universities bracing for a further decline in international enrolments",
+        "url": "https://monitor.icef.com/2026/05/uk-universities-bracing-for-a-further-decline-in-international-enrolments/",
+        "source": "ICEF Monitor",
+        "date": "2026-05-20",
+        "description": "<p>Last year, the number of foreign students in UK higher education declined by -6%, according to data from the Higher Education Statistics Agency (HESA). And now, government data shows that applications for study visas were down, year-over-year, in Q4 2025 and in the first four months of 2026, sign"
+      },
+      {
+        "title": "Australia orders a year-long pause on new VET and ELICOS provider registrations",
+        "url": "https://monitor.icef.com/2026/05/australia-orders-a-year-long-pause-on-new-vet-and-elicos-provider-registrations/",
+        "source": "ICEF Monitor",
         "date": "2026-05-19",
-        "description": "Image of children at laptops in a classroom"
+        "description": "<p>In a legislative instrument dated 18 May 2025, Australia\u2019s Assistant Minister for International Education Julian Hill has ordered a 12-month freeze on the establishment of new private training centres as well as new courses offered by established private-sector providers. The order dictates that "
+      }
+    ],
+    "Learning Science & Design": [
+      {
+        "title": "From framework to practice: a scalable protocol for contextualising digital teaching competence in higher education",
+        "url": "https://journal.alt.ac.uk/index.php/rlt/article/view/3583",
+        "source": "Research in Learning Technology",
+        "date": "2026-05-22",
+        "description": "<p>This article presents a structured protocol for contextualising digital teaching competence (DTC) in higher education through the co-creation of discipline-specific exemplars. Rooted in the national Spanish adaptation of the DigCompEdu framework (MCDDU), the protocol was implemented with 100 univ"
+      },
+      {
+        "title": "The Brain That Sees Patterns",
+        "url": "https://www.educationnext.org/the-brain-that-sees-patterns-teaching-reading-dyslexia/",
+        "source": "Education Next",
+        "date": "2026-05-19",
+        "description": "<p>For too long, teachers have been asking struggling readers to guess at words instead of helping them to learn the code</p>\n<p>The post <a href=\"https://www.educationnext.org/the-brain-that-sees-patterns-teaching-reading-dyslexia/\">The Brain That Sees Patterns</a> appeared first on <a href=\"https:"
+      },
+      {
+        "title": "I avoid AI tools because thinking is supposed to be hard. It\u2019s what makes us human | Wendy Liu",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/24/ai-tools-thinking-human-hard-coding-writing-technology",
+        "source": "The Guardian Education",
+        "date": "2026-05-24",
+        "description": "<p>As intelligence itself becomes privatised by big tech, allowing your intellectual faculties to wither in service of inane bots seems a dangerous move</p><p>Long before the age of multi-billion-dollar AI companies promising to disrupt the field of software development, I was learning to code the h"
+      },
+      {
+        "title": "Digest #184: Arts for Learning and Wellbeing in Education",
+        "url": "https://www.learningscientists.org/blog/2026/5/21/digest-184",
+        "source": "Learning Scientists",
+        "date": "2026-05-21",
+        "description": "Recently, I have become interested in the impact of engaging in art on \nlearning and wellbeing. This interest has sent me into a rabbit hole of \nfascinating research and has sparked new ideas for my own teaching \npractice\u2026"
+      }
+    ],
+    "Skills & Workforce Development": [
+      {
+        "title": "\ud83d\udcc8 Why AI bills rise as costs fall",
+        "url": "https://www.exponentialview.co/p/data-to-start-your-week-one-ai-task-many-bills",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-05-25",
+        "description": "Boo &#128123; it's the ghost token"
+      },
+      {
+        "title": "\ud83d\udd2e Exponential View #575: AI\u2019s math breakthrough and its creative limits",
+        "url": "https://www.exponentialview.co/p/ev-575",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-05-24",
+        "description": "&#8220;Humans were not put on this earth to maintain Excel models.&#8221;"
+      },
+      {
+        "title": "\ud83d\udc40 The AI backlash is the only thing growing faster than AI revenues",
+        "url": "https://www.exponentialview.co/p/the-ai-backlash-is-the-only-thing",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-05-23",
+        "description": "Humans are angry"
+      },
+      {
+        "title": "Surgeon General Advisory Wants Kids to Live \u2018Beyond the Confines of Screens\u2019",
+        "url": "https://www.edsurge.com/news/2026-05-21-surgeon-general-advisory-wants-kids-to-live-beyond-the-confines-of-screens",
+        "source": "EdSurge",
+        "date": "2026-05-21",
+        "description": "\"As kids get older, it's still important for adults to monitor the level of content and what is being offered to them.\""
+      },
+      {
+        "title": "The Girl Graduates!",
+        "url": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/05/22/girl-graduates",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>The Girl Graduates!</span>\n\n<span><span>Sara Brady</span></span>\n\n<span><time datetime=\"2026-05-22T03:00:00-04:00\" title=\"Friday, May 22, 2026 - 03:00 AM\">Fri, 05/22/2026 - 03:00 AM</time>\n</span>\n<p>Congrats, TG!</p>\n  <div class=\"field field--name-field-authors field--type-entity-reference f"
+      }
+    ],
+    "Research & Academic Papers": [
+      {
+        "title": "The Rush to Trust Endangers Academic Freedom",
+        "url": "https://www.insidehighered.com/opinion/columns/debatable-ideas/2026/05/22/rush-trust-endangers-academic-freedom",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>The Rush to Trust Endangers Academic Freedom</span>\n\n<span><span>Sara Brady</span></span>\n\n<span><time datetime=\"2026-05-22T03:00:00-04:00\" title=\"Friday, May 22, 2026 - 03:00 AM\">Fri, 05/22/2026 - 03:00 AM</time>\n</span>\n<p>Higher education cannot sacrifice its core values on the altar of tru"
+      },
+      {
+        "title": "IU Biologist\u2019s Lab Reopened, but His Research Is Set Back Months",
+        "url": "https://www.insidehighered.com/news/faculty/research/2026/05/22/iu-biologists-lab-reopened-research-set-back",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>IU Biologist\u2019s Lab Reopened, but His Research Is Set Back Months</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Students walk on the campus of Indiana University as fall colors are seen on tree le"
+      },
+      {
+        "title": "Where Funded Founders Went To School: 2026 Edition",
+        "url": "https://news.crunchbase.com/venture/top-universities-funded-founders-2026-stanford/",
+        "source": "Crunchbase News",
+        "date": "2026-05-21",
+        "description": "The findings from our annual Crunchbase survey of where recently funded founders attended college or university found that alumni of the most selective U.S. schools secure a disproportionately high share of startup funding rounds."
+      }
+    ],
+    "Industry & Competitor News": [
+      {
+        "title": "How to use Claude AI for Investing",
+        "url": "https://www.ai-supremacy.com/p/how-to-use-claude-ai-for-investing-equities-research",
+        "source": "Michael Spencer (AI Supremacy)",
+        "date": "2026-05-21",
+        "description": "Claude for Equity Research, a guest post from an experienced Equity research analyst."
+      },
+      {
+        "title": "Ban for Authors Submitting AI Content \u2018Welcome but Unenforceable\u2019",
+        "url": "https://www.insidehighered.com/news/faculty/books-publishing/2026/05/22/ban-authors-who-submit-ai-content-welcome-unenforceable",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>Ban for Authors Submitting AI Content \u2018Welcome but Unenforceable\u2019</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Old books and journals in library.\" height=\"790\" src=\"https://www.insidehighered.co"
       },
       {
         "title": "Partnering with UNICEF to support innovation in education across the globe",
@@ -470,55 +332,11 @@
         "description": "Teacher leaning over two students to show them something on a computer."
       },
       {
-        "title": "From policy to practice: supporting the future of AI in education",
-        "url": "https://blog.google/products-and-platforms/products/education/ai-policy-guidance-labs/",
-        "source": "Google Education Blog",
-        "date": "2026-05-15",
-        "description": "Two people look at a computer"
-      },
-      {
-        "title": "Can Large Language Models Imitate Human Speech for Clinical Assessment? LLM-Driven Data Augmentation for Cognitive Score Prediction",
-        "url": "https://arxiv.org/abs/2605.16077v1",
-        "source": "arXiv",
-        "date": "2026-05-15",
-        "description": "Accurate assessment of cognitive decline from spontaneous speech remains challenging due to limited dataset size and class imbalance. In this work, we propose a large language model (LLM)-driven data augmentation framework to improve the prediction of cognitive scores from speech. Experiments are co"
-      }
-    ],
-    "Industry & Competitor News": [
-      {
-        "title": "\ud83d\udcc8 Data to start your week: The cost of tokenmaxxing",
-        "url": "https://www.exponentialview.co/p/monday-data-the-cost-of-tokenmaxxing",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-05-18",
-        "description": "Bye, bye fixed costs. Hello token anxiety."
-      },
-      {
-        "title": "\ud83d\udd2e Exponential View #574: Inside Anthropic\u2019s rocket ship; AI pluralism; love commoditized, context-maxxing & Voltaire++",
-        "url": "https://www.exponentialview.co/p/ev-574",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-05-17",
-        "description": "This is the most relevant newsletter I receive in my inbox every week."
-      },
-      {
-        "title": "\ud83d\udcc8 Cerebras and the IPO pop",
-        "url": "https://www.exponentialview.co/p/cerebras-and-the-ipo-pop",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-05-15",
-        "description": "Wall St is finally grasping AI inference demand"
-      },
-      {
-        "title": "Import AI 457: AI stuxnet; cursed Muon optimizer; and positive alignment",
-        "url": "https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/",
-        "source": "Jack Clark (Import AI)",
-        "date": "2026-05-18",
-        "description": "<img alt=\"\" class=\"attachment-thumbnail size-thumbnail wp-post-image\" height=\"150\" src=\"https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-qSUQ99.jpg?resize=150%2C150&amp;ssl=1\" wid"
-      },
-      {
-        "title": "How to use Claude AI for Investing",
-        "url": "https://www.ai-supremacy.com/p/how-to-use-claude-ai-for-investing-equities-research",
-        "source": "Michael Spencer (AI Supremacy)",
-        "date": "2026-05-21",
-        "description": "Claude for Equity Research, a guest post from an experienced Equity research analyst."
+        "title": "FIU Suspends 2 Students Over Racist Texts",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/05/22/fiu-suspends-2-students-over-racist-texts",
+        "source": "Inside Higher Ed",
+        "date": "2026-05-22",
+        "description": "<span>FIU Suspends 2 Students Over Racist Texts</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"View of the student life at Florida International University, in Miami, Florida. FIU is the largest univers"
       },
       {
         "title": "How Power Users Drove a New ITSM Implementation at UNC-Chapel Hill",
@@ -528,25 +346,18 @@
         "description": "In 2024, the University of North Carolina at Chapel Hill transitioned to a new IT service management system to better meet user needs and lower maintenance costs. The success of the transition hinged on user feedback, phased implementation, and clear communication."
       },
       {
-        "title": "STRIDE-AI: A Threat Modeling Framework for Generative AI Security Assessment",
-        "url": "https://arxiv.org/abs/2605.17163v1",
-        "source": "arXiv",
-        "date": "2026-05-16",
-        "description": "Traditional cybersecurity methodologies target deterministic systems and fail to address the probabilistic nature of AI, leaving systems vulnerable to attack vectors such as model inversion, data poisoning, and prompt injection. Recent industry reports indicate that a majority of organizations deplo"
-      },
-      {
-        "title": "PromptDecipher: Supporting AI Tutor Authoring Through Editable Simulated Interactions",
-        "url": "https://arxiv.org/abs/2605.16605v1",
-        "source": "arXiv",
-        "date": "2026-05-15",
-        "description": "Chatbots have long been explored as tools to support learning, and recent advances in large language models have significantly expanded the availability of platforms for educators to author AI tutoring chatbots. Yet effective authorship demands more than writing a system prompt; it requires educator"
-      },
-      {
-        "title": "Parents don't want their kids to use tech at school., districts pushing back",
-        "url": "https://apnews.com/article/edtech-philly-classroom-technology-computer-phone-screens-6aab2bac1d66df1863509b5d5c74fe12",
-        "source": "Hacker News",
+        "title": "UNESCO confirms growing trend of intra-regional student mobility",
+        "url": "https://monitor.icef.com/2026/05/unesco-confirms-growing-trend-of-intra-regional-student-mobility/",
+        "source": "ICEF Monitor",
         "date": "2026-05-21",
-        "description": "24 points, 1 comments on Hacker News"
+        "description": "<p>UNESCO\u2019s first Higher Education Global Trends Report confirms that while traditional destinations for study abroad continue to be the most popular choices for international students, there are important changes afoot, with countries such as T\u00fcrkiye, Egypt, Japan, and others picking up share of in"
+      },
+      {
+        "title": "How new ideas about access to university are dramatically expanding the market for international higher education",
+        "url": "https://monitor.icef.com/2026/05/how-new-ideas-about-access-to-university-are-dramatically-expanding-the-market-for-international-higher-education/",
+        "source": "ICEF Monitor",
+        "date": "2026-05-19",
+        "description": "<p>This special feature is brought you in partnership with International Humanitarian College London (IHCL). A newly released UNESCO report reveals that higher education enrolments have more than doubled globally over the past 25 years, rising from about 100 million students in 2000 to 269 million a"
       }
     ]
   }
