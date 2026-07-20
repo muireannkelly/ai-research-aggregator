@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 09:09 UTC",
+  "last_updated": "2026-07-20 09:49 UTC",
   "themes": {
     "AI in Education & Learning": [
       {
@@ -10,39 +10,46 @@
         "description": "Anthropic launches Claude for Teachers, offering free AI tools aligned to standards, curriculum, privacy requirements and everyday classroom workloads nationwide."
       },
       {
-        "title": "Khanmigo\u2019s First Chapter Changed How I Think About AI: A note from Sal Khan",
-        "url": "https://blog.khanacademy.org/khanmigos-first-chapter-changed-how-i-think-about-ai-a-note-from-sal-khan/",
-        "source": "Khan Academy Blog",
-        "date": "2026-07-15",
-        "description": "<p>By Sal Khan, Founder and CEO of Khan Academy Setting the record straight I started Khan Academy as a nonprofit because I believed that ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/khanmigos-first-chapter-changed-how-i-think-about-ai-a-note-from-sal-khan/\" title=\"Khanmigo\u2019s First Ch"
-      },
-      {
-        "title": "Why Microschools Are Multiplying",
-        "url": "https://www.educationnext.org/why-microschools-are-multiplying-schools-out-book-excerpt/",
+        "title": "\u201cGifted\u201d Is Dead. Long Live \u201cAdvanced\u201d Learners!",
+        "url": "https://www.educationnext.org/gifted-is-dead-long-live-advanced-learners/",
         "source": "Education Next",
-        "date": "2026-07-16",
-        "description": "<p>Excerpt TK</p>\n<p>The post <a href=\"https://www.educationnext.org/why-microschools-are-multiplying-schools-out-book-excerpt/\">Why Microschools Are Multiplying</a> appeared first on <a href=\"https://www.educationnext.org\">Education Next</a>.</p>"
-      },
-      {
-        "title": "\ud83d\udcc8 Data to start your week",
-        "url": "https://www.exponentialview.co/p/data-to-start-your-week-13-july-2026",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-07-13",
-        "description": "A new scaling law; AI job fears fade; Dementia in retreat++"
-      },
-      {
-        "title": "\ud83d\udd2e Reading is dying. GPU demand isn\u2019t.",
-        "url": "https://www.exponentialview.co/p/ev-592",
-        "source": "Azeem Azhar (Exponential View)",
-        "date": "2026-07-12",
-        "description": "Plus: Infrastructure demand; post-literacy, earning after AGI, solar explosion++"
-      },
-      {
-        "title": "Florence Welch\u2019s mother says cuts to arts and humanities \u2018absolutely tragic\u2019",
-        "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
-        "source": "The Guardian Education",
         "date": "2026-07-15",
-        "description": "<p>Exclusive: Prof Evelyn Welch, vice-chancellor of Bristol University, believes her daughter\u2019s success shows value of arts education</p><p>One of Britain\u2019s leading university vice-chancellors has described sweeping cuts to arts and humanities across the sector as \u201cabsolutely tragic\u201d, citing her fam"
+        "description": "<p>Beyond the labels, there is a benefit to treating students\u2019 abilities as qualities schools can serve, not conditions they should diagnose</p>\n<p>The post <a href=\"https://www.educationnext.org/gifted-is-dead-long-live-advanced-learners/\">\u201cGifted\u201d Is Dead. Long Live \u201cAdvanced\u201d Learners!</a> appear"
+      },
+      {
+        "title": "Who are Top AI Sources to follow on LinkedIn?",
+        "url": "https://www.ai-supremacy.com/p/top-ai-sources-to-follow-linkedin-in-ai-2026",
+        "source": "Michael Spencer (AI Supremacy)",
+        "date": "2026-07-16",
+        "description": "Part I: I take my first preliminary look into this, for the first time in years."
+      },
+      {
+        "title": "\u2018Without this it\u2019s all just tourists\u2019: the fight to save Soho\u2019s last primary school",
+        "url": "https://www.theguardian.com/education/2026/jul/18/without-this-school-its-all-just-tourists-fight-for-soho-last-primary",
+        "source": "The Guardian Education",
+        "date": "2026-07-18",
+        "description": "<p>Falling pupil numbers have left \u2018unique\u2019 London school facing an uncertain future, but its supporters have ambitious plans</p><p>Sandwiched between a strip club, a West End theatre and a pub might not be the most obvious location for a school but Soho Parish C of E primary has thrived for decades"
+      },
+      {
+        "title": "The school holidays are here \u2013 let\u2019s play \u2018arguing over screen time\u2019: the Stephen Collins cartoon",
+        "url": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
+        "source": "The Guardian Education",
+        "date": "2026-07-17",
+        "description": "<a href=\"https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon\">Continue reading...</a>"
+      },
+      {
+        "title": "\u2018I\u2019m sorry but I\u2019m unable to speak\u2019: hero of India\u2019s Cockroach party weakens on 19th day of hunger strike",
+        "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
+        "source": "The Guardian Education",
+        "date": "2026-07-17",
+        "description": "<p>The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resigns</p><p>As night falls on day 18 of his hunger strike, the lack of any sustenance except water shows. It is 7"
+      },
+      {
+        "title": "Private schools offer 41% more tree shade than state schools in England",
+        "url": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
+        "source": "The Guardian Education",
+        "date": "2026-07-16",
+        "description": "<p>Analysis reveals stark socioeconomic divide, with schools with highest free school meal eligibility having fewer trees</p><p>Private school grounds in England offer 41% more tree cover than at state schools for cooling and shade in extreme temperatures, research has found.</p><p>As teachers and s"
       },
       {
         "title": "Students and recent graduates: tell us your best and worst experiences of uni societies",
@@ -52,74 +59,67 @@
         "description": "<p>We would like to hear about the highs and lows of university clubs and societies</p><p>As a new academic year approaches, we would like to hear from students and recent graduates (five years ago or less) about their experiences of university clubs and societies that freshers might find instructiv"
       },
       {
-        "title": "Pilot scheme in England to convert empty classrooms into community hubs",
-        "url": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
+        "title": "The federal government isn\u2019t America\u2019s only authoritarian institution | Jan-Werner M\u00fcller",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/16/yale-trump-backlash",
         "source": "The Guardian Education",
-        "date": "2026-07-14",
-        "description": "<p>Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbers</p><p>Classrooms left empty by falling numbers of pupils could soon be converted into youth clubs or health centres, as part of a pilot scheme to be announced this week.</p><p>"
+        "date": "2026-07-16",
+        "description": "<p>Backlash at Yale to its negotiations with Trump shine a light on the danger of smaller authoritarian structures in civil society</p><p>As <a href=\"https://www.nytimes.com/2026/06/26/us/politics/yale-trump-administration-admissions-race.html\">news</a> started to spread of Yale\u2019s leadership negotia"
       },
       {
-        "title": "The Taliban\u2019s war on education: \u2018Nobody talks about what is happening to the boys\u2019",
-        "url": "https://www.theguardian.com/global-development/2026/jul/13/afghanistan-education-taliban-universities-teaching-students-religion-women-islam",
-        "source": "The Guardian Education",
-        "date": "2026-07-13",
-        "description": "<p>Five years after the ultra-conservative Islamists retook Afghanistan, students describe male pupils being beaten for minor rule breaches and inexperienced teachers struggling to deliver lessons</p><p>Before he leaves for Kabul University each morning, Hashmat* checks his face for the beard he has"
-      },
-      {
-        "title": "\u2018Children were calling for their mummies\u2019: UK pupils struggle in 40C-plus classrooms",
-        "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
-        "source": "The Guardian Education",
-        "date": "2026-07-11",
-        "description": "<p>Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstroke</p><p>The extreme heat that has hit the UK twice in the past few weeks has left teachers struggling to cope as temperatures in some classrooms climb above 40C, with pupils and staff su"
-      },
-      {
-        "title": "At last, a proper excuse for monoglots to learn another language: it helps keep your brain young | Rhiannon Lucy Cosslett",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/12/learn-another-language-french-restaurant-service-multilingual",
-        "source": "The Guardian Education",
-        "date": "2026-07-12",
-        "description": "<p>I love busting out a French subjunctive in pursuit of better restaurant service, so it\u2019s a joy to discover there\u2019s a neuroscientific upside to being multilingual</p><p>It\u2019s hard to pick a favourite PG Wodehouse line, but the one I\u2019m perhaps most fond of <a href=\"https://www.goodreads.com/quotes/3"
-      },
-      {
-        "title": "Amid Cyclosporiasis Outbreak, University Researchers Lend Their Expertise",
-        "url": "https://www.insidehighered.com/news/faculty/research/2026/07/15/university-researchers-demand-amid-diarrhea-outbreak",
+        "title": "Tag-Teaming New York",
+        "url": "https://www.insidehighered.com/opinion/columns/confessions-community-college-dean/2026/07/20/tag-teaming-new-york",
         "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>Amid Cyclosporiasis Outbreak, University Researchers Lend Their Expertise</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of snow peas, lettuce, raspberries and cilantro merged"
+        "date": "2026-07-20",
+        "description": "<span>Tag-Teaming New York</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Logo of Confessions of a Community College Dean\" height=\"432\" src=\"https://www.insidehighered.com/sites/default/files/2023-04/Bl"
       },
       {
-        "title": "Investigation Finds Michigan Overlooked Issues With Coach",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/07/15/investigation-finds-michigan-overlooked-issues-coach",
+        "title": "Do You Have to Be Fancy to Get Published in \u2018Science\u2019?",
+        "url": "https://www.insidehighered.com/news/faculty/research/2026/07/20/do-you-have-be-fancy-get-published-science",
         "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>Investigation Finds Michigan Overlooked Issues With Coach</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo of former Michigan football coach Sherrone Moore speaking at a press conference.\" h"
+        "date": "2026-07-20",
+        "description": "<span>Do You Have to Be Fancy to Get Published in \u2018Science\u2019?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of three block &quot;U&quot; letters on top of first, second and third po"
       },
       {
-        "title": "An Enrollment Reprieve for Rabbinical Schools",
-        "url": "https://www.insidehighered.com/news/institutions/religious-colleges/2026/07/15/enrollment-reprieve-rabbinical-schools",
+        "title": "Inside the \u2018Culture of Fear\u2019 at One American-Chinese University",
+        "url": "https://www.insidehighered.com/news/faculty/contingent-faculty/2026/07/20/wenzhou-kean-faculty-say-leaders-keep-things-hidden",
         "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>An Enrollment Reprieve for Rabbinical Schools</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Students singing at Hebrew Union College.\" height=\"800\" src=\"https://www.insidehighered.com/sites/defau"
+        "date": "2026-07-20",
+        "description": "<span>Inside the \u2018Culture of Fear\u2019 at One American-Chinese University</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Three photos color blocked in grey, orange and tan from the campus of Wenzhou-Kean Un"
       },
       {
-        "title": "Would You Prefer Rocks Over Higher Education?",
-        "url": "https://www.insidehighered.com/opinion/columns/just-explain-it-me/2026/07/15/why-do-we-need-arts-humanities-and-social-sciences",
+        "title": "New Initiative Targets Transfer Credit Loss",
+        "url": "https://www.insidehighered.com/news/student-success/life-after-college/2026/07/20/new-initiative-targets-transfer-credit-loss",
         "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>Would You Prefer Rocks Over Higher Education?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"An ivy covered building overlaid with a post-it note with text that reads Just Explain it to Me\" height"
+        "date": "2026-07-20",
+        "description": "<span>New Initiative Targets Transfer Credit Loss</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Diverse group of women in an indoor setting actively collaborating and engaged in conversation during a m"
       },
       {
-        "title": "Trump One Step Closer to Removing ED From LBJ Building",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/07/15/trump-one-step-closer-removing-ed-lbj-building",
-        "source": "Inside Higher Ed",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "source": "MIT Technology Review",
         "date": "2026-07-15",
-        "description": "<span>Trump One Step Closer to Removing ED From LBJ Building</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo of a sign for the U.S. Department of Education with a U.S. flag in front of it.\" heigh"
+        "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m"
       },
       {
-        "title": "Agentic AI and Change Management Lessons for Modernizing Systems",
-        "url": "https://er.educause.edu/podcasts/educause-shop-talk/2026/agentic-ai-and-change-management-lessons-for-modernizing-systems",
-        "source": "EDUCAUSE Review",
-        "date": "2026-07-13",
-        "description": "In this episode, Sophie and Jenay talk with Brian Zahn and Eric Markle from The George Washington University about their experience using agentic AI to modernize enterprise systems, improve developer productivity, and manage organizational change."
+        "title": "Cost-efficient generative AI summarization for scalable automated essay scoring in educational assessment",
+        "url": "https://arxiv.org/abs/2607.15829v1",
+        "source": "arXiv",
+        "date": "2026-07-17",
+        "description": "Automated essay scoring (AES) enables scalable assessment and timely feedback but remains challenged by transformer input-length limitations, which can cause information loss when processing long essays. This study proposes a generative AI-assisted summarization framework to improve long-form essay "
+      },
+      {
+        "title": "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education",
+        "url": "https://arxiv.org/abs/2607.15738v1",
+        "source": "arXiv",
+        "date": "2026-07-17",
+        "description": "Generative AI (GenAI) is increasingly used by students for programming explanation, debugging, and assignment support. Yet unrestricted large language model (LLM) tutors can hallucinate, contradict course policy, reveal complete solutions, and foster passive dependence. This paper presents EduGuard,"
+      },
+      {
+        "title": "SYNAPSE: A Multi-LLM Orchestrated AI Tutor for Secure Software Development Education with Neurodivergent-First Design",
+        "url": "https://arxiv.org/abs/2607.14601v1",
+        "source": "arXiv",
+        "date": "2026-07-16",
+        "description": "Developers who maintain real systems must continually recognise and remediate vulnerabilities in existing code, yet this skill is rarely trained directly: secure software development is commonly taught only after programming fluency is acquired, and accessibility support is treated as a secondary co"
       },
       {
         "title": "Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education",
@@ -134,6 +134,13 @@
         "source": "arXiv",
         "date": "2026-07-14",
         "description": "With the increased use of generative AI (GenAI) applications such as ChatGPT, higher education institutions (HEIs) have released a range of guidelines and policies to direct adoption within their institutions. In computer science (CS) courses GenAI adoption is especially high and the implications fo"
+      },
+      {
+        "title": "A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data",
+        "url": "https://arxiv.org/abs/2607.12295v1",
+        "source": "arXiv",
+        "date": "2026-07-14",
+        "description": "The rapid integration of artificial intelligence (AI) and generative AI (GenAI) into education presents significant opportunities to enhance teaching and learning, while raising ethical concerns about the responsible use of these technologies in educational settings. Understanding how the public per"
       },
       {
         "title": "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential",
@@ -157,6 +164,13 @@
         "description": "Advanced physics laboratories require students to integrate disciplinary knowledge, experimental practice and scientific argumentation across complex observational and analytical tasks. The increasing availability of generative artificial intelligence (GenAI) adds complexity to this coordination, si"
       },
       {
+        "title": "A Tool-Invariant Framework for Teaching and Assessing Computational Methods in the Age of Agentic AI",
+        "url": "https://arxiv.org/abs/2607.15518v1",
+        "source": "arXiv",
+        "date": "2026-07-17",
+        "description": "Learning a computational method has always meant learning to operate a tool -- pencil, slide rule, calculator, or programming language. Agentic artificial intelligence, which writes, executes, and revises simulation code from natural-language specifications, is the latest and largest step in a centu"
+      },
+      {
         "title": "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System",
         "url": "https://arxiv.org/abs/2607.13370v1",
         "source": "arXiv",
@@ -164,226 +178,25 @@
         "description": "This paper is an extension of a paper presented at the ICAART 2026 conference, which introduced LEA (Learning Engagement Assistant), an adaptive AI tutoring agent combining course-specific Retrieval-Augmented Generation (RAG) with structured Knowledge Component (KC) models across integrated Chat, Tu"
       },
       {
-        "title": "LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning",
-        "url": "https://arxiv.org/abs/2607.11032v1",
-        "source": "arXiv",
-        "date": "2026-07-13",
-        "description": "Project-based learning (PjBL) is common in computing education, but traditional assessments of PjBL often fail to capture higher-order thinking (HOT), especially in transfer contexts. This study introduces \"design problems\" (DPs): concise, scenario-based prompts that require applying project concept"
-      },
-      {
-        "title": "Knowledge Distillation for Automated AI Tutor Evaluation",
-        "url": "https://arxiv.org/abs/2607.10647v1",
-        "source": "arXiv",
-        "date": "2026-07-12",
-        "description": "The rapid integration of Large Language Models (LLMs) into K-12 and higher education has outpaced the development of reliable methods for evaluating their pedagogical quality. As the research community starts to explore the space of automating evaluation of AI tutors, we introduce FATE (FLC AI Tutor"
-      },
-      {
-        "title": "PolyInterview: An LLM-based Platform for Immersive Mock Interview Practice with Comprehensive Multimodal Assessment",
-        "url": "https://arxiv.org/abs/2607.10310v1",
-        "source": "arXiv",
-        "date": "2026-07-11",
-        "description": "Preparing for job interviews is important for securing desired positions, yet realistic practice remains difficult to access: real interviews are infrequent, expert mock coaching is costly, and self-practice offers neither adaptive dialogue nor structured assessment. Existing systems typically addre"
-      },
-      {
-        "title": "When LLM Tutoring Responses Work: Evidence from Student Programming Conversations",
-        "url": "https://arxiv.org/abs/2607.09919v1",
-        "source": "arXiv",
-        "date": "2026-07-10",
-        "description": "As students increasingly use LLM tutors in computer science education, one question becomes especially important: what kind of response helps a student continue productively? Prior work has studied how students use LLMs in computer science education, but less is known about how tutoring response sty"
-      },
-      {
-        "title": "Micro-level AI Feedback Features and Student Responses in Consecutive LLM Tutoring Interactions",
-        "url": "https://arxiv.org/abs/2607.08952v1",
-        "source": "arXiv",
-        "date": "2026-07-09",
-        "description": "AI-assisted feedback research has shown that micro-level feedback features, such as concrete elaboration, affective language, and response length, are associated with learning outcomes. Existing studies have primarily examined these features using session- or task-level measures. We examine how feed"
-      },
-      {
-        "title": "L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education",
-        "url": "https://arxiv.org/abs/2607.08842v2",
-        "source": "arXiv",
-        "date": "2026-07-09",
-        "description": "Despite rapid AI adoption in education, rigorous evaluation of AI-powered educational (AIED) systems remains critically underdeveloped, particularly in second language (L2) education, one of the most common yet least evaluated AI applications. We introduce L2-Bench, an open-source benchmark of 1,000"
-      }
-    ],
-    "Assessment & Credentialing": [
-      {
-        "title": "Stochastic Constrained Test Assembly for AI-Enabled Assessment Systems",
-        "url": "https://arxiv.org/abs/2607.09965v1",
-        "source": "arXiv",
-        "date": "2026-07-10",
-        "description": "Test assembly, the process of constructing a complete test form from an item pool subject to blueprint constraints, has traditionally been treated as a static optimization problem. In AI-enabled assessment environments, however, item pools evolve continuously as newly generated items enter with unce"
-      },
-      {
         "title": "From Chaos to Clarity: A Framework for Program-Level AI Learning Outcomes",
         "url": "https://arxiv.org/abs/2607.12221v1",
         "source": "arXiv",
         "date": "2026-07-13",
         "description": "Industry is leaning into generative artificial intelligence (GenAI), and higher education is under pressure to prepare graduates for a GenAI-augmented workforce. Yet, there is still no clear structure for defining AI readiness across disciplines, programs, courses, and assignments. Current approache"
-      }
-    ],
-    "Future of Work & Skills": [
-      {
-        "title": "The Case For Emotional Education For An AI Economy",
-        "url": "https://www.forbes.com/sites/danfitzpatrick/2026/07/11/the-case-for-emotional-education-for-an-ai-economy/",
-        "source": "Dan Fitzpatrick (Forbes)",
-        "date": "2026-07-11",
-        "description": "As AI reshapes jobs, employers increasingly value empathy, communication and emotional intelligence. Are schools preparing students for this human future?"
       },
       {
-        "title": "Safe from AI: which jobs will help you thrive in the future?",
-        "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-        "source": "The Guardian Education",
-        "date": "2026-07-11",
-        "description": "<p>Experts say there will still be opportunities ahead in everything from teaching to hotels and the law</p><p>Entering the world of work often brings some uncertainty, but now there is another question: how can I AI-proof my career?</p><p>We asked people from across various industries what they thi"
-      },
-      {
-        "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
-        "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
-        "source": "Hacker News",
+        "title": "Joint sector alert sends a clear compliance message to Australian higher education and VET providers",
+        "url": "https://monitor.icef.com/2026/07/joint-sector-alert-sends-a-clear-compliance-message-to-australian-higher-education-and-vet-providers/",
+        "source": "ICEF Monitor",
         "date": "2026-07-16",
-        "description": "30 points, 3 comments on Hacker News"
-      }
-    ],
-    "Higher Education Policy": [
-      {
-        "title": "Do School Closures Save Money?",
-        "url": "https://www.educationnext.org/do-school-closures-save-money-study-california-districts-balancing-budget-enrollment-decline/",
-        "source": "Education Next",
-        "date": "2026-07-14",
-        "description": "<p>A study of California districts reveals the challenge of balancing budgets as enrollments decline</p>\n<p>The post <a href=\"https://www.educationnext.org/do-school-closures-save-money-study-california-districts-balancing-budget-enrollment-decline/\">Do School Closures Save Money?</a> appeared first"
+        "description": "<p>There are two national quality-assurance regulators for tertiary education in Australia. TEQSA (Tertiary Education Quality and Standards Agency) is the regulatory body for Australian higher education while ASQA (Australian Skills Quality Authority) is responsible for the vocational education and "
       },
       {
-        "title": "Humanities among degrees being \u2018extinguished\u2019 by hard-up universities",
-        "url": "https://www.theguardian.com/education/2026/jul/14/university-job-cuts-humanities-social-sciences",
-        "source": "The Guardian Education",
-        "date": "2026-07-14",
-        "description": "<p>Exclusive: Experts fear rise in education \u2018cold spots\u2019 and social immobility as 4,000 academic posts lost in one year</p><p>Thousands of university job cuts in humanities and social sciences are creating widespread cold spots for languages, classics and theology degrees, the British Academy has w"
-      },
-      {
-        "title": "Special Report: Higher Ed\u2019s Big Restructuring",
-        "url": "https://www.insidehighered.com/news/quick-takes/2026/07/15/special-report-higher-eds-big-restructuring",
-        "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>Special Report: Higher Ed\u2019s Big Restructuring </span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Multigenerational learners in a line of desks in a college classroom, looking engaged.\" height=\"696\" s"
-      },
-      {
-        "title": "England: Government \u201cremains of the view\u201d that the International Student Levy should go ahead; implementation planned for August 2028",
-        "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+        "title": "Academic support and learning resources in TNE: Delivering student success across borders",
+        "url": "https://monitor.icef.com/2026/07/academic-support-and-learning-resources-in-tne-delivering-student-success-across-borders/",
         "source": "ICEF Monitor",
-        "date": "2026-07-15",
-        "description": "<p>The UK first indicated it would explore &#8220;a levy on higher education provider income from international students&#8221; in its May 2025 immigration white paper. The International Student Levy was subsequently confirmed by England&#8217;s Department of Education in September 2025, to be charg"
-      },
-      {
-        "title": "Decline in Indian demand a major factor in softer outlook for foreign enrolment in US higher education in 2026/27",
-        "url": "https://monitor.icef.com/2026/07/decline-in-indian-demand-a-major-factor-in-softer-outlook-for-foreign-enrolment-in-us-higher-education-in-2026-27/",
-        "source": "ICEF Monitor",
-        "date": "2026-07-09",
-        "description": "<p>The Institute of International Education (IIE) does a twice-yearly snapshot survey of US institutions that required reading in a normal year. This year, with some many market and policy shifts afoot, it is an even more essential indicator of where international enrolment trends are going in the U"
-      },
-      {
-        "title": "Australia: As visa applications from foreign students fall, the government has set the national target for new international students in 2027",
-        "url": "https://monitor.icef.com/2026/07/australia-as-visa-applications-from-foreign-students-fall-the-government-has-set-the-national-target-for-new-international-students-in-2027/",
-        "source": "ICEF Monitor",
-        "date": "2026-07-09",
-        "description": "<p>The Australian government has announced overall settings for \u201cmanaging the growth\u201d of the country\u2019s international education sector for the coming academic year. It has set the National Planning Level (NPL), its system for controlling the flow of foreign students into universities and vocational ("
-      },
-      {
-        "title": "Independent K-12 schools in the UK hosting fewer international students this year",
-        "url": "https://monitor.icef.com/2026/07/independent-k-12-schools-in-the-uk-hosting-fewer-international-students-this-year/",
-        "source": "ICEF Monitor",
-        "date": "2026-07-09",
-        "description": "<p>Independent (private) K-12 schools belonging to the Independent Schools Council (ISC) are hosting 57,200 non-British students in the UK this year. This volume represents a notable decline (-8%) from the total of 61,750 non-UK students in ISC schools in 2025. The findings are the result of a Janua"
-      }
-    ],
-    "Learning Science & Design": [
-      {
-        "title": "\u201cGifted\u201d Is Dead. Long Live \u201cAdvanced\u201d Learners!",
-        "url": "https://www.educationnext.org/gifted-is-dead-long-live-advanced-learners/",
-        "source": "Education Next",
-        "date": "2026-07-15",
-        "description": "<p>Beyond the labels, there is a benefit to treating students\u2019 abilities as qualities schools can serve, not conditions they should diagnose</p>\n<p>The post <a href=\"https://www.educationnext.org/gifted-is-dead-long-live-advanced-learners/\">\u201cGifted\u201d Is Dead. Long Live \u201cAdvanced\u201d Learners!</a> appear"
-      },
-      {
-        "title": "The Education Exchange: Supreme Court United in Belief that Transgender Athlete Bans Do Not Violate Title IX",
-        "url": "https://www.educationnext.org/the-education-exchange-supreme-court-united-in-belief-that-transgender-athlete-bans-do-not-violate-title-ix/",
-        "source": "Education Next",
-        "date": "2026-07-13",
-        "description": "<p>Paul E. Peterson interviews R. Shep Melnick, the Thomas P. O\u2019Neill, Jr. Professor of American Politics at Boston College</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-supreme-court-united-in-belief-that-transgender-athlete-bans-do-not-violate-title-ix/\">The Educati"
-      },
-      {
-        "title": "Time Management: What is it, who has it, and can you improve it? (Repost)",
-        "url": "https://www.learningscientists.org/blog/2026/7/9",
-        "source": "Learning Scientists",
-        "date": "2026-07-10",
-        "description": "Even under ideal circumstances, time management can be challenging\u2026 Even \nmotivated, dedicated students who did well in high school can struggle to \nmanage their time once they get to university. Students who were able to \nget to school by 7:30am in high school, maintain good grades,and \nparticipate"
-      },
-      {
-        "title": "Learning behavior accounts for background-related advantage in AI-assisted education",
-        "url": "https://arxiv.org/abs/2607.10101v1",
-        "source": "arXiv",
-        "date": "2026-07-11",
-        "description": "Generative AI has been found, and will likely be found increasingly, useful in education. However, existing AI-for-education studies provide inconsistent evidence on its average effects. More broadly, research on prior educational technologies shows that average effects often mask substantial hetero"
-      },
-      {
-        "title": "A Conceptual Architecture for Educational Digital Twins Supporting AI Literacy Across Educational and Professional Settings",
-        "url": "https://arxiv.org/abs/2607.10013v1",
-        "source": "arXiv",
-        "date": "2026-07-10",
-        "description": "In the AI Literacy for Multidisciplinary Professional Readiness and Outreach (AIM-PRO) project, we are creating integrated methods to improve the education on AI literacy. One concept on which the project relies is educational digital twins, that is, digital representations of educator trainers, tea"
-      }
-    ],
-    "Skills & Workforce Development": [
-      {
-        "title": "Digging in on the New Federal Scholarship Tax Credit",
-        "url": "https://www.educationnext.org/digging-in-on-the-new-federal-scholarship-tax-credit/",
-        "source": "Education Next",
-        "date": "2026-07-13",
-        "description": "<p>For the FSTC to deliver on its promise, we should not overlook two big challenges ahead</p>\n<p>The post <a href=\"https://www.educationnext.org/digging-in-on-the-new-federal-scholarship-tax-credit/\">Digging in on the New Federal Scholarship Tax Credit</a> appeared first on <a href=\"https://www.edu"
-      },
-      {
-        "title": "A New Path Between Trades and Degrees",
-        "url": "https://www.insidehighered.com/news/student-success/college-experience/2026/07/15/new-path-between-trades-and-degrees",
-        "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>A New Path Between Trades and Degrees</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"University of Mount Saint Vincent students learning in a classroom.\" height=\"1600\" src=\"https://www.insidehighe"
-      }
-    ],
-    "Research & Academic Papers": [
-      {
-        "title": "House Hearing Puts Med Schools in DEI Hot Seat",
-        "url": "https://www.insidehighered.com/news/government/politics-elections/2026/07/15/house-hearing-puts-med-schools-dei-hot-seat",
-        "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>House Hearing Puts Med Schools in DEI Hot Seat</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Dr. Enrico Benedetti, Interim G. Stephen Irwin Executive Dean, University of Illinois College of Medic"
-      },
-      {
-        "title": "We Need a New Science Funding Playbook",
-        "url": "https://www.insidehighered.com/opinion/views/2026/07/15/we-need-new-science-funding-playbook-opinion",
-        "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>We Need a New Science Funding Playbook</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A $50 bill under a microscope.\" height=\"1414\" src=\"https://www.insidehighered.com/sites/default/files/2026-07/"
-      },
-      {
-        "title": "A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data",
-        "url": "https://arxiv.org/abs/2607.12295v1",
-        "source": "arXiv",
-        "date": "2026-07-14",
-        "description": "The rapid integration of artificial intelligence (AI) and generative AI (GenAI) into education presents significant opportunities to enhance teaching and learning, while raising ethical concerns about the responsible use of these technologies in educational settings. Understanding how the public per"
-      },
-      {
-        "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students",
-        "url": "https://arxiv.org/abs/2607.11292v1",
-        "source": "arXiv",
-        "date": "2026-07-13",
-        "description": "As Large Language Models (LLMs) are increasingly deployed as conversational tutors, they risk institutionalizing systemic inequalities. This study presents a systematic API audit of four LLMs acting as history tutors, evaluating 1,800 responses regarding the 1989 Romanian Revolution across five stud"
-      },
-      {
-        "title": "Adversarial Prompting Framework for AI Safety Assessment",
-        "url": "https://arxiv.org/abs/2607.13453v1",
-        "source": "arXiv",
-        "date": "2026-07-15",
-        "description": "Artificial Intelligence (AI), especially Generative AI (GenAI), adoption has increased in industries significantly in recent years. However, the use of these models may also expose systems to new forms of cyberattacks by different malicious actors -- adversarial prompt attack (APA) being one of the "
+        "date": "2026-07-16",
+        "description": "<p>In my previous article in this series, I argued that if transnational education (TNE) is to fulfil its enormous potential, we need to look beyond partnership agreements, regulatory frameworks and recruitment targets and focus much more intentionally on the student experience. That experience begi"
       },
       {
         "title": "Grounded world models in biological organisms and future embodied AI",
@@ -393,7 +206,23 @@
         "description": "Recent advances in generative and embodied AI have been driven by large-scale predictive learning over multimodal data. However, the resulting systems remain largely based on passive training regimes where linguistic regularities create the scaffold onto which information from other modalities is at"
       }
     ],
-    "Industry & Competitor News": [
+    "Assessment & Credentialing": [
+      {
+        "title": "The Education Exchange: Could New Mayor End D.C. Teacher Evaluation System?",
+        "url": "https://www.educationnext.org/the-education-exchange-could-new-mayor-end-d-c-teacher-evaluation-system/",
+        "source": "Education Next",
+        "date": "2026-07-20",
+        "description": "<p>Paul E. Peterson interviews Michelle Rhee, Venture Partner at Equal Opportunity Ventures</p>\n<p>The post <a href=\"https://www.educationnext.org/the-education-exchange-could-new-mayor-end-d-c-teacher-evaluation-system/\">The Education Exchange: Could New Mayor End D.C. Teacher Evaluation System?</a"
+      },
+      {
+        "title": "Do School Closures Save Money?",
+        "url": "https://www.educationnext.org/do-school-closures-save-money-study-california-districts-balancing-budget-enrollment-decline/",
+        "source": "Education Next",
+        "date": "2026-07-14",
+        "description": "<p>A study of California districts reveals the challenge of balancing budgets as enrollments decline</p>\n<p>The post <a href=\"https://www.educationnext.org/do-school-closures-save-money-study-california-districts-balancing-budget-enrollment-decline/\">Do School Closures Save Money?</a> appeared first"
+      }
+    ],
+    "Future of Work & Skills": [
       {
         "title": "OpenAI just lost the AI wearables Race",
         "url": "https://www.ai-supremacy.com/p/openai-just-lost-the-ai-wearables-race-apple-lawsuit",
@@ -402,18 +231,62 @@
         "description": "Also, is AI disrupting older workers? OpenAI's leadership, management and product execution woes continue to bleed confidence for potential customers, general public."
       },
       {
-        "title": "What if the U.S. Government Owned Stock in AI Companies?",
-        "url": "https://www.insidehighered.com/opinion/columns/online-trending-now/2026/07/15/what-if-us-government-owned-stock-ai-companies",
-        "source": "Inside Higher Ed",
-        "date": "2026-07-15",
-        "description": "<span>What if the U.S. Government Owned Stock in AI Companies?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"The words Online Trending Now on a metallic purple, high tech-looking background\" height=\"43"
+        "title": "\ud83d\udcc8 Data to start your week",
+        "url": "https://www.exponentialview.co/p/data-to-start-your-week-13-july-2026",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-07-13",
+        "description": "A new scaling law; AI job fears fade; Dementia in retreat++"
       },
       {
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "title": "AI is more likely than humans to form biases when hiring",
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
         "source": "MIT Technology Review",
+        "date": "2026-07-20",
+        "description": "The next time you apply for a job, AI may screen your r\u00e9sum\u00e9 before any human sees it. But there\u2019s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can also develop their own bi"
+      },
+      {
+        "title": "Back to Campus? Higher Education's Great Work Debate",
+        "url": "https://er.educause.edu/podcasts/educause-rising-voices/2026/back-to-campus-higher-educations-great-work-debate",
+        "source": "EDUCAUSE Review",
+        "date": "2026-07-16",
+        "description": "This episode explains how remote, hybrid, and in-person work models are evolving in higher education and how they impact productivity and collaboration. It also highlights the difference between inclusion and genuine connection while exploring how artificial intelligence is reshaping jobs and increa"
+      },
+      {
+        "title": "AI Lays Bare the Authoritarianism of Modern Work. Time to Rethink Education",
+        "url": "https://www.techpolicy.press/ai-lays-bare-the-authoritarianism-of-modern-work-time-to-rethink-education/",
+        "source": "Hacker News",
+        "date": "2026-07-20",
+        "description": "32 points, 3 comments on Hacker News"
+      }
+    ],
+    "Higher Education Policy": [
+      {
+        "title": "Texas Colleges Directed to Slash State Budget Requests by 3%",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/07/20/texas-colleges-slash-state-budget-requests-3",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>Texas Colleges Directed to Slash State Budget Requests by 3%</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Texas State Capitol Building in Austin.\" height=\"800\" src=\"https://www.insidehighered.co"
+      },
+      {
+        "title": "How Soon Could Colleges Lose Loan Access Under New Accountability Metric?",
+        "url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/07/20/how-soon-could-colleges-lose-loan-access",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>How Soon Could Colleges Lose Loan Access Under New Accountability Metric?</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A photo illustration of a woman applying shampoo and massaging hair of a cu"
+      },
+      {
+        "title": "Breaking: US Department of Homeland Security publishes rule to end Duration of Status for international students",
+        "url": "https://monitor.icef.com/2026/07/breaking-us-department-of-homeland-security-publishes-rule-to-end-duration-of-status-for-international-students/",
+        "source": "ICEF Monitor",
+        "date": "2026-07-16",
+        "description": "<p>As expected by US international education experts, the Department of Homeland Security (DHS) has made only minor revisions to its August 2025 proposal to end Duration of Status (D/S) for F and J students and their dependants despite vigorous lobbying across scientific, business, and higher educat"
+      },
+      {
+        "title": "England: Government \u201cremains of the view\u201d that the International Student Levy should go ahead; implementation planned for August 2028",
+        "url": "https://monitor.icef.com/2026/07/england-government-remains-of-the-view-that-the-international-student-levy-should-go-ahead-implementation-planned-for-august-2028/",
+        "source": "ICEF Monitor",
         "date": "2026-07-15",
-        "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its m"
+        "description": "<p>The UK first indicated it would explore &#8220;a levy on higher education provider income from international students&#8221; in its May 2025 immigration white paper. The International Student Levy was subsequently confirmed by England&#8217;s Department of Education in September 2025, to be charg"
       },
       {
         "title": "EDUCAUSE QuickPoll Results: Instructional Continuity in the Face of Major Disruption [infographic]",
@@ -423,10 +296,116 @@
         "description": "Recent disruptions to the educational systems that support many colleges and universities have highlighted the need for institutions to develop plans for instructional continuity to safeguard the educational activities of higher education."
       },
       {
+        "title": "Tell Your Enrollment Story Before Someone Else Does",
+        "url": "https://www.insidehighered.com/opinion/views/2026/07/20/tell-your-enrollment-story-someone-else-does-opinion",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>Tell Your Enrollment Story Before Someone Else Does</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A directional campus sign says &quot;Admissions/Campus Tours.&quot;\" height=\"1125\" src=\"https://w"
+      }
+    ],
+    "Learning Science & Design": [
+      {
+        "title": "Not a universal benefit: Examining the differential effects of emotional AI on L2 pre\u2010service teachers' language learning",
+        "url": "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70078?af=R",
+        "source": "British Journal of Educational Technology",
+        "date": "2026-07-18",
+        "description": "British Journal of Educational Technology, EarlyView."
+      },
+      {
+        "title": "National Year of Reading should extend to a decade, inquiry says",
+        "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
+        "source": "The Guardian Education",
+        "date": "2026-07-16",
+        "description": "<p>The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy reading</p><p>The National Year of Reading should be extended to a National Decade of Reading, an education committee inquiry into reading for pleasure has concluded.</p>"
+      },
+      {
+        "title": "Taking the Cotton Candy Out of Your Learning Objectives",
+        "url": "https://www.insidehighered.com/opinion/career-advice/teaching/2026/07/20/creating-learning-outcomes-greater-sustenance-opinion",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>Taking the Cotton Candy Out of Your Learning Objectives</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"A hand holding a ball of pink cotton candy against a clear sky background.\" height=\"1414\" src"
+      }
+    ],
+    "Skills & Workforce Development": [
+      {
+        "title": "Driving More Students to \u2018High-Value\u2019 Programs",
+        "url": "https://www.insidehighered.com/opinion/columns/tough-love/2026/07/20/how-drive-more-students-programs-value-column",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>Driving More Students to \u2018High-Value\u2019 Programs</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Tough Love graphic, of a mortarboard and diploma above a heart\" height=\"800\" src=\"https://www.insidehi"
+      },
+      {
+        "title": "Young Men\u2019s Perceptions of Higher Ed",
+        "url": "https://www.insidehighered.com/news/quick-takes/2026/07/20/young-mens-perceptions-higher-ed",
+        "source": "Inside Higher Ed",
+        "date": "2026-07-20",
+        "description": "<span>Young Men\u2019s Perceptions of Higher Ed</span>\n\n            <div class=\"field field--name-field-featured-image field--type-entity-reference field--label-hidden field__item\">  <img alt=\"Arrows symbolizing different pathways jet out from a close-up of a student's pair of blue sneakers (concept imag"
+      },
+      {
+        "title": "Adversarial Prompting Framework for AI Safety Assessment",
+        "url": "https://arxiv.org/abs/2607.13453v1",
+        "source": "arXiv",
+        "date": "2026-07-15",
+        "description": "Artificial Intelligence (AI), especially Generative AI (GenAI), adoption has increased in industries significantly in recent years. However, the use of these models may also expose systems to new forms of cyberattacks by different malicious actors -- adversarial prompt attack (APA) being one of the "
+      }
+    ],
+    "Research & Academic Papers": [
+      {
+        "title": "\ud83d\udd2e Kimi K3 surprise & AI economics; the solar paradox; AI's right to learn, cancer vaccine & junior jobs++",
+        "url": "https://www.exponentialview.co/p/ev-593",
+        "source": "Azeem Azhar (Exponential View)",
+        "date": "2026-07-19",
+        "description": "Plus: Palantir&#8217;s power, cancer vaccines and AI on iPhones"
+      },
+      {
+        "title": "Why Microschools Are Multiplying",
+        "url": "https://www.educationnext.org/why-microschools-are-multiplying-schools-out-book-excerpt/",
+        "source": "Education Next",
+        "date": "2026-07-16",
+        "description": "<p>Boys, neurodiverse students, and entrepreneurial parents are getting big results from a small model </p>\n<p>The post <a href=\"https://www.educationnext.org/why-microschools-are-multiplying-schools-out-book-excerpt/\">Why Microschools Are Multiplying</a> appeared first on <a href=\"https://www.educa"
+      }
+    ],
+    "Industry & Competitor News": [
+      {
+        "title": "Teach For America\u2019s Rocky Road",
+        "url": "https://www.educationnext.org/teach-for-americas-rocky-road-interview-ceo-aneesh-sohoni/",
+        "source": "Education Next",
+        "date": "2026-07-20",
+        "description": "<p>New CEO assesses role organization plays in today\u2019s education landscape</p>\n<p>The post <a href=\"https://www.educationnext.org/teach-for-americas-rocky-road-interview-ceo-aneesh-sohoni/\">Teach For America\u2019s Rocky Road</a> appeared first on <a href=\"https://www.educationnext.org\">Education Next</a"
+      },
+      {
+        "title": "NotebookLM Is Now Gemini Notebook. I\u2019m Confused",
+        "url": "https://www.forbes.com/sites/danfitzpatrick/2026/07/16/notebooklm-is-now-gemini-notebook-im-confused/",
+        "source": "Dan Fitzpatrick (Forbes)",
+        "date": "2026-07-16",
+        "description": "Google bring their popular AI tool NotebookLM into alignment with the Gemini brand. Here's what it means."
+      },
+      {
+        "title": "Reimagining higher education with the Waterloo Futures Lab",
+        "url": "https://blog.google/products-and-platforms/products/education/university-of-waterloo-futures-lab/",
+        "source": "Google Education Blog",
+        "date": "2026-07-16",
+        "description": "Several alumni being interviewed"
+      },
+      {
+        "title": "Khanmigo\u2019s First Chapter Changed How I Think About AI: A note from Sal Khan",
+        "url": "https://blog.khanacademy.org/khanmigos-first-chapter-changed-how-i-think-about-ai-a-note-from-sal-khan/",
+        "source": "Khan Academy Blog",
+        "date": "2026-07-15",
+        "description": "<p>By Sal Khan, Founder and CEO of Khan Academy Setting the record straight I started Khan Academy as ... <a class=\"read-more\" href=\"https://blog.khanacademy.org/khanmigos-first-chapter-changed-how-i-think-about-ai-a-note-from-sal-khan/\" title=\"Khanmigo\u2019s First Chapter Changed How I Think About AI: "
+      },
+      {
+        "title": "Florence Welch\u2019s mother says cuts to arts and humanities \u2018absolutely tragic\u2019",
+        "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
+        "source": "The Guardian Education",
+        "date": "2026-07-15",
+        "description": "<p>Exclusive: Prof Evelyn Welch, vice-chancellor of Bristol University, believes her daughter\u2019s success shows value of arts education</p><p>One of Britain\u2019s leading university vice-chancellors has described sweeping cuts to arts and humanities across the sector as \u201cabsolutely tragic\u201d, citing her fam"
+      },
+      {
         "title": "Jul 14, 2026ProductIntroducing Claude for Teachers",
         "url": "https://www.anthropic.com/news/claude-for-teachers",
         "source": "Anthropic News",
-        "date": "2026-07-16",
+        "date": "2026-07-20",
         "description": "Latest news and announcements from Anthropic"
       }
     ]
